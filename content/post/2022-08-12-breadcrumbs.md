@@ -4,7 +4,7 @@ categories:
 - culinary creations
 - bread crumbs
 - gourmet cooking
-date: "2022-08-12T00:00:00Z"
+date: "12 August 2022"
 description: Breadcrumbs
 image: /assets/images/de3284c9-668b-401f-8597-49a86a59da72.png
 nutrients:

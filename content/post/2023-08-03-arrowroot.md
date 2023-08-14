@@ -4,7 +4,7 @@ categories:
 - cooking
 - culinary essentials
 - arrowroot powder
-date: "2023-08-03T00:00:00Z"
+date: "3 August 2023"
 description: Arrowroot powder is an underrated yet versatile and nutritious culinary
   essential, with a neutral taste, ability to thicken sauces and baked goods, and
   an interesting history.

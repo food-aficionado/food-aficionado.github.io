@@ -4,7 +4,7 @@ categories:
 - quick and convenient cooking
 - brown rice varieties
 - nutritional benefits of brown rice
-date: "2022-10-29T00:00:00Z"
+date: "29 October 2022"
 description: Instant brown rice
 image: /assets/images/299f0a97-7783-49d8-aa3f-4eb4eb76c494.png
 nutrients:

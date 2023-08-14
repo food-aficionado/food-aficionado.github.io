@@ -4,7 +4,7 @@ categories:
 - lean bonein pork chops
 - culinary delight
 - cooking methods
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Lean bone in pork chop
 image: /assets/images/6eed368c-099a-4241-ad71-ab6ac5c68fab.png
 nutrients:

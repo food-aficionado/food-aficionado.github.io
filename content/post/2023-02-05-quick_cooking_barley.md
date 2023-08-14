@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-02-05T00:00:00Z"
+date: "5 February 2023"
 description: Quick cooking barley
 image: /assets/images/5ac9cda8-7514-4c41-b012-e7ec9311de20.png
 nutrients:

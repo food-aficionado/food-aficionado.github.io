@@ -4,7 +4,7 @@ categories:
 - culinary
 - health benefits
 - history
-date: "2022-12-09T00:00:00Z"
+date: "9 December 2022"
 description: Frozen artichoke hearts
 image: /assets/images/f052dbe1-2c28-49ae-a3ce-b5cd8fe2e86a.png
 nutrients:

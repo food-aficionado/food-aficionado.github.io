@@ -4,7 +4,7 @@ categories:
 - peanut butter
 - cooking
 - nutrition
-date: "2022-08-20T00:00:00Z"
+date: "20 August 2022"
 description: Creamy peanut butter
 image: /assets/images/57b938fa-abbc-4b51-a76e-909cff4f0dc0.png
 nutrients:

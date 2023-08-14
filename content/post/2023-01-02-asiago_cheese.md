@@ -4,7 +4,7 @@ categories:
 - cheese varieties
 - cooking uses
 - nutritional value
-date: "2023-01-02T00:00:00Z"
+date: "2 January 2023"
 description: Asiago cheese is a unique Italian delight that boasts an array of flavors,
   textures, and uses and is a great source of essential vitamins and protein.
 image: /assets/images/5b7792d3-5074-4cb4-b06b-545e00efa362.png

@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cheese
 - appetizers
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Buffalo mozzarella
 image: /assets/images/8c322f4c-cf63-4e1a-b8af-5e5581c6cc6b.png
 nutrients:

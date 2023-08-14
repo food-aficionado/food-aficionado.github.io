@@ -4,7 +4,7 @@ categories:
 - wine
 - cooking
 - chardonnay
-date: "2022-10-07T00:00:00Z"
+date: "7 October 2022"
 description: Chardonnay
 image: /assets/images/47eb77d3-8ea6-4237-82e6-e04a18a6c6a6.png
 nutrients:

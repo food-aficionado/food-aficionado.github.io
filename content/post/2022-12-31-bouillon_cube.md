@@ -4,7 +4,7 @@ categories:
 - food recipes
 - nutritional benefits
 - history of stock cubes
-date: "2022-12-31T00:00:00Z"
+date: "31 December 2022"
 description: Bouillon cube
 image: /assets/images/8fbf6f7e-6f81-4c49-ad10-0d92ed06cc42.png
 nutrients:

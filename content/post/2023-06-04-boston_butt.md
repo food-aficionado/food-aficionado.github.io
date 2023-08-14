@@ -4,7 +4,7 @@ categories:
 - pork cooking
 - festivals and celebrations
 - nutritional value
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: Boston butt
 image: /assets/images/d1023359-658a-4987-9961-145e3b852359.png
 nutrients:

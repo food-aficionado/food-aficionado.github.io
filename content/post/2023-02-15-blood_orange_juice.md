@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-02-15T00:00:00Z"
+date: "15 February 2023"
 description: Blood orange juice
 image: /assets/images/c5302aa4-5d65-4820-b4be-740e7c007490.png
 nutrients:

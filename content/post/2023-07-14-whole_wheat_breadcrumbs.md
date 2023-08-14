@@ -4,7 +4,7 @@ categories:
 - whole wheat bread crumbs
 - nutrition
 - history
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Whole wheat breadcrumbs
 image: /assets/images/00fd171b-d8a0-44f9-8754-13cc78a04117.png
 nutrients:

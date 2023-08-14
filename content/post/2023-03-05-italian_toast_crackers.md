@@ -4,7 +4,7 @@ categories:
 - appetizers
 - snacks
 - italian cuisine
-date: "2023-03-05T00:00:00Z"
+date: "5 March 2023"
 description: Italian toast crackers
 image: /assets/images/9c6c4749-4867-4e9a-a8e3-68380cc79fd4.png
 nutrients:

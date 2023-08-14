@@ -4,7 +4,7 @@ categories:
 - cooking
 - italian cuisine
 - nutrition
-date: "2023-04-04T00:00:00Z"
+date: "4 April 2023"
 description: Cooked risotto rice
 image: /assets/images/e6073380-3aae-418b-b9d7-4eaa114e2f66.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - nutrition
-date: "2023-07-07T00:00:00Z"
+date: "7 July 2023"
 description: Everything bagel
 image: /assets/images/7f049a0b-51ee-41d6-ac99-92f1bbbd0696.png
 nutrients:

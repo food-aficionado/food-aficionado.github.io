@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - asian cuisine
 - glutenfree
-date: "2022-08-12T00:00:00Z"
+date: "12 August 2022"
 description: Brown rice pasta
 image: /assets/images/36e05f23-e0a4-4c1b-9b3d-3b933ef9255c.png
 nutrients:

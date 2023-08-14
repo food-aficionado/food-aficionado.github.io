@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - health
-date: "2023-01-05T00:00:00Z"
+date: "5 January 2023"
 description: Turkey bratwurst
 image: /assets/images/7160acf1-69e5-4269-a0a9-e7372fcee37b.png
 nutrients:

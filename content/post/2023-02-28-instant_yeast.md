@@ -4,7 +4,7 @@ categories:
 - relevant categories baking
 - cooking
 - food preparation
-date: "2023-02-28T00:00:00Z"
+date: "28 February 2023"
 description: Instant yeast
 image: /assets/images/1a9d7cfa-2c3c-4180-92f1-ddc94540bd85.png
 nutrients:

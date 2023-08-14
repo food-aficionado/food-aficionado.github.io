@@ -4,7 +4,7 @@ categories:
 - culinary wonders
 - herb cuisine
 - food history
-date: "2022-08-19T00:00:00Z"
+date: "19 August 2022"
 description: Fresh basil
 image: /assets/images/8c8776b5-10da-40c0-9295-587c1eca48d6.png
 nutrients:

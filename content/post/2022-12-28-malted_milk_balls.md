@@ -5,7 +5,7 @@ categories:
 - baking
 - beverages
 - treats
-date: "2022-12-28T00:00:00Z"
+date: "28 December 2022"
 description: Malted milk balls
 image: /assets/images/60b4f15a-3b19-4687-9c7f-427ce3d775bc.png
 nutrients:

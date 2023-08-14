@@ -4,7 +4,7 @@ categories:
 - cooking
 - healthy eating
 - food history
-date: "2023-03-04T00:00:00Z"
+date: "4 March 2023"
 description: The egg white is an essential ingredient in any kitchen due to its versatility
   and nutritional value, with various uses in cooking ranging from sweet treats to
   cocktail ingredients.

@@ -4,7 +4,7 @@ categories:
 - health benefits
 - recipes
 - culinary history
-date: "2022-11-22T00:00:00Z"
+date: "22 November 2022"
 description: The versatile and nutritious Jerusalem artichoke is a hidden gem in the
   culinary world, offering a unique flavor and a range of nutritional benefits.
 image: /assets/images/ec17eabe-aef7-4c31-9c55-93a16660ecd7.png

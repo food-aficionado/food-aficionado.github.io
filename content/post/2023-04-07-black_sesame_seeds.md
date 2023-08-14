@@ -4,7 +4,7 @@ categories:
 - nutrition
 - asian cuisine
 - herbal medicine
-date: "2023-04-07T00:00:00Z"
+date: "7 April 2023"
 description: Black sesame seeds
 image: /assets/images/1f5ae348-e6fd-4295-98c9-7df8e3c834e8.png
 nutrients:

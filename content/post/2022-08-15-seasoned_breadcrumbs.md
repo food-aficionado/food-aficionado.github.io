@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-08-15T00:00:00Z"
+date: "15 August 2022"
 description: Seasoned breadcrumbs
 image: /assets/images/435f9809-96e7-49e2-84f8-c722859aa56c.png
 nutrients:

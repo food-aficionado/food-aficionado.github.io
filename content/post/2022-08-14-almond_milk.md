@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased diets
 - cooking and baking
-date: "2022-08-14T00:00:00Z"
+date: "14 August 2022"
 description: Almond drink is a creamy, nutty, and nutritious alternative to traditional
   dairy milk that can be enjoyed on its own or incorporated into various recipes for
   a delightful treat.

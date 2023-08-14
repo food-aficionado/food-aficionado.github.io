@@ -4,7 +4,7 @@ categories:
 - culinary
 - health benefits
 - nutritional value
-date: "2022-11-02T00:00:00Z"
+date: "2 November 2022"
 description: Turkey broth
 image: /assets/images/6cb22441-7e10-40ac-a90e-0c7702e69350.png
 nutrients:

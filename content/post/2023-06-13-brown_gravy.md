@@ -4,7 +4,7 @@ categories:
 - culinary
 - comfort food
 - gravy
-date: "2023-06-13T00:00:00Z"
+date: "13 June 2023"
 description: Brown gravy
 image: /assets/images/a4d4e0c6-92a2-42ef-a558-43e8f70f7b68.png
 nutrients:

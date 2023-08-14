@@ -4,7 +4,7 @@ categories:
 - baking
 - recipes
 - culinary experiences
-date: "2023-05-23T00:00:00Z"
+date: "23 May 2023"
 description: Crusty bread
 image: /assets/images/30b81582-b55f-422c-b568-2f08f725852f.png
 nutrients:

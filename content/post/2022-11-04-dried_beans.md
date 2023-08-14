@@ -4,7 +4,7 @@ categories:
 - cooking with dried beans
 - versatility
 - nutritional value
-date: "2022-11-04T00:00:00Z"
+date: "4 November 2022"
 description: Dried beans
 image: /assets/images/0e0cf5de-4caf-4725-9bb2-aa2ca50679ba.png
 nutrients:

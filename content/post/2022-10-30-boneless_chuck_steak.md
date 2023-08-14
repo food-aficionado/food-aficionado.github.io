@@ -4,7 +4,7 @@ categories:
 - meat
 - nutrition
 - cooking
-date: "2022-10-30T00:00:00Z"
+date: "30 October 2022"
 description: Boneless chuck steak
 image: /assets/images/ae0d8f1c-578d-4534-888d-9c2a1113256e.png
 nutrients:

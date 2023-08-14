@@ -4,7 +4,7 @@ categories:
 - baking
 - history
 - nutrition
-date: "2023-04-25T00:00:00Z"
+date: "25 April 2023"
 description: Shortbread cookies
 image: /assets/images/fef7f982-dbf1-494d-8546-d0797b6e5dbf.png
 nutrients:

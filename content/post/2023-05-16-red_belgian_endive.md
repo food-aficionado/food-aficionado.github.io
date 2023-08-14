@@ -4,7 +4,7 @@ categories:
 - vegetables
 - cooking
 - nutrition
-date: "2023-05-16T00:00:00Z"
+date: "16 May 2023"
 description: Red belgian endive
 image: /assets/images/3bc2d3e6-ce9f-4263-b2a7-73945a873f73.png
 nutrients:

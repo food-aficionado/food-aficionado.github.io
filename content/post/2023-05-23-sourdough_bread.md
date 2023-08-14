@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-05-23T00:00:00Z"
+date: "23 May 2023"
 description: Sourdough bread
 image: /assets/images/d5ec625c-eb4f-4072-842a-3b9c8ecb991d.png
 nutrients:

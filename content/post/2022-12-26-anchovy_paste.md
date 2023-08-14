@@ -4,7 +4,7 @@ categories:
 - cuisine
 - techniques
 - history
-date: "2022-12-26T00:00:00Z"
+date: "26 December 2022"
 description: Anchovy paste is a versatile and nutrient-packed condiment that lends
   an intense umami flavoring to dishes from Italian to Asian cuisine.
 image: /assets/images/c6ce0ea3-63f2-41d3-9e4e-3b1adccbd5fc.png

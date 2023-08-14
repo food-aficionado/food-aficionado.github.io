@@ -4,7 +4,7 @@ categories:
 - cooking
 - healthy eating
 - history
-date: "2023-02-01T00:00:00Z"
+date: "1 February 2023"
 description: Bone in chicken breast halves
 image: /assets/images/8637a615-0654-45e5-9e8f-453d54ce35d3.png
 nutrients:

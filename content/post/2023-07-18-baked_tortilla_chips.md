@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - mexicantexmex cuisine
-date: "2023-07-18T00:00:00Z"
+date: "18 July 2023"
 description: Baked tortilla chips
 image: /assets/images/2124001b-e333-418a-b34f-87db57b81331.png
 nutrients:

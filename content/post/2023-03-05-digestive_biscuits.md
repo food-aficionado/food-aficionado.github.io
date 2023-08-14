@@ -4,7 +4,7 @@ categories:
 - food  recipes
 - history
 - nutrition
-date: "2023-03-05T00:00:00Z"
+date: "5 March 2023"
 description: Digestive biscuits
 image: /assets/images/e06b1909-1f7e-45f8-95f8-a51a720e8788.png
 nutrients:

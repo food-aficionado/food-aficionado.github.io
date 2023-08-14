@@ -4,7 +4,7 @@ categories:
 - baking
 - nutrition
 - history
-date: "2022-12-07T00:00:00Z"
+date: "7 December 2022"
 description: Brioche bun
 image: /assets/images/4c6643b6-1065-45c1-87a9-0b55d4c9377e.png
 nutrients:

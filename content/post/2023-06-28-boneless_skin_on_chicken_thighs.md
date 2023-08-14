@@ -4,7 +4,7 @@ categories:
 - chicken recipes
 - nutritional value
 - meal preparation
-date: "2023-06-28T00:00:00Z"
+date: "28 June 2023"
 description: Boneless skin on chicken thighs
 image: /assets/images/86226f12-9f90-4dcf-a7c0-d135e1a77165.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - fruits
 - cooking
 - nutrition
-date: "2022-09-15T00:00:00Z"
+date: "15 September 2022"
 description: Cantaloupe balls
 image: /assets/images/b86c486b-70d7-44e2-b3f5-8de627abeb0e.png
 nutrients:

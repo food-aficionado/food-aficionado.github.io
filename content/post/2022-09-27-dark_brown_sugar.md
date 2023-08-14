@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - sweet treats
-date: "2022-09-27T00:00:00Z"
+date: "27 September 2022"
 description: Dark brown sugar
 image: /assets/images/9bc7b5ae-9e4f-4576-9979-4a11be392d2f.png
 nutrients:

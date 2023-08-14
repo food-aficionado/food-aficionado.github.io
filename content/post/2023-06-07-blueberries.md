@@ -4,7 +4,7 @@ categories:
 - fruit
 - superfoods
 - cooking
-date: "2023-06-07T00:00:00Z"
+date: "7 June 2023"
 description: Blueberries
 image: /assets/images/6870f5b0-0567-4137-b310-873d9c45a86c.png
 nutrients:

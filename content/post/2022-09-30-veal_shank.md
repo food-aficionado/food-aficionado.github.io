@@ -4,7 +4,7 @@ categories:
 - culinary
 - italian cuisine
 - nutrition
-date: "2022-09-30T00:00:00Z"
+date: "30 September 2022"
 description: Veal shank
 image: /assets/images/a8cae302-c6b1-4320-a865-ce83f53f958c.png
 nutrients:

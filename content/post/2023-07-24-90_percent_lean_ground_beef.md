@@ -6,7 +6,7 @@ categories:
 - culinary uses
 - nutritional value
 - interesting facts
-date: "2023-07-24T00:00:00Z"
+date: "24 July 2023"
 description: 90 percent lean ground beef
 image: /assets/images/11ff40f7-c315-41c0-8d3d-87a0d98cad51.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - fruits
 - tropical delicacies
 - healthy eating
-date: "2023-07-27T00:00:00Z"
+date: "27 July 2023"
 description: The star apple is an exotic tropical fruit with a unique texture, flavor,
   and appearance that is sure to tantalize the taste buds and elevate any culinary
   adventure.

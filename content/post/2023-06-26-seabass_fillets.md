@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-06-26T00:00:00Z"
+date: "26 June 2023"
 description: Seabass fillets
 image: /assets/images/1c718e6b-d6de-412f-9f7f-1a99017d7397.png
 nutrients:

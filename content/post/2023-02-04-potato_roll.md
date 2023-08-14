@@ -4,7 +4,7 @@ categories:
 - breads
 - baking
 - nutrition
-date: "2023-02-04T00:00:00Z"
+date: "4 February 2023"
 description: Potato roll
 image: /assets/images/4f73a8ab-9b6b-4c57-bbd5-e2bdbd1e7b79.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy cooking
 - nutritional eating
 - turkey bacon
-date: "2023-02-07T00:00:00Z"
+date: "7 February 2023"
 description: Turkey bacon
 image: /assets/images/776fc63a-cc42-4e3b-be03-efb37f3f3a51.png
 nutrients:

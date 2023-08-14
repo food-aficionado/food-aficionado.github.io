@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - buffalo
-date: "2022-10-05T00:00:00Z"
+date: "5 October 2022"
 description: Bison ribeye
 image: /assets/images/8f7a66f5-d0a8-4187-be9a-c68849b677c7.png
 nutrients:

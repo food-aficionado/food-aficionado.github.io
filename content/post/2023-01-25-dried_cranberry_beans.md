@@ -4,7 +4,7 @@ categories:
 - dried cranberry beans
 - culinary traditions
 - nutritional benefits
-date: "2023-01-25T00:00:00Z"
+date: "25 January 2023"
 description: Dried cranberry beans
 image: /assets/images/0af49007-b43e-429a-b01f-72b89f0399c5.png
 nutrients:

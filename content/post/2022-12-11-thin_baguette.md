@@ -4,7 +4,7 @@ categories:
 - baguettes
 - cooking
 - nutrition
-date: "2022-12-11T00:00:00Z"
+date: "11 December 2022"
 description: Thin baguette
 image: /assets/images/415ccd28-d15c-422c-b9ff-c767e2418db4.png
 nutrients:

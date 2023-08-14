@@ -4,7 +4,7 @@ categories:
 - american cuisine
 - multiple cooking methods
 - nutritional aspects
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Beef franks
 image: /assets/images/15905580-47db-4182-aa56-3990f2e5704f.png
 nutrients:

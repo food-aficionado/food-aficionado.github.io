@@ -4,7 +4,7 @@ categories:
 - fruit
 - southeast asian cuisine
 - health benefits
-date: "2022-12-27T00:00:00Z"
+date: "27 December 2022"
 description: Banana blossoms
 image: /assets/images/d8f36c5c-98be-4e30-90cc-93fefed32df4.png
 nutrients:

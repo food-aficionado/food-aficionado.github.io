@@ -4,7 +4,7 @@ categories:
 - culinary applications
 - health benefits
 - historical uses
-date: "2023-02-07T00:00:00Z"
+date: "7 February 2023"
 description: Canned great northern beans
 image: /assets/images/b74dede6-ecfc-4d2a-9618-0faa55693d5a.png
 nutrients:

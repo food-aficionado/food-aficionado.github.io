@@ -4,7 +4,7 @@ categories:
 - peanut butter
 - cookies
 - baking
-date: "2023-05-02T00:00:00Z"
+date: "2 May 2023"
 description: Peanut butter cookie mix
 image: /assets/images/b4ca7635-4d62-48c5-aec3-13a550dbf68f.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - sweets  treats
 - baking  desserts
 - history  food culture
-date: "2023-05-16T00:00:00Z"
+date: "16 May 2023"
 description: Butter cake mix is a classic treat with a rich history, delicious taste,
   and versatile uses that are sure to inspire creative bakers of any skill level.
 image: /assets/images/f9717a11-fedf-4773-823d-2db58bf2d001.png

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking  recipes
 - nutrition
-date: "2022-12-20T00:00:00Z"
+date: "20 December 2022"
 description: Turkey tenderloin
 image: /assets/images/67fd5642-d953-45ef-a104-5dbad0f5b738.png
 nutrients:

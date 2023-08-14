@@ -4,7 +4,7 @@ categories:
 - bbq
 - grilling
 - cooking recipes
-date: "2023-04-16T00:00:00Z"
+date: "16 April 2023"
 description: Baby back ribs
 image: /assets/images/cdecc10c-db3e-46ae-be49-ea9499a315a8.png
 nutrients:

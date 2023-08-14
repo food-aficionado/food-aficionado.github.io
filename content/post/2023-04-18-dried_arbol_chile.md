@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - herbs  spices
 - nutritional benefits
-date: "2023-04-18T00:00:00Z"
+date: "18 April 2023"
 description: Dried chile de arbol is a necessary pantry addition for those looking
   to add fiery flavor and smokiness to their dishes, as it has been a staple in Mexican
   cuisine for centuries.

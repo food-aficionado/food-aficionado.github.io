@@ -4,7 +4,7 @@ categories:
 - food
 - cooking
 - nutrition
-date: "2022-09-15T00:00:00Z"
+date: "15 September 2022"
 description: Banana pepper
 image: /assets/images/b75fa972-debe-4e28-a892-1ae3d8eafca2.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutrition
 - cultural significance
-date: "2023-03-25T00:00:00Z"
+date: "25 March 2023"
 description: Achiote seeds are a staple ingredient in many traditional Latin American
   and Caribbean recipes and are known for their vibrant reddish-orange color, nutty
   flavor, and unique aroma, as well as their nutritional value.

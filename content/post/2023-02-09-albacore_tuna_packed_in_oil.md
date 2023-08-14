@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutritional value
-date: "2023-02-09T00:00:00Z"
+date: "9 February 2023"
 description: Oil-packed albacore tuna is a delectable, versatile, and nutritional
   ingredient that can add a delicious touch to any meal.
 image: /assets/images/61a4b8e0-963d-4e27-95c7-490f63ff6364.png

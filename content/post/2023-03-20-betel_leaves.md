@@ -4,7 +4,7 @@ categories:
 - betel leaf
 - flavorful cuisine
 - nutritional benefits
-date: "2023-03-20T00:00:00Z"
+date: "20 March 2023"
 description: Betel leaves
 image: /assets/images/8ad42e8c-e3de-44b7-af71-20114ab069c3.png
 nutrients:

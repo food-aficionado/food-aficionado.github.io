@@ -4,7 +4,7 @@ categories:
 - root vegetables
 - culinary uses
 - health benefits
-date: "2023-01-14T00:00:00Z"
+date: "14 January 2023"
 description: Waxy potato
 image: /assets/images/c1a391f9-35ba-4872-8261-e9f014fec16a.png
 nutrients:

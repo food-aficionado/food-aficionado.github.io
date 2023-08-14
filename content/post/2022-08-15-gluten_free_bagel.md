@@ -4,7 +4,7 @@ categories:
 - glutenfree diet
 - cooking
 - history
-date: "2022-08-15T00:00:00Z"
+date: "15 August 2022"
 description: Gluten free bagel
 image: /assets/images/f6ac2cc1-d20d-45a1-89ad-a32cf7e4597b.png
 nutrients:

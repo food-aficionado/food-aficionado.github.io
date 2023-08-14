@@ -4,7 +4,7 @@ categories:
 - food
 - nutrition
 - culinary history
-date: "2023-02-14T00:00:00Z"
+date: "14 February 2023"
 description: Barley flakes
 image: /assets/images/ea5e00bc-9db0-427a-b24e-f62123a6dc80.png
 nutrients:

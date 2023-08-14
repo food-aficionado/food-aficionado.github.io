@@ -4,7 +4,7 @@ categories:
 - pasta dishes
 - italian cuisine
 - nutritional benefits
-date: "2023-07-29T00:00:00Z"
+date: "29 July 2023"
 description: Cooked jumbo pasta shells
 image: /assets/images/ee5e1007-8ff9-480b-a484-a4ac9ee02527.png
 nutrients:

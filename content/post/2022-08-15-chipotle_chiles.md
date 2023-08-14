@@ -4,7 +4,7 @@ categories:
 - cuisine
 - spices
 - nutrition
-date: "2022-08-15T00:00:00Z"
+date: "15 August 2022"
 description: Chipotle chiles
 image: /assets/images/fe215a19-0b92-45c6-a064-7d0448fc2bd0.png
 nutrients:

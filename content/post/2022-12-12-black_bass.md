@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2022-12-12T00:00:00Z"
+date: "12 December 2022"
 description: Black bass
 image: /assets/images/19194769-bd4e-4903-9f49-97d320bee01a.png
 nutrients:

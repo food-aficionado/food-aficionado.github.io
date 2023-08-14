@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - alfredo pasta sauce
 - nutritional value
-date: "2022-09-25T00:00:00Z"
+date: "25 September 2022"
 description: Alfredo pasta sauce is a rich, velvety delight known for its buttery
   taste and creamy texture, and has an interesting history dating back to early 20th
   century Italy.

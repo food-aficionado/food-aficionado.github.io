@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - history
-date: "2022-10-16T00:00:00Z"
+date: "16 October 2022"
 description: Low sodium beef broth
 image: /assets/images/5e4bb944-7b14-4694-8cdc-24e5aee82ed0.png
 nutrients:

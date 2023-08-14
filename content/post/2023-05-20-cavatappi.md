@@ -4,7 +4,7 @@ categories:
 - pasta
 - cooking
 - nutrition
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Cavatappi
 image: /assets/images/cc3c764b-66b9-465f-acbd-af53928f6a40.png
 nutrients:

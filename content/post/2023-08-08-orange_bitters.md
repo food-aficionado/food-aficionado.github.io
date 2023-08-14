@@ -4,7 +4,7 @@ categories:
 - culinary techniques
 - drinks and cocktails
 - orange bitters
-date: "2023-08-08T00:00:00Z"
+date: "8 August 2023"
 description: Orange bitters
 image: /assets/images/9810ddc1-dd6d-4452-a6e7-36f417290ce1.png
 nutrients:

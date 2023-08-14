@@ -4,7 +4,7 @@ categories:
 - cooking
 - alcoholic beverages
 - nutrition
-date: "2023-01-18T00:00:00Z"
+date: "18 January 2023"
 description: Lillet blanc
 image: /assets/images/fb06eed5-ee6a-4e35-a4ec-df3c00026fd4.png
 nutrients:

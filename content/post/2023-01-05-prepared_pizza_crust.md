@@ -4,7 +4,7 @@ categories:
 - pizza
 - cooking
 - nutrition
-date: "2023-01-05T00:00:00Z"
+date: "5 January 2023"
 description: Prepared pizza crust
 image: /assets/images/b59aecd6-3bd8-494b-9ae5-e6270daa92a6.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - seafood
 - nutrition
 - history
-date: "2023-05-02T00:00:00Z"
+date: "2 May 2023"
 description: Canned albacore tuna has a delicate, sweet flavor that lends itself to
   a variety of dishes, as well as a nutritional profile that boasts a range of health
   benefits, making it an ideal pantry staple.

@@ -4,7 +4,7 @@ categories:
 - ground beef
 - nutrition
 - cooking uses
-date: "2022-12-10T00:00:00Z"
+date: "10 December 2022"
 description: 85 percent lean ground beef
 image: /assets/images/5c6e3cb5-b081-4ce6-872b-f899b0ed91ef.png
 nutrients:

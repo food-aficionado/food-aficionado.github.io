@@ -4,7 +4,7 @@ categories:
 - culinary
 - pork broth
 - health benefits
-date: "2023-08-10T00:00:00Z"
+date: "10 August 2023"
 description: Pork broth
 image: /assets/images/2ba3cbf2-9743-44f4-ac41-815ed0f14861.png
 nutrients:

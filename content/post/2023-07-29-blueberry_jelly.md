@@ -4,7 +4,7 @@ categories:
 - 1 cooking
 - 2health benefits
 - 3history
-date: "2023-07-29T00:00:00Z"
+date: "29 July 2023"
 description: Blueberry jelly
 image: /assets/images/d1bdeebf-29b8-4f21-981d-772dfea4565a.png
 nutrients:

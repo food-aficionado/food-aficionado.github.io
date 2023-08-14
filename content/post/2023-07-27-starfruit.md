@@ -4,7 +4,7 @@ categories:
 - fruits
 - health benefits
 - cooking uses
-date: "2023-07-27T00:00:00Z"
+date: "27 July 2023"
 description: Starfruit
 image: /assets/images/9be61b1e-95c5-4010-a778-83e080098161.png
 nutrients:

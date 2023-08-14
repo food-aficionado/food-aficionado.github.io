@@ -4,7 +4,7 @@ categories:
 - cooking with coconut milk
 - nutritional benefits
 - historical significance
-date: "2023-05-13T00:00:00Z"
+date: "13 May 2023"
 description: Coconut milk beverage
 image: /assets/images/9b613433-9fe6-4c1e-9f0c-783ea951b1c1.png
 nutrients:

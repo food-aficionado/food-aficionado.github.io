@@ -4,7 +4,7 @@ categories:
 - cocktails
 - desserts
 - cooking
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Amaretto is an Italian liqueur with a distinct almond flavor that can
   be used to enhance desserts and savory dishes alike.
 image: /assets/images/0e2a2936-49a2-4a66-abaf-b84089fa9df8.png

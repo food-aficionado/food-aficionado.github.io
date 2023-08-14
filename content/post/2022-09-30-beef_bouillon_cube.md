@@ -4,7 +4,7 @@ categories:
 - cooking
 - flavor profiles
 - nutritional value
-date: "2022-09-30T00:00:00Z"
+date: "30 September 2022"
 description: Beef bouillon cube
 image: /assets/images/a1da1a47-5e58-453b-b9b3-43314d18540a.png
 nutrients:

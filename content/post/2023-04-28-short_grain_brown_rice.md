@@ -4,7 +4,7 @@ categories:
 - nutrition
 - cooking
 - history
-date: "2023-04-28T00:00:00Z"
+date: "28 April 2023"
 description: Short grain brown rice
 image: /assets/images/48fb00ea-e09b-45ec-92c5-b05e09250d4b.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - steak
 - cooking
 - nutrition
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Top blade steak
 image: /assets/images/c9e5724e-9da3-4dea-b11f-79d7808e16a2.png
 nutrients:

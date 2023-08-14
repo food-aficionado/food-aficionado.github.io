@@ -4,7 +4,7 @@ categories:
 - breadfruit
 - cooking
 - nutrition
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Breadfruit
 image: /assets/images/d0ad78d6-e6a3-4df8-b7aa-562850779def.png
 nutrients:

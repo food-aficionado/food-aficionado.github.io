@@ -4,7 +4,7 @@ categories:
 - desserts
 - sweets
 - nutritional value
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Toffee bar candy
 image: /assets/images/7625932b-fb60-47ab-96a9-b5245b2b6603.png
 nutrients:

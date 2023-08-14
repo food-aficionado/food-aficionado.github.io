@@ -4,7 +4,7 @@ categories:
 - legumes
 - garbanzo beans
 - plantbased cooking
-date: "2022-09-15T00:00:00Z"
+date: "15 September 2022"
 description: Canned chickpeas
 image: /assets/images/99cdaa29-9dca-4b14-b7fa-291e1edbfe16.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary
 - health benefits
 - history
-date: "2023-03-20T00:00:00Z"
+date: "20 March 2023"
 description: The humble green olive offers a distinctive flavor profile and is a staple
   in countless recipes around the world, boasting robust flavor and many nutritional
   benefits.

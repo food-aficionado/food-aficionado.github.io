@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-06-15T00:00:00Z"
+date: "15 June 2023"
 description: Powdered peanut butter
 image: /assets/images/26d5db62-1ee5-4e1c-a18e-bd75ff897368.png
 nutrients:

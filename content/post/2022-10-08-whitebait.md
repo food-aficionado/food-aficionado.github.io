@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking methods
 - nutrition
-date: "2022-10-08T00:00:00Z"
+date: "8 October 2022"
 description: Whitebait
 image: /assets/images/91800403-443c-490c-aa5c-d4f9a6616cf6.png
 nutrients:

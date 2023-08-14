@@ -4,7 +4,7 @@ categories:
 - apple cider
 - fall beverages
 - culinary uses
-date: "2022-12-17T00:00:00Z"
+date: "17 December 2022"
 description: Apple cider is a beloved seasonal beverage adored for its unique flavors,
   aroma, versatility in recipes, and nutritional value, with a deep-rooted history
   stretching back centuries.

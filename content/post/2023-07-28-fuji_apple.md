@@ -4,7 +4,7 @@ categories:
 - food
 - cooking
 - nutrition
-date: "2023-07-28T00:00:00Z"
+date: "28 July 2023"
 description: The Fuji apple is a beloved fruit around the world for its enticing flavor
   profile, versatile nature, and rich nutritional content.
 image: /assets/images/2d2011e9-a289-4562-b05b-dfaf5f5062bf.png

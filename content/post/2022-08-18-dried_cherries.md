@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - nutrition
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Dried cherries
 image: /assets/images/95b32fc0-5095-4881-bd66-3077d005c9d8.png
 nutrients:

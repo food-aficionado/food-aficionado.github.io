@@ -4,7 +4,7 @@ categories:
 - relevant categories chicken
 - recipes
 - nutrition
-date: "2023-02-28T00:00:00Z"
+date: "28 February 2023"
 description: Chicken pieces
 image: /assets/images/bb0c39b7-158d-4bdc-93e7-859d5668cd22.png
 nutrients:

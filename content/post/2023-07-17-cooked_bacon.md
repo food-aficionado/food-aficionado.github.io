@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - breakfast recipes
 - bacon recipes
-date: "2023-07-17T00:00:00Z"
+date: "17 July 2023"
 description: Cooked bacon
 image: /assets/images/20d71f89-e362-4d2c-a82f-efcaacfbab8c.png
 nutrients:

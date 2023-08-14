@@ -4,7 +4,7 @@ categories:
 - cooking
 - flavor
 - nutrition
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: The incredible combination of peppers and onions create a symphony of
   flavour, versatility, and numerous health benefits that elevate any dish.
 image: /assets/images/cc5ed537-6863-4d1a-87fe-faccd71d8e9b.png

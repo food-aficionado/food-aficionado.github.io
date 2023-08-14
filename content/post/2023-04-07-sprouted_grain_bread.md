@@ -4,7 +4,7 @@ categories:
 - sprouted grains
 - taste and flavor
 - health and nutrition
-date: "2023-04-07T00:00:00Z"
+date: "7 April 2023"
 description: Sprouted grain bread
 image: /assets/images/d150a5af-bebc-493f-9736-e4e441aa9a7e.png
 nutrients:

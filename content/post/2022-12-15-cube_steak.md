@@ -4,7 +4,7 @@ categories:
 - cube steaks
 - cooking
 - nutrition
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Cube steak
 image: /assets/images/67b97398-828a-43db-a1ab-ec7935983e5e.png
 nutrients:

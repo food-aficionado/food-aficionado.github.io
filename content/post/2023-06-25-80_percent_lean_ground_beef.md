@@ -4,7 +4,7 @@ categories:
 - ground beef
 - cooking
 - nutrition
-date: "2023-06-25T00:00:00Z"
+date: "25 June 2023"
 description: 80 percent lean ground beef
 image: /assets/images/8e0b1892-cac7-4ce5-a558-128ab9f0efb7.png
 nutrients:

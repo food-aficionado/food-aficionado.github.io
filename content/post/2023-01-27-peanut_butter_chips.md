@@ -4,7 +4,7 @@ categories:
 - foods
 - cooking
 - nutrition
-date: "2023-01-27T00:00:00Z"
+date: "27 January 2023"
 description: Peanut butter chips
 image: /assets/images/1f51b3cf-4180-42fb-9795-f2b2a2db26ad.png
 nutrients:

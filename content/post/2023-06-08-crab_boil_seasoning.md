@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-06-08T00:00:00Z"
+date: "8 June 2023"
 description: Crab boil seasoning
 image: /assets/images/5b251e57-68bc-449c-b5b8-c9cd9328c140.png
 nutrients:

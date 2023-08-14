@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - cheese varieties
 - nutritional benefits
-date: "2022-11-16T00:00:00Z"
+date: "16 November 2022"
 description: Añejo cheese is an aged cheese from Mexico with a rich and tangy flavor
   and versatile uses in culinary creations, as well as various nutritional benefits
   and a long cultural history.

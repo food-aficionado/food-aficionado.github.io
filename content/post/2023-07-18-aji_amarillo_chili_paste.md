@@ -4,7 +4,7 @@ categories:
 - peruvian cuisine
 - chilies and peppers
 - spicy foods
-date: "2023-07-18T00:00:00Z"
+date: "18 July 2023"
 description: Aji Amarillo chile paste is a Peruvian staple with medium to hot spice
   level, a delightful fruity flavor, and a variety of uses in cooking as well as health
   benefits.

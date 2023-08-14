@@ -4,7 +4,7 @@ categories:
 - culinary experiences
 - plantbased living
 - nutrition
-date: "2023-03-16T00:00:00Z"
+date: "16 March 2023"
 description: 'Summary: Discover sumptuous and sustainable alternatives to traditional
   caviar that offer unique flavor profiles and considerable nutritional benefits without
   breaking the bank.'

@@ -4,7 +4,7 @@ categories:
 - cheese
 - bleu cheese
 - culinary creativity
-date: "2023-05-03T00:00:00Z"
+date: "3 May 2023"
 description: Blue cheese crumbles
 image: /assets/images/63e0b2aa-3c38-4b41-bc60-521a4318dcd2.png
 nutrients:

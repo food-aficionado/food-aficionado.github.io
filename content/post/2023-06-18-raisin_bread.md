@@ -4,7 +4,7 @@ categories:
 - baking
 - comfort foods
 - health benefits
-date: "2023-06-18T00:00:00Z"
+date: "18 June 2023"
 description: Raisin bread
 image: /assets/images/bf72a43e-7feb-4b97-874b-b0b2b5ca8562.png
 nutrients:

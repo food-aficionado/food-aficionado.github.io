@@ -4,7 +4,7 @@ categories:
 - nutrition
 - cooking
 - history
-date: "2023-01-26T00:00:00Z"
+date: "26 January 2023"
 description: Cacao powder
 image: /assets/images/c04ec37d-0fcb-4fc4-a6cd-d3e88958cc18.png
 nutrients:

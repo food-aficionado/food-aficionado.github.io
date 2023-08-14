@@ -4,7 +4,7 @@ categories:
 - pickled beets
 - flavor
 - nutritional benefits
-date: "2022-08-27T00:00:00Z"
+date: "27 August 2022"
 description: Pickled beets
 image: /assets/images/a04f257c-c239-4d14-93ff-b92906ab7214.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-05-17T00:00:00Z"
+date: "17 May 2023"
 description: Garlic scapes
 image: /assets/images/f2c72a22-3b3b-47c9-9a6b-31880a881c9e.png
 nutrients:

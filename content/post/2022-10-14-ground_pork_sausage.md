@@ -4,7 +4,7 @@ categories:
 - culinary
 - ground sausage
 - uses in cooking
-date: "2022-10-14T00:00:00Z"
+date: "14 October 2022"
 description: Ground pork sausage
 image: /assets/images/6c8e4260-59e8-4cdc-9529-01835810fb2a.png
 nutrients:

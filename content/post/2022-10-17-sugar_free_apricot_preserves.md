@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking with apricots
 - nutritional benefits
-date: "2022-10-17T00:00:00Z"
+date: "17 October 2022"
 description: Sugar-free apricot preserves offer a delicious and nutritious alternative
   to traditional sweet spreads, providing a healthy and flavorful way to enjoy the
   natural goodness of apricots.

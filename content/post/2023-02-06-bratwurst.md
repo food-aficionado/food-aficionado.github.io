@@ -4,7 +4,7 @@ categories:
 - bratwurst
 - german cuisine
 - cooking with bratwurst
-date: "2023-02-06T00:00:00Z"
+date: "6 February 2023"
 description: Bratwurst
 image: /assets/images/ae770899-6fcd-48e7-9e87-1e3acca7ad44.png
 nutrients:

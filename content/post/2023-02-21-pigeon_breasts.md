@@ -4,7 +4,7 @@ categories:
 - culinary exploration
 - gourmet cooking
 - pigeon breast
-date: "2023-02-21T00:00:00Z"
+date: "21 February 2023"
 description: Pigeon breasts
 image: /assets/images/c79569bc-fd03-4cb8-bd5d-901052f37adb.png
 nutrients:

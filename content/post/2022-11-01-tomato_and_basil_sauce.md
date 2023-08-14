@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking
 - nutrition
-date: "2022-11-01T00:00:00Z"
+date: "1 November 2022"
 description: Tomato and basil sauce is a classic and versatile condiment, popular
   in Italian cuisine for its delicious taste and nutritional benefits.
 image: /assets/images/72cc58e2-c26a-45ca-b3a8-09455df7d0ec.png

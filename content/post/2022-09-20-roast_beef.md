@@ -4,7 +4,7 @@ categories:
 - roast beef
 - culinary delight
 - recipes
-date: "2022-09-20T00:00:00Z"
+date: "20 September 2022"
 description: Roast beef
 image: /assets/images/07bfbaa0-fc91-47a2-b525-ee264feca1b4.png
 nutrients:

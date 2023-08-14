@@ -4,7 +4,7 @@ categories:
 - bread
 - flat bread
 - world cuisines
-date: "2022-11-24T00:00:00Z"
+date: "24 November 2022"
 description: Flatbread
 image: /assets/images/6785b5f7-8854-4e91-967d-bdaedf56a026.png
 nutrients:

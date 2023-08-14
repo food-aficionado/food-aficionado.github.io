@@ -4,7 +4,7 @@ categories:
 - desserts
 - baking
 - nutrition
-date: "2022-12-03T00:00:00Z"
+date: "3 December 2022"
 description: Miniature peanut butter cups
 image: /assets/images/7d558844-e60c-4813-8f57-5beb6c0d07b7.png
 nutrients:

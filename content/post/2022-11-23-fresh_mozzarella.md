@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - mozzarella cheese
 - nutrition
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Fresh mozzarella
 image: /assets/images/a8f5b6aa-67dc-406d-80d8-539594efcdd9.png
 nutrients:

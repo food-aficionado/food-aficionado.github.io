@@ -4,7 +4,7 @@ categories:
 - fruits
 - cooking
 - nutrition
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Bilimbi fruit
 image: /assets/images/bed989ad-9425-4694-b218-f98bdf21a4db.png
 nutrients:

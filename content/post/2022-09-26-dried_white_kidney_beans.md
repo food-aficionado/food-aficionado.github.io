@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutrition
 - history
-date: "2022-09-26T00:00:00Z"
+date: "26 September 2022"
 description: Dried white kidney beans
 image: /assets/images/fc842af3-0276-4237-9ff8-80cb98415978.png
 nutrients:

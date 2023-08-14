@@ -4,7 +4,7 @@ categories:
 - 1 breakfast recipes
 - 2 dessert recipes
 - 3 cooking with cinnamon
-date: "2022-10-24T00:00:00Z"
+date: "24 October 2022"
 description: Cinnamon sugar butter
 image: /assets/images/14de49ee-4abc-43c6-a354-c4ebb33bd60f.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-02-12T00:00:00Z"
+date: "12 February 2023"
 description: Whipped butter
 image: /assets/images/e69a1d6f-4b0f-43c1-b883-e09d2de1f169.png
 nutrients:

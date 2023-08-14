@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-04-05T00:00:00Z"
+date: "5 April 2023"
 description: Dried kidney beans
 image: /assets/images/a95ada87-aa95-4eda-8120-36bc38b61979.png
 nutrients:

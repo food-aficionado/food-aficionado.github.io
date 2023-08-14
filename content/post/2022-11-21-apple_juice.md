@@ -4,7 +4,7 @@ categories:
 - apple juice
 - cooking
 - nutrition
-date: "2022-11-21T00:00:00Z"
+date: "21 November 2022"
 description: Apple juice is a versatile and nutritious beverage that can be used in
   a variety of dishes, from marinades and glazes to cocktails and mocktails, and offers
   notable nutritional benefits.

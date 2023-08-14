@@ -4,7 +4,7 @@ categories:
 - desserts
 - butterscotch
 - cooking
-date: "2023-01-04T00:00:00Z"
+date: "4 January 2023"
 description: Butterscotch pudding
 image: /assets/images/5af4511f-13b0-4ee1-a3fc-11d7a3fd2b38.png
 nutrients:

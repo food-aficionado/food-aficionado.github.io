@@ -4,7 +4,7 @@ categories:
 - french cuisine
 - vegetables
 - cooking techniques
-date: "2022-08-30T00:00:00Z"
+date: "30 August 2022"
 description: Haricots verts
 image: /assets/images/d9e7f094-15a2-4d5f-8de0-b80364cfa0a3.png
 nutrients:

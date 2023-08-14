@@ -4,7 +4,7 @@ categories:
 - relevant categories lamb bones
 - middle eastern cuisine
 - food history
-date: "2022-11-08T00:00:00Z"
+date: "8 November 2022"
 description: Lamb bones
 image: /assets/images/cd861922-e7cc-4e79-acf9-b806aef2b26a.png
 nutrients:

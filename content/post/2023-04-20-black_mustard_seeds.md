@@ -4,7 +4,7 @@ categories:
 - spices  herbs
 - german cuisine
 - indian cuisine
-date: "2023-04-20T00:00:00Z"
+date: "20 April 2023"
 description: Black mustard seeds
 image: /assets/images/48865fbb-9fa6-429a-95e5-ff30bfca133f.png
 nutrients:

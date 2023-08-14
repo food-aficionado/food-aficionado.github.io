@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history and culture
-date: "2023-05-19T00:00:00Z"
+date: "19 May 2023"
 description: Artichoke heart quarters have a unique and subtle flavor that can elevate
   any dish and are also a good source of essential vitamins and minerals, dating back
   to ancient times.

@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - plantbased diet
 - global cuisine
-date: "2023-01-04T00:00:00Z"
+date: "4 January 2023"
 description: Cooked grain blend
 image: /assets/images/8bd08731-5894-44fb-b1a5-ae614a8180d1.png
 nutrients:

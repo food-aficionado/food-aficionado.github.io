@@ -4,7 +4,7 @@ categories:
 - health benefits of lima beans
 - delicious recipes with lima beans
 - history of lima beans
-date: "2022-11-30T00:00:00Z"
+date: "30 November 2022"
 description: Lima beans
 image: /assets/images/ef35446e-55bc-4490-a125-ff64e93cc280.png
 nutrients:

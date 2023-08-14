@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-03-27T00:00:00Z"
+date: "27 March 2023"
 description: Corn syrup
 image: /assets/images/1018029e-ff74-4d99-92d4-68445e56f9c7.png
 nutrients:

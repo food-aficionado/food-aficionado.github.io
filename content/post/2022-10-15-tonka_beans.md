@@ -4,7 +4,7 @@ categories:
 - foods
 - recipes
 - cooking tips
-date: "2022-10-15T00:00:00Z"
+date: "15 October 2022"
 description: Tonka beans
 image: /assets/images/92d8673c-b155-4a42-bf31-ea48a156a7b8.png
 nutrients:

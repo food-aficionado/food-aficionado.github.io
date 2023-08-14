@@ -4,7 +4,7 @@ categories:
 - chocolate  peanut butter
 - culinary uses
 - healthy eating
-date: "2022-12-07T00:00:00Z"
+date: "7 December 2022"
 description: Powdered peanut butter with chocolate
 image: /assets/images/abdbdc19-b581-42c7-af70-9e835a90a0ba.png
 nutrients:

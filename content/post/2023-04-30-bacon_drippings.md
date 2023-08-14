@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - nutritional value
-date: "2023-04-30T00:00:00Z"
+date: "30 April 2023"
 description: Bacon drippings
 image: /assets/images/fa7d1ce1-cc44-4c45-8c29-90f82830ff21.png
 nutrients:

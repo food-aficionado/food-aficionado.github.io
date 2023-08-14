@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-02-01T00:00:00Z"
+date: "1 February 2023"
 description: Cowpea green beans
 image: /assets/images/312c944a-83c2-41fa-badf-0cef0370c9bd.png
 nutrients:

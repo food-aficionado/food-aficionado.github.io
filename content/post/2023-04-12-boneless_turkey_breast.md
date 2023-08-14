@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-04-12T00:00:00Z"
+date: "12 April 2023"
 description: Boneless turkey breast
 image: /assets/images/d49ad569-0d66-4596-b1a5-0203861d0ae2.png
 nutrients:

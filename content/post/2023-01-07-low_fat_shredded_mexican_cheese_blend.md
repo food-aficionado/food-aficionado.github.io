@@ -4,7 +4,7 @@ categories:
 - mexican food
 - healthier eating
 - dairy products
-date: "2023-01-07T00:00:00Z"
+date: "7 January 2023"
 description: Low fat shredded mexican cheese blend
 image: /assets/images/c1dc7a55-da4e-446d-9966-5f02eb448d90.png
 nutrients:

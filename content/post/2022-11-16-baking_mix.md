@@ -4,7 +4,7 @@ categories:
 - baking
 - nutrition
 - history
-date: "2022-11-16T00:00:00Z"
+date: "16 November 2022"
 description: Baking mix
 image: /assets/images/3251f96f-8a81-49dd-9cd7-36caa7a056e0.png
 nutrients:

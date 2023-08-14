@@ -4,7 +4,7 @@ categories:
 - baking
 - leavening agents
 - health benefits
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Calumet baking powder
 image: /assets/images/4daa8fa2-ec6a-47cb-90fb-9b2c815a33e1.png
 nutrients:

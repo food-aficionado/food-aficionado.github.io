@@ -4,7 +4,7 @@ categories:
 - health
 - cooking
 - blueberries
-date: "2023-03-26T00:00:00Z"
+date: "26 March 2023"
 description: Sugar free blueberry jam
 image: /assets/images/7447676e-9cd7-4d23-9cc1-11a2a8d80310.png
 nutrients:

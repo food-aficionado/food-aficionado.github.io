@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - cooking  baking
 - history  fun facts
-date: "2022-09-24T00:00:00Z"
+date: "24 September 2022"
 description: Sugar free pancake syrup
 image: /assets/images/fe8fce69-7023-4739-829f-dbec576e55a7.png
 nutrients:

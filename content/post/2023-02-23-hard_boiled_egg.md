@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutrition benefits
 - egg history
-date: "2023-02-23T00:00:00Z"
+date: "23 February 2023"
 description: Hard boiled egg
 image: /assets/images/3ff6c894-ff2a-4a32-b113-c5e1fa71de2a.png
 nutrients:

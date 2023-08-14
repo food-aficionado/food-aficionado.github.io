@@ -4,7 +4,7 @@ categories:
 - fruits
 - cooking
 - nutrition
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Canned boysenberries
 image: /assets/images/b0b3872e-d723-471d-9626-f8bd3890fb76.png
 nutrients:

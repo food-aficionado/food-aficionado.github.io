@@ -4,7 +4,7 @@ categories:
 - bacon
 - health  nutrition
 - culinary history
-date: "2022-12-21T00:00:00Z"
+date: "21 December 2022"
 description: Thick cut bacon
 image: /assets/images/44b9edbe-2d21-47fc-9bfb-e61eda22d043.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking with candlenuts
 - health benefits of candlenuts
 - history of candlenuts
-date: "2022-10-08T00:00:00Z"
+date: "8 October 2022"
 description: Candlenuts
 image: /assets/images/3bfb258f-e53b-4995-981a-86c46515baaa.png
 nutrients:

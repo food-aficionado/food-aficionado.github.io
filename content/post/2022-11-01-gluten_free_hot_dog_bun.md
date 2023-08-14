@@ -4,7 +4,7 @@ categories:
 - glutenfree diet
 - hotdogs
 - nutrition
-date: "2022-11-01T00:00:00Z"
+date: "1 November 2022"
 description: Gluten free hot dog bun
 image: /assets/images/cf89245f-77c5-4de9-aa27-31414c9617f9.png
 nutrients:

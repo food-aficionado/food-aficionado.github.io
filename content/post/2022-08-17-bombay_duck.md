@@ -4,7 +4,7 @@ categories:
 - seafood
 - indian cuisine
 - nutritional value
-date: "2022-08-17T00:00:00Z"
+date: "17 August 2022"
 description: Bombay duck
 image: /assets/images/23a569ab-2056-4bb5-804b-f3704c126cb5.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - protein sources
 - healthy eating
 - nutritional profile
-date: "2022-08-22T00:00:00Z"
+date: "22 August 2022"
 description: Turkey breast cutlets
 image: /assets/images/4d2cda0d-a4a0-4305-96e4-2c9dee4a89f0.png
 nutrients:

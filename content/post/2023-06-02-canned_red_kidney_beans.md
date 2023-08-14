@@ -4,7 +4,7 @@ categories:
 - pantry staples
 - plantbased protein sources
 - traditional recipes
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Canned red kidney beans
 image: /assets/images/465ca730-a1c1-43b4-9aef-57392e1d2369.png
 nutrients:

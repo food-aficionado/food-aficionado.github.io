@@ -4,7 +4,7 @@ categories:
 - health benefits
 - cooking
 - history
-date: "2023-02-16T00:00:00Z"
+date: "16 February 2023"
 description: Brussels sprouts
 image: /assets/images/e0a8d103-3d86-4c65-980e-da12381a2e55.png
 nutrients:

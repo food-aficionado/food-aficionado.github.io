@@ -4,7 +4,7 @@ categories:
 - coffee
 - culinary delight
 - health benefits
-date: "2023-07-25T00:00:00Z"
+date: "25 July 2023"
 description: Ground coffee
 image: /assets/images/98272c88-cae4-4335-a5f3-718d128c741e.png
 nutrients:

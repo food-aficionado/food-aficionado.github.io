@@ -4,7 +4,7 @@ categories:
 - sweets and desserts
 - culinary creations
 - nutritional value
-date: "2023-01-10T00:00:00Z"
+date: "10 January 2023"
 description: Peanut butter cups
 image: /assets/images/68a1a7f9-1ced-4edf-8fa5-93a6e6fe1d4d.png
 nutrients:

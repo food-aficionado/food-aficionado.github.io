@@ -4,7 +4,7 @@ categories:
 - spicy cuisine
 - culinary uses
 - nutritional benefits
-date: "2023-05-13T00:00:00Z"
+date: "13 May 2023"
 description: Thai chili
 image: /assets/images/5e55e4eb-adde-43f8-a0b3-c87e47e4a0b5.png
 nutrients:

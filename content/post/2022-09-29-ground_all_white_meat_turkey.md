@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - lean meats
 - ground turkey recipes
-date: "2022-09-29T00:00:00Z"
+date: "29 September 2022"
 description: Ground all white meat turkey
 image: /assets/images/900bf313-efe0-4a5a-aa42-2a388a593cd8.png
 nutrients:

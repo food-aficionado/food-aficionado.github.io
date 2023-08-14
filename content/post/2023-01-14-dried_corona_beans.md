@@ -4,7 +4,7 @@ categories:
 - legumes
 - plantbased protein
 - health benefits
-date: "2023-01-14T00:00:00Z"
+date: "14 January 2023"
 description: Dried corona beans
 image: /assets/images/02bc3f89-72fd-4205-ab8e-e74773d1b972.png
 nutrients:

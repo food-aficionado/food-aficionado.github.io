@@ -4,7 +4,7 @@ categories:
 - food
 - history
 - health
-date: "2022-09-28T00:00:00Z"
+date: "28 September 2022"
 description: Chestnuts
 image: /assets/images/42b8ed42-c9da-4333-9cf6-d91a426af94e.png
 nutrients:

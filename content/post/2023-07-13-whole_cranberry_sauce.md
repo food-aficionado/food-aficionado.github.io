@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - thanksgiving delights
 - nutritional benefits
-date: "2023-07-13T00:00:00Z"
+date: "13 July 2023"
 description: Whole cranberry sauce
 image: /assets/images/187faa29-f05a-4a0d-8ff2-4c15577f7da3.png
 nutrients:

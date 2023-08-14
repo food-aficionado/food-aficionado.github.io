@@ -4,7 +4,7 @@ categories:
 - breakfast cereal
 - nutrition
 - history
-date: "2023-03-08T00:00:00Z"
+date: "8 March 2023"
 description: Raisin bran
 image: /assets/images/51ef0ffc-f1b6-4191-bee2-2e736c44004a.png
 nutrients:

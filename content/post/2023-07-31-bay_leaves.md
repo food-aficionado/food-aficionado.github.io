@@ -4,7 +4,7 @@ categories:
 - cooking
 - herbs  spices
 - history
-date: "2023-07-31T00:00:00Z"
+date: "31 July 2023"
 description: Bay leaves
 image: /assets/images/0b7aff72-ad36-4b80-994d-ce6d697a685c.png
 nutrients:

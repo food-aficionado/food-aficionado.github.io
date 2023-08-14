@@ -4,7 +4,7 @@ categories:
 - buttermilk
 - cooking
 - history
-date: "2022-12-11T00:00:00Z"
+date: "11 December 2022"
 description: Buttermilk
 image: /assets/images/64fce013-326e-4de2-b8b5-0566bcb97375.png
 nutrients:

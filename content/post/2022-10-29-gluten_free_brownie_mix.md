@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - desserts
 - nutrition
-date: "2022-10-29T00:00:00Z"
+date: "29 October 2022"
 description: Gluten free brownie mix
 image: /assets/images/43652754-aba5-4e30-99db-3fdd5fe0ed26.png
 nutrients:

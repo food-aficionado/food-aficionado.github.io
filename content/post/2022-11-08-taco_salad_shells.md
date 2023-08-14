@@ -4,7 +4,7 @@ categories:
 - salads
 - texmex cuisine
 - food preparation
-date: "2022-11-08T00:00:00Z"
+date: "8 November 2022"
 description: Taco salad shells
 image: /assets/images/0b707dd6-f34e-424b-90c6-a153bf2fcc79.png
 nutrients:

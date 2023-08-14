@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2022-08-28T00:00:00Z"
+date: "28 August 2022"
 description: Trout fillets
 image: /assets/images/9ce344e3-a760-48d4-914b-90366759c0e2.png
 nutrients:

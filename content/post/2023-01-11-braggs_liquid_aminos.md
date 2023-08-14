@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased diets
 - culinary techniques
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Bragg's Liquid Aminos is an all-natural, low, sodium, protein-rich, and
   gluten-free alternative to soy sauce, which provides a satisfying umami taste and
   is versatile in cooking.

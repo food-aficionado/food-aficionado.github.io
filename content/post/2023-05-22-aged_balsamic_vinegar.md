@@ -4,7 +4,7 @@ categories:
 - foods
 - traditional italian cuisine
 - health benefits
-date: "2023-05-22T00:00:00Z"
+date: "22 May 2023"
 description: Balsamic Vinegar of Modena is a unique vinegar with a complex and delightful
   flavor that complements both sweet and savory dishes while providing remarkable
   nutritional benefits.

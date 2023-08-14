@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegetarianvegan cooking
 - middle eastern cuisine
-date: "2023-02-06T00:00:00Z"
+date: "6 February 2023"
 description: Chickpeas
 image: /assets/images/b36fb4b3-f5a2-4d42-80e8-76bd8c9f48b0.png
 nutrients:

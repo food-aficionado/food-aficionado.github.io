@@ -4,7 +4,7 @@ categories:
 - carved chicken
 - cooking
 - nutrition
-date: "2022-09-29T00:00:00Z"
+date: "29 September 2022"
 description: Sliced chicken breast
 image: /assets/images/64682fa7-ad18-495d-a1f8-dce42d313f0c.png
 nutrients:

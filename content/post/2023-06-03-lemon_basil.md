@@ -4,7 +4,7 @@ categories:
 - herbsspices
 - cooking
 - nutrition
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Lemon basil
 image: /assets/images/d5808ba5-8b12-4b08-a45b-8041db36ace7.png
 nutrients:

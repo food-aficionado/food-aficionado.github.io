@@ -4,7 +4,7 @@ categories:
 - categories plantbased eating
 - cooking techniques
 - nutritional benefits
-date: "2023-01-26T00:00:00Z"
+date: "26 January 2023"
 description: Baby lima beans
 image: /assets/images/98b45802-125f-440a-a18f-c87f81077133.png
 nutrients:

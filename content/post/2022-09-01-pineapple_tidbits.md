@@ -4,7 +4,7 @@ categories:
 - fruit cuisine
 - health benefits
 - historical significance
-date: "2022-09-01T00:00:00Z"
+date: "1 September 2022"
 description: Pineapple tidbits
 image: /assets/images/d49d5697-cb0a-43a6-ba2e-3c85b4d41c28.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-11-17T00:00:00Z"
+date: "17 November 2022"
 description: Granny Smith apples are a tart, firm, and versatile fruit with nutritional
   benefits, a unique flavor profile, and an interesting history that make them a favorite
   among chefs and home cooks.

@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - historical significance
-date: "2022-10-03T00:00:00Z"
+date: "3 October 2022"
 description: Cooked bulgur
 image: /assets/images/e23921f6-acf6-40d6-a9f7-47467c663331.png
 nutrients:

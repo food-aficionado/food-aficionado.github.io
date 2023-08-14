@@ -4,7 +4,7 @@ categories:
 - vegetables
 - nutrition
 - cooking
-date: "2023-05-27T00:00:00Z"
+date: "27 May 2023"
 description: Bell pepper
 image: /assets/images/6a466f14-6272-48e8-bfbd-67a3fa3499a8.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - baking
 - culinary uses
 - history of brown sugar
-date: "2022-12-07T00:00:00Z"
+date: "7 December 2022"
 description: Golden brown sugar
 image: /assets/images/0cd7f333-cd65-45cb-8125-50d0a9eab124.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - belgian cuisine
 - sweets and desserts
 - culinary innovation
-date: "2022-11-24T00:00:00Z"
+date: "24 November 2022"
 description: Cookie butter
 image: /assets/images/aee5cee6-a588-4600-b0b7-987250dc3dd4.png
 nutrients:

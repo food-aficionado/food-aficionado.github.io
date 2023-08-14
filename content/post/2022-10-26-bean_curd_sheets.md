@@ -4,7 +4,7 @@ categories:
 - chinese cuisine
 - plantbased nutrition
 - history and facts
-date: "2022-10-26T00:00:00Z"
+date: "26 October 2022"
 description: Bean curd sheets
 image: /assets/images/a564b81f-fc5e-4be2-b033-e92fa716e594.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - spices
 - health benefits
-date: "2023-07-25T00:00:00Z"
+date: "25 July 2023"
 description: Asafoetida powder is a unique and versatile spice with a distinct aroma
   and flavor that enhances a wide variety of flavorful dishes and offers potential
   health benefits.

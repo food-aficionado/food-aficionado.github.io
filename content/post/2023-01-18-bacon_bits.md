@@ -4,7 +4,7 @@ categories:
 - bacon
 - salads
 - soups  stews
-date: "2023-01-18T00:00:00Z"
+date: "18 January 2023"
 description: Bacon bits
 image: /assets/images/6372167a-1151-4795-b39c-e6db4fab56a0.png
 nutrients:

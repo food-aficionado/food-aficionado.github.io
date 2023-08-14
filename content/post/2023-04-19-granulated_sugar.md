@@ -4,7 +4,7 @@ categories:
 - cane sugar
 - sweeteners
 - culinary creativity
-date: "2023-04-19T00:00:00Z"
+date: "19 April 2023"
 description: Granulated sugar
 image: /assets/images/23f9a941-9e4c-4253-ac6d-f89a21c471c0.png
 nutrients:

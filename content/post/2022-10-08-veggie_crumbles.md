@@ -4,7 +4,7 @@ categories:
 - plantbased cooking
 - sustainable eating
 - nutrition
-date: "2022-10-08T00:00:00Z"
+date: "8 October 2022"
 description: Veggie crumbles
 image: /assets/images/99acdca6-d17b-4545-8fd5-831b9e9ea7bd.png
 nutrients:

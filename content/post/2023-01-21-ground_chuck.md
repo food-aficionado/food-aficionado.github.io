@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutrition facts
 - interesting facts
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Ground chuck
 image: /assets/images/31be97e7-7bed-4c37-bb3a-928c195d75d2.png
 nutrients:

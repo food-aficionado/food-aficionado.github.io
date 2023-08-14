@@ -4,7 +4,7 @@ categories:
 - sweets
 - culinary
 - chocolate
-date: "2022-08-21T00:00:00Z"
+date: "21 August 2022"
 description: Milk chocolate
 image: /assets/images/55598e85-497c-43fa-8ddb-96842b9c3f31.png
 nutrients:

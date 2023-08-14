@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutritional benefits
 - history and use
-date: "2023-07-13T00:00:00Z"
+date: "13 July 2023"
 description: Salt and black pepper have been used for centuries in various forms,
   adding flavor, nutritional value, and complexity to a wide range of dishes and having
   a significant role in the shaping of world history.

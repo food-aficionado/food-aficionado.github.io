@@ -4,7 +4,7 @@ categories:
 - health
 - culinary
 - history
-date: "2022-12-31T00:00:00Z"
+date: "31 December 2022"
 description: Dried borlotti beans
 image: /assets/images/af5cd353-bcc2-49a0-840b-1a4ac43b1c3f.png
 nutrients:

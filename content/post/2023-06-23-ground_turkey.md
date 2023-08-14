@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - nutrition
 - cooking
-date: "2023-06-23T00:00:00Z"
+date: "23 June 2023"
 description: Ground turkey
 image: /assets/images/920bc77a-eaf7-4b27-ab84-39ff220ba6cf.png
 nutrients:

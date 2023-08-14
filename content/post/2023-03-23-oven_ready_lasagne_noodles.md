@@ -4,7 +4,7 @@ categories:
 - cooking
 - italian cuisine
 - nutrition
-date: "2023-03-23T00:00:00Z"
+date: "23 March 2023"
 description: Oven ready lasagne noodles
 image: /assets/images/a92a70e2-1a3e-4a52-8ff2-55fd6704539e.png
 nutrients:

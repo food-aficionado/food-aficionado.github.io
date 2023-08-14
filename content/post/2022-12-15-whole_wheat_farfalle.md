@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - pasta dishes
 - nutrition
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Whole wheat farfalle
 image: /assets/images/8557966c-667f-4068-94a6-280043605d33.png
 nutrients:

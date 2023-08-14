@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - food  drinks
 - amazonian history
-date: "2023-02-16T00:00:00Z"
+date: "16 February 2023"
 description: Acai Juice is a nutrient-packed purple elixir from the Amazon Rainforest
   that has tantalizing flavors, versatile culinary applications, and impressive health
   benefits.

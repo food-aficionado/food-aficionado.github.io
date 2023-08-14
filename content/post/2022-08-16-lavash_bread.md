@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - history
 - nutritional benefits
-date: "2022-08-16T00:00:00Z"
+date: "16 August 2022"
 description: Lavash bread
 image: /assets/images/690c8432-baa1-430a-882d-573927b6ecbb.png
 nutrients:

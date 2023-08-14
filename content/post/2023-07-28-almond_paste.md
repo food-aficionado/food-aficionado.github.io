@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - nutritional value
-date: "2023-07-28T00:00:00Z"
+date: "28 July 2023"
 description: Almond paste is a versatile ingredient that adds a nutty sweetness to
   a variety of traditional dishes, as well as providing essential proteins, healthy
   fats, vitamins, minerals, and fiber.

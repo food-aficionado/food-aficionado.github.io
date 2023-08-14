@@ -4,7 +4,7 @@ categories:
 - cooking
 - culinary techniques
 - nutritional value
-date: "2023-06-16T00:00:00Z"
+date: "16 June 2023"
 description: Chicken base
 image: /assets/images/ce987b47-8755-4771-9eb4-cb8039bc31c4.png
 nutrients:

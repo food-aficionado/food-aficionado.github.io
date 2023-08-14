@@ -4,7 +4,7 @@ categories:
 - beef recipes
 - grilling
 - nutritional value
-date: "2022-11-10T00:00:00Z"
+date: "10 November 2022"
 description: Round tip steak
 image: /assets/images/2b15642a-2335-46bb-9caf-5a3fba9c56a7.png
 nutrients:

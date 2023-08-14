@@ -4,7 +4,7 @@ categories:
 - relevant categories pasta dishes
 - italian cuisine
 - cooking methods
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Jumbo pasta shells
 image: /assets/images/e27a1e13-a289-4f0a-bce1-c4edc394ea4a.png
 nutrients:

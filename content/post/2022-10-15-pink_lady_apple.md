@@ -4,7 +4,7 @@ categories:
 - fruits
 - apple varieties
 - health benefits
-date: "2022-10-15T00:00:00Z"
+date: "15 October 2022"
 description: The Pink Lady apple is a unique and delectable apple variety known for
   its striking appearance, crisp texture, and irresistible flavor.
 image: /assets/images/0debbebd-aebf-4f4c-a6be-d10f5b254ca1.png

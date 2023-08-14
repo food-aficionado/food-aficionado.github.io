@@ -4,7 +4,7 @@ categories:
 - culinary exploration
 - nosetotail movement
 - nutritional value
-date: "2022-08-12T00:00:00Z"
+date: "12 August 2022"
 description: Marrow bones
 image: /assets/images/eadb6caf-acb3-444d-b2ff-4eaba9bd5d97.png
 nutrients:

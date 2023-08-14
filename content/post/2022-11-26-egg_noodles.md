@@ -5,7 +5,7 @@ categories:
 - egg dishes
 - cooking
 - nutrition
-date: "2022-11-26T00:00:00Z"
+date: "26 November 2022"
 description: Egg noodles
 image: /assets/images/07b65e8e-3f51-451f-90e1-cdcdc2d7332b.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - desserts
 - beverages
 - baked goods
-date: "2023-07-13T00:00:00Z"
+date: "13 July 2023"
 description: Butterscotch
 image: /assets/images/ebd13bfe-087e-4588-a6e7-4ef1c106a82b.png
 nutrients:

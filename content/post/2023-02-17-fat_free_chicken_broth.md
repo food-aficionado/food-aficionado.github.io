@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutritional value
 - history
-date: "2023-02-17T00:00:00Z"
+date: "17 February 2023"
 description: Fat free chicken broth
 image: /assets/images/daf103a6-a4f0-4784-ba77-453b16b54962.png
 nutrients:

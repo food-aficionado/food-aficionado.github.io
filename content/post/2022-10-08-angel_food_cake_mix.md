@@ -4,7 +4,7 @@ categories:
 - bakery
 - recipes
 - nutrition
-date: "2022-10-08T00:00:00Z"
+date: "8 October 2022"
 description: The blog post provides an exploration of the mesmerizing history, versatile
   uses, and nutritional value of angelfood cake mix, which is renowned for its incredible
   taste and light, fluffy texture.

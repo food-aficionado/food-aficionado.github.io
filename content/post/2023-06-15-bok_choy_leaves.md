@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - cooking
 - nutrition
-date: "2023-06-15T00:00:00Z"
+date: "15 June 2023"
 description: Bok choy leaves
 image: /assets/images/948086a0-659f-484a-ab92-17fddf16e76c.png
 nutrients:

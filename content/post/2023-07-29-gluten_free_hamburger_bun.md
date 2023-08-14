@@ -4,7 +4,7 @@ categories:
 - glutenfree diets
 - burger recipes
 - nutrition
-date: "2023-07-29T00:00:00Z"
+date: "29 July 2023"
 description: Gluten free hamburger bun
 image: /assets/images/8444a073-85b7-4e8d-b450-99323df272cf.png
 nutrients:

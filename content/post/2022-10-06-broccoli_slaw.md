@@ -4,7 +4,7 @@ categories:
 - health benefits
 - cooking uses
 - historyfun facts
-date: "2022-10-06T00:00:00Z"
+date: "6 October 2022"
 description: Broccoli slaw
 image: /assets/images/4b8806d1-7d1a-4a39-8405-687af05193a4.png
 nutrients:

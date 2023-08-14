@@ -4,7 +4,7 @@ categories:
 - plant oils
 - cooking techniques
 - health benefits
-date: "2023-08-03T00:00:00Z"
+date: "3 August 2023"
 description: Vegetable oil
 image: /assets/images/077ecade-4dce-4ee8-b105-3d9ce76d0108.png
 nutrients:

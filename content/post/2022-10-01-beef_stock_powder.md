@@ -4,7 +4,7 @@ categories:
 - cooking
 - culinary secrets
 - nutritional benefits
-date: "2022-10-01T00:00:00Z"
+date: "1 October 2022"
 description: Beef stock powder
 image: /assets/images/13fdd230-4385-4bb0-ba04-223e4e3557e1.png
 nutrients:

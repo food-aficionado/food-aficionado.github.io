@@ -4,7 +4,7 @@ categories:
 - culinary
 - mushroom flavor
 - health benefits
-date: "2023-02-07T00:00:00Z"
+date: "7 February 2023"
 description: Fresh mushrooms
 image: /assets/images/713b43d2-cd34-4769-b51f-96b89826aba0.png
 nutrients:

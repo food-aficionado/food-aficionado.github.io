@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - interesting facts
-date: "2022-09-29T00:00:00Z"
+date: "29 September 2022"
 description: Skinless chicken pieces
 image: /assets/images/b5455e34-8a9b-4bdb-aca3-b5c6b4b0d74b.png
 nutrients:

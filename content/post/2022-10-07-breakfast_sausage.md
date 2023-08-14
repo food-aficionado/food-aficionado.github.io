@@ -4,7 +4,7 @@ categories:
 - breakfast recipes
 - cooking uses of breakfast sausage
 - nutritional value of breakfast sausage
-date: "2022-10-07T00:00:00Z"
+date: "7 October 2022"
 description: Breakfast sausage
 image: /assets/images/3da98b47-4d83-4f9a-9216-53497011373b.png
 nutrients:

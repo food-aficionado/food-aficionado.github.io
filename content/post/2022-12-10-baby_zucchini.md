@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - vegetables
-date: "2022-12-10T00:00:00Z"
+date: "10 December 2022"
 description: Baby zucchini
 image: /assets/images/c3dc5183-6307-44b6-8bfb-f978df83e8b8.png
 nutrients:

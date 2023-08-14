@@ -4,7 +4,7 @@ categories:
 - culinary uses of black licorice
 - nutritional value of black licorice
 - history of black licorice
-date: "2023-05-22T00:00:00Z"
+date: "22 May 2023"
 description: Black licorice
 image: /assets/images/6a2dcfca-bd1e-4a72-953e-2648cc935449.png
 nutrients:

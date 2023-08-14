@@ -4,7 +4,7 @@ categories:
 - glutenfree recipes
 - nutritional benefits
 - historical legacy
-date: "2023-04-24T00:00:00Z"
+date: "24 April 2023"
 description: Buckwheat flour
 image: /assets/images/32b7485b-1bf9-48bc-84cc-a21bf6557daf.png
 nutrients:

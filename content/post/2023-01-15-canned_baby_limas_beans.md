@@ -4,7 +4,7 @@ categories:
 - legumes
 - healthy eating
 - culinary uses
-date: "2023-01-15T00:00:00Z"
+date: "15 January 2023"
 description: Canned baby limas beans
 image: /assets/images/1f74f51a-1ff9-4c4b-817d-4252c60ff488.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - plantbased protein
 - nutritional value
-date: "2023-01-01T00:00:00Z"
+date: "1 January 2023"
 description: Borlotti beans
 image: /assets/images/168efe54-224f-4a22-8caf-7c85e1d24302.png
 nutrients:

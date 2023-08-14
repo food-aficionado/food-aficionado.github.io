@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - buffalo meat
 - nutritional benefits
-date: "2022-12-05T00:00:00Z"
+date: "5 December 2022"
 description: Bison short ribs
 image: /assets/images/1600f8c5-0822-41ef-9c7d-db0c1e48a732.png
 nutrients:

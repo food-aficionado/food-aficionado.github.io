@@ -4,7 +4,7 @@ categories:
 - herbs and spices
 - cooking
 - nutrition
-date: "2023-04-09T00:00:00Z"
+date: "9 April 2023"
 description: Dried basil
 image: /assets/images/85737e1b-2ef5-48bc-8d76-c4b17cd32756.png
 nutrients:

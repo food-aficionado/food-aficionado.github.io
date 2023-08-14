@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-05-22T00:00:00Z"
+date: "22 May 2023"
 description: Blue cheese dressing
 image: /assets/images/416fcad1-3af6-4fa5-840b-71c9a8c04d95.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - baking
 - culinology
 - nutrition
-date: "2023-06-15T00:00:00Z"
+date: "15 June 2023"
 description: Potato bread
 image: /assets/images/b248894f-f5cb-4dbc-a524-1517adb71d41.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking and baking
 - nutrition
-date: "2023-03-08T00:00:00Z"
+date: "8 March 2023"
 description: Sugar free blackberry jam
 image: /assets/images/60bb34d3-d27e-4ade-b85d-7867c4e6e600.png
 nutrients:

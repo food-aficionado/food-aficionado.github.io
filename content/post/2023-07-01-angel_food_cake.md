@@ -4,7 +4,7 @@ categories:
 - baking
 - dessert
 - sweet treats
-date: "2023-07-01T00:00:00Z"
+date: "1 July 2023"
 description: Angel Food Cake is a timeless classic in the world of baking renowned
   for its distinctive taste, ethereal texture, and versatility in serving and pairing
   options.

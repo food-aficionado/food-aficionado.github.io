@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - health benefits
-date: "2022-09-27T00:00:00Z"
+date: "27 September 2022"
 description: Bone in skinless turkey breast
 image: /assets/images/15fd96c9-4b53-465b-8c51-51cb4a0bb84c.png
 nutrients:

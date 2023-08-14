@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Cooked amaranth
 image: /assets/images/491c2402-770c-4d58-a63b-1b1b1b98b84d.png
 nutrients:

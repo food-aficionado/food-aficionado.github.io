@@ -4,7 +4,7 @@ categories:
 - baking
 - cookery
 - healthy eating
-date: "2023-04-09T00:00:00Z"
+date: "9 April 2023"
 description: Splenda brown sugar blend
 image: /assets/images/ecf95020-cc78-4ebd-9070-fd95d6df9fe7.png
 nutrients:

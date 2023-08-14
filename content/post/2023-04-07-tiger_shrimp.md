@@ -4,7 +4,7 @@ categories:
 - seafood
 - nutrition
 - culinary exploration
-date: "2023-04-07T00:00:00Z"
+date: "7 April 2023"
 description: Tiger shrimp
 image: /assets/images/2c0cf176-8dc3-4f5c-8af3-df16be503ca9.png
 nutrients:

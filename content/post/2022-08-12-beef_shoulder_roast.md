@@ -4,7 +4,7 @@ categories:
 - beef delicacies
 - culinary possibilities
 - nutritional value
-date: "2022-08-12T00:00:00Z"
+date: "12 August 2022"
 description: Beef shoulder roast
 image: /assets/images/a981f59e-d9ae-4ee2-a696-c14d85527550.png
 nutrients:

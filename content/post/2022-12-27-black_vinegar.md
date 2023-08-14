@@ -4,7 +4,7 @@ categories:
 - chinese cuisine
 - health benefits
 - historical facts
-date: "2022-12-27T00:00:00Z"
+date: "27 December 2022"
 description: Black vinegar
 image: /assets/images/46d9acf5-cbfa-4418-a9aa-843a7c06e20c.png
 nutrients:

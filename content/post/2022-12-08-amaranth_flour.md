@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased diets
 - culinary history
-date: "2022-12-08T00:00:00Z"
+date: "8 December 2022"
 description: Amaranth Stone Ground Flour is a nutritious and versatile ingredient
   that adds depth of flavor, texture, and nutrition to your dishes.
 image: /assets/images/09c45dbb-ab44-4b3f-8101-a5727ac41d1d.png

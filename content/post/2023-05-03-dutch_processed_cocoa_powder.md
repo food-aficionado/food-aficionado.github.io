@@ -4,7 +4,7 @@ categories:
 - baking
 - chocolate
 - culinary
-date: "2023-05-03T00:00:00Z"
+date: "3 May 2023"
 description: Dutch process cocoa, also known as alkalized cocoa, is an intensely flavorful,
   yet smoother ingredient resulting from cocoa beans washed in an alkaline solution,
   commonly used in baking and cooking for its distinctive taste, versatile uses, and

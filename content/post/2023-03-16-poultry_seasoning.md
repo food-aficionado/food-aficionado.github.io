@@ -4,7 +4,7 @@ categories:
 - cooking that involves poultry
 - spices  herbs
 - aromatic herbs  spices
-date: "2023-03-16T00:00:00Z"
+date: "16 March 2023"
 description: Poultry seasoning
 image: /assets/images/92602ebd-ae70-4061-b4e7-3f8434e06638.png
 nutrients:

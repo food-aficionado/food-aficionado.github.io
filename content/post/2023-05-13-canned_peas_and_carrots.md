@@ -4,7 +4,7 @@ categories:
 - canned peas  carrots
 - culinary uses
 - nutritional benefits
-date: "2023-05-13T00:00:00Z"
+date: "13 May 2023"
 description: Canned peas and carrots provide a burst of flavor, versatility in cooking,
   and nutritional power to many dishes, and also have an interesting history.
 image: /assets/images/8eceaba1-2ba0-4618-8c72-a86b874b9c7e.png

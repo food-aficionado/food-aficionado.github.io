@@ -4,7 +4,7 @@ categories:
 - cooking
 - food history
 - nutrition
-date: "2023-01-15T00:00:00Z"
+date: "15 January 2023"
 description: Stock powder
 image: /assets/images/c980fbd8-4610-4cd8-b903-837813d604b2.png
 nutrients:

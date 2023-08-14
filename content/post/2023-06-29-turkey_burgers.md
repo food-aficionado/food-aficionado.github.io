@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - lean protein
 - turkey burgers
-date: "2023-06-29T00:00:00Z"
+date: "29 June 2023"
 description: Turkey burgers
 image: /assets/images/e0f3be95-deac-4abf-8e5b-22b53b2d39a7.png
 nutrients:

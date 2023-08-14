@@ -4,7 +4,7 @@ categories:
 - legumes
 - italian cuisine
 - nutrition
-date: "2023-05-17T00:00:00Z"
+date: "17 May 2023"
 description: Cannellini beans
 image: /assets/images/2b1c4e3f-f032-427e-bc6d-9e2f8e734970.png
 nutrients:

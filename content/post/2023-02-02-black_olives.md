@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-02-02T00:00:00Z"
+date: "2 February 2023"
 description: Black olives
 image: /assets/images/6655f268-a87e-432e-8b96-5f7b84498c63.png
 nutrients:

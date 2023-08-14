@@ -4,7 +4,7 @@ categories:
 - japanese cuisine
 - eggplants
 - nutritional benefits
-date: "2023-04-25T00:00:00Z"
+date: "25 April 2023"
 description: Exploring Japanese eggplant can be a delightful culinary adventure, with
   its tender texture, subtle sweetness, versatility, and nutritional benefits ideal
   for adding flavor and elegance to a range of dishes from stir-fries to tempura.

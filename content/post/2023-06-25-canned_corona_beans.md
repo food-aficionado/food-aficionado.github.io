@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - culinary uses
-date: "2023-06-25T00:00:00Z"
+date: "25 June 2023"
 description: Canned corona beans
 image: /assets/images/aa19b08b-66aa-4993-92d7-9f5b4bf0c24d.png
 nutrients:

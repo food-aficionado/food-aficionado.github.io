@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - vegetarian cookery
 - asian cuisine
-date: "2022-12-20T00:00:00Z"
+date: "20 December 2022"
 description: Mung beans
 image: /assets/images/1b8b74a7-40fa-44f3-9a5d-5e7bd8f23817.png
 nutrients:

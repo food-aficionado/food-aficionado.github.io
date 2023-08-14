@@ -4,7 +4,7 @@ categories:
 - sandwiches
 - history of bread
 - cooking
-date: "2023-07-30T00:00:00Z"
+date: "30 July 2023"
 description: Sandwich bun
 image: /assets/images/34d6876f-0eff-4e18-8aa6-4d4edfd6e0b4.png
 nutrients:

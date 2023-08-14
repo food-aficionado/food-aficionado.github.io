@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - scottish cuisine
 - shortbread cookies
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Gluten free shortbread cookies
 image: /assets/images/d1c68494-d0ae-4797-b9f5-f3d1650734e4.png
 nutrients:

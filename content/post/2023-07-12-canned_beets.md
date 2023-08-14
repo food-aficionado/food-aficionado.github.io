@@ -4,7 +4,7 @@ categories:
 - canned vegetables
 - cooking with beets
 - nutritional benefits
-date: "2023-07-12T00:00:00Z"
+date: "12 July 2023"
 description: Canned beets
 image: /assets/images/bc97d0ad-74a5-4285-9578-c7c9d8b70c5e.png
 nutrients:

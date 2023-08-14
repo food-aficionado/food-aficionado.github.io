@@ -4,7 +4,7 @@ categories:
 - comfort food
 - nutrition
 - history  culture
-date: "2023-06-12T00:00:00Z"
+date: "12 June 2023"
 description: Hamburger helper
 image: /assets/images/9becac40-edc0-45ae-a821-f62180157647.png
 nutrients:

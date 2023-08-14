@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-05-21T00:00:00Z"
+date: "21 May 2023"
 description: Avocado cubes are a nutritious addition to various dishes, providing
   a rich and creamy flavor and texture.
 image: /assets/images/486bae06-28f8-45c8-a256-d4da32cc05ad.png

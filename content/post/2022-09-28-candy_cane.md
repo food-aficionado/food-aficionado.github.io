@@ -4,7 +4,7 @@ categories:
 - sweet treats
 - holiday celebrations
 - cooking ideas
-date: "2022-09-28T00:00:00Z"
+date: "28 September 2022"
 description: Candy cane
 image: /assets/images/e5e5869c-2071-43c1-ad24-b46391d14652.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - history of balsamic glaze
-date: "2022-09-24T00:00:00Z"
+date: "24 September 2022"
 description: Balsamic glaze
 image: /assets/images/51713e56-5fe3-4ace-b14c-b91428269ccb.png
 nutrients:

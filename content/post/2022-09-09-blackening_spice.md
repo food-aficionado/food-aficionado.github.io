@@ -4,7 +4,7 @@ categories:
 - spices
 - cajun cuisine
 - cooking techniques
-date: "2022-09-09T00:00:00Z"
+date: "9 September 2022"
 description: Blackening spice
 image: /assets/images/a27ccfcf-403f-41a8-ad62-c0ed8aad255c.png
 nutrients:

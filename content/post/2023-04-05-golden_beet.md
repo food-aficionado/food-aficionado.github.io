@@ -4,7 +4,7 @@ categories:
 - vegetables
 - cooking
 - nutrition
-date: "2023-04-05T00:00:00Z"
+date: "5 April 2023"
 description: Golden beet
 image: /assets/images/d1aa1baa-0e47-4847-b224-ebb36123ce16.png
 nutrients:

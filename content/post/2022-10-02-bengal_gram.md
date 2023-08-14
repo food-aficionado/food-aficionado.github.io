@@ -4,7 +4,7 @@ categories:
 - plantbased diet
 - healthy eating
 - legumes
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Bengal gram
 image: /assets/images/82499951-3c41-49b7-a652-699a70c46123.png
 nutrients:

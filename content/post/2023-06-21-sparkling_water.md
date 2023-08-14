@@ -4,7 +4,7 @@ categories:
 - food  beverage
 - cooking  baking
 - history  fun facts
-date: "2023-06-21T00:00:00Z"
+date: "21 June 2023"
 description: Sparkling water
 image: /assets/images/552a193e-95ce-4a63-b404-810ace9b1c85.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - seafood
 - nutrition
 - cooking
-date: "2022-08-26T00:00:00Z"
+date: "26 August 2022"
 description: Baby shrimp
 image: /assets/images/c59792bf-3249-4b42-bc4b-0b1cab37e5ef.png
 nutrients:

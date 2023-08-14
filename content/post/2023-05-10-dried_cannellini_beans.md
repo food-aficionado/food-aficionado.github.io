@@ -4,7 +4,7 @@ categories:
 - cooking with legumes
 - healthy eating
 - vegan diet
-date: "2023-05-10T00:00:00Z"
+date: "10 May 2023"
 description: Dried cannellini beans
 image: /assets/images/84fd6092-fc1d-45aa-b149-3b0dc4b8d7e8.png
 nutrients:

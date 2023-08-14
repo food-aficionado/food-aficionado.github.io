@@ -4,7 +4,7 @@ categories:
 - snack foods
 - cooking
 - nutrition
-date: "2022-09-07T00:00:00Z"
+date: "7 September 2022"
 description: Corn chips
 image: /assets/images/10017c88-8d2a-4a5d-96da-773a9f15e959.png
 nutrients:

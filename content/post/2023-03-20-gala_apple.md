@@ -4,7 +4,7 @@ categories:
 - fruit
 - nutrition
 - culinary uses
-date: "2023-03-20T00:00:00Z"
+date: "20 March 2023"
 description: Gala apples are a sweet and flavorful delight with an array of culinary
   uses and health benefits.
 image: /assets/images/dc27e39f-8569-4d4c-be3b-c1bdfe8e49f3.png

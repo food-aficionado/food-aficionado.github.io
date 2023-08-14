@@ -4,7 +4,7 @@ categories:
 - beverage syrups
 - cooking
 - mixology
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Flavoring syrup
 image: /assets/images/cc03d355-7807-4c97-b23b-19eb74ba4480.png
 nutrients:

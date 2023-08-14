@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - thickening agents
 - savory dishes
-date: "2022-12-10T00:00:00Z"
+date: "10 December 2022"
 description: Chickpea flour
 image: /assets/images/65c3c509-d050-421b-9048-dfcb140d22ff.png
 nutrients:

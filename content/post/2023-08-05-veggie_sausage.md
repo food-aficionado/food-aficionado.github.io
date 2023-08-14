@@ -4,7 +4,7 @@ categories:
 - vegetarian diets
 - plantbased alternative foods
 - cooking with vegetables
-date: "2023-08-05T00:00:00Z"
+date: "5 August 2023"
 description: Veggie sausage
 image: /assets/images/23d418eb-64d5-4b6e-afed-cf55481e3a27.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - vegetarianvegan cooking
 - plantbased nutrition
 - fermented foods
-date: "2022-12-13T00:00:00Z"
+date: "13 December 2022"
 description: Dried soybeans
 image: /assets/images/147cab7b-6069-49e4-b416-f67e4e635300.png
 nutrients:

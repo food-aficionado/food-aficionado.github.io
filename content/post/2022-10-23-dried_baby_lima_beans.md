@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking with legumes
 - nutritional benefits
-date: "2022-10-23T00:00:00Z"
+date: "23 October 2022"
 description: Dried baby lima beans
 image: /assets/images/3fc2b000-f40d-4339-b9e4-022418af86df.png
 nutrients:

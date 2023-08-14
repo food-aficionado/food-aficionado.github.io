@@ -4,7 +4,7 @@ categories:
 - sweets
 - chocolate
 - cooking  baking
-date: "2022-11-11T00:00:00Z"
+date: "11 November 2022"
 description: Candy coated chocolate pieces provide a burst of flavor-packed ecstasy
   with a satisfying crunch, smooth chocolatey center, and vibrant colors.
 image: /assets/images/ed5fdd26-c65a-4f6d-ac29-b1ce626a90d2.png

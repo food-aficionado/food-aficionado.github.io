@@ -4,7 +4,7 @@ categories:
 - culinary
 - cheddar
 - nutrition
-date: "2023-06-17T00:00:00Z"
+date: "17 June 2023"
 description: Cheddar cheese
 image: /assets/images/939cf9d8-d5d7-4046-9f5a-9dc6fe47f469.png
 nutrients:

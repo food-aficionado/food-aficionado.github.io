@@ -4,7 +4,7 @@ categories:
 - spices
 - culinary
 - traditional medicine
-date: "2023-08-05T00:00:00Z"
+date: "5 August 2023"
 description: Black cardamoms
 image: /assets/images/e9e8f63e-9a92-4e41-942f-6723d8146d8a.png
 nutrients:

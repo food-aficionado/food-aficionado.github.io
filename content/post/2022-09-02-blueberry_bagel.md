@@ -4,7 +4,7 @@ categories:
 - breakfast foods
 - baking
 - health  nutrition
-date: "2022-09-02T00:00:00Z"
+date: "2 September 2022"
 description: Blueberry bagel
 image: /assets/images/a2d55803-25ad-4f0b-8410-7219117aa8a4.png
 nutrients:

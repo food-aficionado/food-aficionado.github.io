@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - historical significance
-date: "2022-12-23T00:00:00Z"
+date: "23 December 2022"
 description: Juniper berries
 image: /assets/images/721017c3-db0d-4244-9541-4cca9f423c8e.png
 nutrients:

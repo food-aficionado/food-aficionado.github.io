@@ -4,7 +4,7 @@ categories:
 - baking
 - desserts
 - history
-date: "2022-09-21T00:00:00Z"
+date: "21 September 2022"
 description: Creme de menthe baking pieces
 image: /assets/images/2d421b44-9ceb-4813-9dd4-3944315c1178.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - world cuisine
 - pantry staples
-date: "2023-04-17T00:00:00Z"
+date: "17 April 2023"
 description: Beef bouillon granules
 image: /assets/images/20b42754-b07b-4e17-81e9-ec1255cfa72d.png
 nutrients:

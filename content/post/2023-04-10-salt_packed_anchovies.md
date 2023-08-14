@@ -4,7 +4,7 @@ categories:
 - cooking with anchovies
 - seafood dishes
 - nutrition and health
-date: "2023-04-10T00:00:00Z"
+date: "10 April 2023"
 description: Salt packed anchovies offer a bold and umami-rich flavor, along with
   numerous culinary uses and health benefits.
 image: /assets/images/fa45c953-5812-4c6a-aa85-41212cc1a630.png

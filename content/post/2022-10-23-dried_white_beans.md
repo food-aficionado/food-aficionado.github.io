@@ -4,7 +4,7 @@ categories:
 - legumes
 - nutrition
 - culinary uses
-date: "2022-10-23T00:00:00Z"
+date: "23 October 2022"
 description: Dried white beans
 image: /assets/images/e2f397e5-1d8f-4c53-beec-9b93594fa28e.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history
-date: "2022-12-09T00:00:00Z"
+date: "9 December 2022"
 description: Dried navy beans
 image: /assets/images/3c4dc52b-4a11-4ba1-b4c0-efa546ca2fa6.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - ingredient knowledge
-date: "2022-10-25T00:00:00Z"
+date: "25 October 2022"
 description: Malted barley flour
 image: /assets/images/bcbf6ba4-d355-45ee-8276-3249ed75e316.png
 nutrients:

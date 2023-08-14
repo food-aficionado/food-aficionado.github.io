@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - mediterranean cuisine
 - whole wheat nutrition
-date: "2023-04-15T00:00:00Z"
+date: "15 April 2023"
 description: Whole wheat pita
 image: /assets/images/4e6c2091-ce25-4734-9fe7-4faf7a99b1c8.png
 nutrients:

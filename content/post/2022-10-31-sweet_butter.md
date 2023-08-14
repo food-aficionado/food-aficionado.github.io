@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-31T00:00:00Z"
+date: "31 October 2022"
 description: Sweet butter
 image: /assets/images/552c8416-741a-4b9f-8e59-d1cdd03137ea.png
 nutrients:

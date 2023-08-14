@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - comfort foods
 - cooking
-date: "2022-11-12T00:00:00Z"
+date: "12 November 2022"
 description: Reduced fat and reduced sodium cream of chicken soup
 image: /assets/images/ea141195-ab7b-4e55-aab3-776c7517462f.png
 nutrients:

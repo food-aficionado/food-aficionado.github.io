@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: Beef patties
 image: /assets/images/0deeec4a-02e4-4020-b287-5e2592f2515b.png
 nutrients:

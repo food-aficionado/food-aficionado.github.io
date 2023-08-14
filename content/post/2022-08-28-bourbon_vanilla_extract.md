@@ -4,7 +4,7 @@ categories:
 - baking
 - savory cooking
 - history
-date: "2022-08-28T00:00:00Z"
+date: "28 August 2022"
 description: Bourbon vanilla extract
 image: /assets/images/12517297-ca4b-4a65-934d-e0b89b5f0628.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-05-21T00:00:00Z"
+date: "21 May 2023"
 description: The versatile, tangy, and sweet flavor of Bramley apples make them a
   popular culinary choice for a wide range of dishes, from pies to chutneys.
 image: /assets/images/7b212457-54b0-4f38-a37c-d6de86e154af.png

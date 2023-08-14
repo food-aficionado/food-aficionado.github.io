@@ -4,7 +4,7 @@ categories:
 - mediterranean cuisine
 - health benefits
 - culinary uses
-date: "2023-01-28T00:00:00Z"
+date: "28 January 2023"
 description: Oil cured black olives
 image: /assets/images/8bc8a1fc-c09d-4508-a6ab-000b1d55bcdd.png
 nutrients:

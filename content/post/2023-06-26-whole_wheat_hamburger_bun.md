@@ -4,7 +4,7 @@ categories:
 - whole wheat buns
 - nutrition
 - cooking
-date: "2023-06-26T00:00:00Z"
+date: "26 June 2023"
 description: Whole wheat hamburger bun
 image: /assets/images/0f11f638-9cf5-445d-92d1-8ed94c49d94c.png
 nutrients:

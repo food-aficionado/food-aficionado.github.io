@@ -4,7 +4,7 @@ categories:
 - cooking
 - food history
 - nutrition
-date: "2023-01-29T00:00:00Z"
+date: "29 January 2023"
 description: Beef gravy
 image: /assets/images/78148735-e7d0-4381-83dc-c59e82e08def.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - veganism
 - cooking and baking
 - plantbased alternatives
-date: "2022-09-21T00:00:00Z"
+date: "21 September 2022"
 description: Vegan buttery stick
 image: /assets/images/79890e2e-1b60-4d9f-99a5-72a3306455bb.png
 nutrients:

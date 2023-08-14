@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking tips
 - nutrition
-date: "2023-06-17T00:00:00Z"
+date: "17 June 2023"
 description: All-Bran cereal is a nutritious and versatile ingredient that has a unique
   taste and texture, and offers a range of health benefits and uses in cooking.
 image: /assets/images/900752b1-5dd4-4127-b076-0561d9998d76.png

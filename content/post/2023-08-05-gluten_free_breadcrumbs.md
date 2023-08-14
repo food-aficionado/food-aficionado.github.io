@@ -4,7 +4,7 @@ categories:
 - glutenfree diet
 - nutrition
 - cooking
-date: "2023-08-05T00:00:00Z"
+date: "5 August 2023"
 description: Gluten free breadcrumbs
 image: /assets/images/861706b9-582e-414f-be06-c13183bfa16a.png
 nutrients:

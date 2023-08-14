@@ -4,7 +4,7 @@ categories:
 - desserts
 - cooking
 - banana pudding mix
-date: "2023-02-12T00:00:00Z"
+date: "12 February 2023"
 description: Banana pudding mix
 image: /assets/images/6f791021-bf83-4319-836c-a33588f3a022.png
 nutrients:

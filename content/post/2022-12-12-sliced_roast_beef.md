@@ -4,7 +4,7 @@ categories:
 - deli meats
 - cooking
 - nutrition
-date: "2022-12-12T00:00:00Z"
+date: "12 December 2022"
 description: Sliced roast beef
 image: /assets/images/aa01a8bd-2164-479c-b6e3-17de90ffbfe4.png
 nutrients:

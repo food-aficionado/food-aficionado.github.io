@@ -4,7 +4,7 @@ categories:
 - seafood cooking
 - cups  cocktails
 - nutritional values
-date: "2022-09-18T00:00:00Z"
+date: "18 September 2022"
 description: Clam juice
 image: /assets/images/db197538-dd2c-4e4a-92cc-b116301311db.png
 nutrients:

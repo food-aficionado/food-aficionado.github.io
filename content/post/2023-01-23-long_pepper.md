@@ -4,7 +4,7 @@ categories:
 - spices
 - international cuisine
 - health benefits
-date: "2023-01-23T00:00:00Z"
+date: "23 January 2023"
 description: Arisithippili is a unique spice offering a complex blend of tastes and
   a range of culinary and potential health benefits, making it the perfect addition
   to any spice cabinet.

@@ -4,7 +4,7 @@ categories:
 - fruits
 - cooking
 - nutrition
-date: "2023-07-09T00:00:00Z"
+date: "9 July 2023"
 description: Braeburn apples are known for their unique balance between tartness and
   sweetness that makes them perfect for sweet and savory dishes, as well as their
   excellent nutritional values and long storage capability.

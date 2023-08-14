@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-09-28T00:00:00Z"
+date: "28 September 2022"
 description: Boneless pork shoulder
 image: /assets/images/7f3a5d6d-df61-4e20-998c-71d9ab810f7d.png
 nutrients:

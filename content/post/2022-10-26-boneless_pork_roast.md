@@ -4,7 +4,7 @@ categories:
 - culinary versatility
 - nutritional value
 - fun facts and historical tidbits
-date: "2022-10-26T00:00:00Z"
+date: "26 October 2022"
 description: Boneless pork roast
 image: /assets/images/45c75e2f-160c-485b-a44f-f73c7dc63695.png
 nutrients:

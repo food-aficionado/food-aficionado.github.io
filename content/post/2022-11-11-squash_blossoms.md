@@ -4,7 +4,7 @@ categories:
 - cuisine
 - flowers
 - nutrition
-date: "2022-11-11T00:00:00Z"
+date: "11 November 2022"
 description: Squash blossoms
 image: /assets/images/5d0e5aaf-d629-425a-80a1-c8b8e972c583.png
 nutrients:

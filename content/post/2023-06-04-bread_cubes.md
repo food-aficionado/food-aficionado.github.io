@@ -4,7 +4,7 @@ categories:
 - bread
 - cooking
 - nutrition
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: Bread cubes
 image: /assets/images/6c250f31-aaf2-4741-a6c9-f1bef8a7a318.png
 nutrients:

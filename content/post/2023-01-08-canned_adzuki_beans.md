@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegan and vegetarian recipes
 - aduki beans
-date: "2023-01-08T00:00:00Z"
+date: "8 January 2023"
 description: Canned aduki beans are a delicious and nutritious addition to anyone's
   pantry, with their versatile uses in cooking, subtle sweet and nutty flavor, and
   impressive health benefits.

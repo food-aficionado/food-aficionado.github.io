@@ -4,7 +4,7 @@ categories:
 - wheat flour
 - baking
 - nutrition
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Wheat flour stands out as a versatile, tasty, and nutritious staple in
   all types of cooking and baking recipes.
 image: /assets/images/dcf5c49d-f2d1-4650-92c7-52dfa01f2092.png

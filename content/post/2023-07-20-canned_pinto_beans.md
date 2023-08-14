@@ -4,7 +4,7 @@ categories:
 - canned foods
 - vegetarianvegan diets
 - nutritional benefits
-date: "2023-07-20T00:00:00Z"
+date: "20 July 2023"
 description: Canned pinto beans
 image: /assets/images/32bead66-8e7c-4879-a862-16836928b46f.png
 nutrients:

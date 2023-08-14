@@ -4,7 +4,7 @@ categories:
 - vegetarian cuisine
 - plantbased diet
 - legumes
-date: "2022-11-26T00:00:00Z"
+date: "26 November 2022"
 description: Vegetarian baked beans
 image: /assets/images/e752feee-1b6b-461f-a13f-0f2efd3745a7.png
 nutrients:

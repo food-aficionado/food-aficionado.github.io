@@ -4,7 +4,7 @@ categories:
 - pickling
 - dilly beans
 - culinary creations
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Pickled green beans
 image: /assets/images/74ce665a-1f58-43de-8aa7-20810ac39137.png
 nutrients:

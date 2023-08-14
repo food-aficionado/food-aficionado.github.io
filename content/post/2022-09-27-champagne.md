@@ -4,7 +4,7 @@ categories:
 - champagne
 - cooking with champagne
 - nutritional value
-date: "2022-09-27T00:00:00Z"
+date: "27 September 2022"
 description: Champagne
 image: /assets/images/bc240adc-5f5d-4a2d-949a-6a5037d6dba4.png
 nutrients:

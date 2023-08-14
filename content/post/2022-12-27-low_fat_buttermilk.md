@@ -4,7 +4,7 @@ categories:
 - health
 - cooking
 - nutrition
-date: "2022-12-27T00:00:00Z"
+date: "27 December 2022"
 description: Low fat buttermilk
 image: /assets/images/1057cd52-1828-4adc-b2b6-0dd392c6ea80.png
 nutrients:

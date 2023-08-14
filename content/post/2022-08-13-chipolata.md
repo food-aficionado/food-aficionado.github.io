@@ -4,7 +4,7 @@ categories:
 - chipolata sausage
 - taste and flavor
 - cooking techniques
-date: "2022-08-13T00:00:00Z"
+date: "13 August 2022"
 description: Chipolata
 image: /assets/images/89c2e404-b2e6-421b-ad47-cb027eefa731.png
 nutrients:

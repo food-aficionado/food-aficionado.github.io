@@ -4,7 +4,7 @@ categories:
 - food  drink
 - cooking  recipes
 - nutrition  wellness
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Fat free less sodium beef broth
 image: /assets/images/b30765e5-4271-4fce-990b-342e91bb1bb1.png
 nutrients:

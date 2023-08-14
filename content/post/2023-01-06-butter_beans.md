@@ -4,7 +4,7 @@ categories:
 - nutrition
 - cooking
 - history
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: Butter beans
 image: /assets/images/99e4a1d2-c450-46c4-9580-813a52b5d073.png
 nutrients:

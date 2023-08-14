@@ -4,7 +4,7 @@ categories:
 - bacon
 - breakfast
 - culinary experiences
-date: "2023-03-02T00:00:00Z"
+date: "2 March 2023"
 description: The unique flavor and versatility of Bacon Ends & Pieces can take any
   culinary creation to the next level of deliciousness.
 image: /assets/images/8d090689-8501-4acd-bf7a-f1579ee33487.png

@@ -4,7 +4,7 @@ categories:
 - cooking
 - cleaning
 - personal care
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Baking soda
 image: /assets/images/e87841f7-3569-4a32-bc7f-93f7afd1e582.png
 nutrients:

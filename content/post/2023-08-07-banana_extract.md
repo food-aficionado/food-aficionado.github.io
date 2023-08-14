@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - banana recipes
-date: "2023-08-07T00:00:00Z"
+date: "7 August 2023"
 description: Banana extract
 image: /assets/images/b29e872a-21c1-4c09-97eb-b4e8efdb272c.png
 nutrients:

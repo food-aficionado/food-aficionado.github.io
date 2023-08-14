@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegetable oil spreads
 - cooking substitutes
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Margarine
 image: /assets/images/63b2b5bb-178e-46b7-b255-1be6f397766d.png
 nutrients:

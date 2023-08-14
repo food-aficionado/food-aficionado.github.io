@@ -4,7 +4,7 @@ categories:
 - legume recipes
 - plant protein
 - sustainable agriculture
-date: "2022-10-10T00:00:00Z"
+date: "10 October 2022"
 description: Cooked lentils
 image: /assets/images/23fd48ed-7e9c-41fb-9772-a74b77eceee5.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - italian cuisine
-date: "2022-11-29T00:00:00Z"
+date: "29 November 2022"
 description: Canned cannellini beans
 image: /assets/images/c465ae6c-08a7-4ae7-bbaf-e229959e5205.png
 nutrients:

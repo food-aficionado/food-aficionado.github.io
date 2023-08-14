@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-04-15T00:00:00Z"
+date: "15 April 2023"
 description: Low sodium broth
 image: /assets/images/a5f046b0-8dcd-4634-8460-633ef95d5752.png
 nutrients:

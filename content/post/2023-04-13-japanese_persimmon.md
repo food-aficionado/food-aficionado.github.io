@@ -4,7 +4,7 @@ categories:
 - fruit
 - culinary uses
 - nutrition
-date: "2023-04-13T00:00:00Z"
+date: "13 April 2023"
 description: Kaki is a deliciously sweet and versatile fruit with many nutritional
   benefits that can bring a unique flavor to both sweet and savory dishes.
 image: /assets/images/a3d8ba56-2a8c-4019-8e0d-234c90d769e0.png

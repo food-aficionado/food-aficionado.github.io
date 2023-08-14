@@ -6,7 +6,7 @@ categories:
   delights of boar stew meat
 - cooking
 - nutritional value
-date: "2022-08-29T00:00:00Z"
+date: "29 August 2022"
 description: Wild boar stew meat
 image: /assets/images/66c5d2d9-dc49-4625-afaf-4922e48aee94.png
 nutrients:

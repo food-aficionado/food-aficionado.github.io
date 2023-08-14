@@ -4,7 +4,7 @@ categories:
 - chinese cuisine
 - culinary history
 - nutritional value
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Chinese dumplings, with their mouthwatering taste, nutritional value,
   and intriguing cultural aspect, offer a delicious and unique culinary experience
   worldwide.

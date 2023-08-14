@@ -4,7 +4,7 @@ categories:
 - desserts
 - savoiardi
 - italian cuisine
-date: "2022-12-23T00:00:00Z"
+date: "23 December 2022"
 description: Ladyfingers
 image: /assets/images/aaefb24c-a700-4593-9416-089219d6d332.png
 nutrients:

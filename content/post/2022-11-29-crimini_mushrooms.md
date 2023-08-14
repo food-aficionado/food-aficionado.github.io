@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - fun facts
-date: "2022-11-29T00:00:00Z"
+date: "29 November 2022"
 description: Crimini mushrooms
 image: /assets/images/e43b5d82-f2fb-435a-840c-557728ca1d6f.png
 nutrients:

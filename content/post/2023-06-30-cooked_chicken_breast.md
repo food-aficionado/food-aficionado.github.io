@@ -4,7 +4,7 @@ categories:
 - cooked chicken breasts
 - uses in cooking
 - nutritional value
-date: "2023-06-30T00:00:00Z"
+date: "30 June 2023"
 description: Cooked chicken breast
 image: /assets/images/a689bfa0-85bc-40ed-a463-8756d3a91a74.png
 nutrients:

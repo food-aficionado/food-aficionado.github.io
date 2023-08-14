@@ -4,7 +4,7 @@ categories:
 - baking
 - bread making
 - nutrition
-date: "2023-06-08T00:00:00Z"
+date: "8 June 2023"
 description: Bread flour
 image: /assets/images/035597c6-33c6-4fd6-8283-ed021f84ee4d.png
 nutrients:

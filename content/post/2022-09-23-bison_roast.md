@@ -4,7 +4,7 @@ categories:
 - food  drinks
 - culinary history
 - health  wellness
-date: "2022-09-23T00:00:00Z"
+date: "23 September 2022"
 description: Bison roast
 image: /assets/images/906dfff5-2397-449f-83ce-70c6845cd4e9.png
 nutrients:

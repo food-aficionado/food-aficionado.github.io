@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegan  vegetarian dishes
 - historical facts
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Dried lima beans
 image: /assets/images/e0c82a58-fd2b-417a-8927-c5c84d2ddf42.png
 nutrients:

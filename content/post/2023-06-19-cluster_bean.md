@@ -4,7 +4,7 @@ categories:
 - indian cuisine
 - cooking methods
 - nutrition
-date: "2023-06-19T00:00:00Z"
+date: "19 June 2023"
 description: Cluster bean
 image: /assets/images/a825eaea-45ed-4fbc-af11-54d9770a3c26.png
 nutrients:

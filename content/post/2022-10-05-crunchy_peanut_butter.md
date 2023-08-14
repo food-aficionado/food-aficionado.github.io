@@ -4,7 +4,7 @@ categories:
 - peanut butter
 - cooking
 - nutrition
-date: "2022-10-05T00:00:00Z"
+date: "5 October 2022"
 description: Crunchy peanut butter
 image: /assets/images/ea45202b-4296-4545-a47c-ea57f4146288.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - spanish cuisine
 - seafood dishes
 - healthy eating
-date: "2023-01-08T00:00:00Z"
+date: "8 January 2023"
 description: Boquerones, also known as Spanish anchovies, are a staple in Spanish
   cuisine offering a unique taste, nutritional benefits, and versatile uses in cooking,
   as well as rich history and regional traditions.

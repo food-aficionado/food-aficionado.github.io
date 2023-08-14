@@ -4,7 +4,7 @@ categories:
 - herbs
 - culinary uses
 - nutritional value
-date: "2023-01-26T00:00:00Z"
+date: "26 January 2023"
 description: Lemon balm
 image: /assets/images/e4cf6015-3a7e-477d-a965-eeba41dfe1cb.png
 nutrients:

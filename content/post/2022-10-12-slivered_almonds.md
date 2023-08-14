@@ -4,7 +4,7 @@ categories:
 - cooking
 - food
 - nutrition
-date: "2022-10-12T00:00:00Z"
+date: "12 October 2022"
 description: Slivered almonds add a nutty crunch and numerous nutritional benefits
   to both sweet and savory dishes, making them an ideal ingredient to experiment with
   in the kitchen.

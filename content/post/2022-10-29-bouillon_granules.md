@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-29T00:00:00Z"
+date: "29 October 2022"
 description: Bouillon granules
 image: /assets/images/fe258651-f097-4247-93f8-f629d5cceb38.png
 nutrients:

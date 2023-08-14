@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - pastry
-date: "2023-03-04T00:00:00Z"
+date: "4 March 2023"
 description: Refrigerated crescent rolls
 image: /assets/images/1e0046fd-e54f-439b-9edc-b6b92a365903.png
 nutrients:

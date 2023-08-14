@@ -4,7 +4,7 @@ categories:
 - belgian endives
 - taste and texture
 - cooking applications
-date: "2023-06-14T00:00:00Z"
+date: "14 June 2023"
 description: Belgian endive
 image: /assets/images/4c8c428b-41c0-45ac-bda4-c9f6c43b150b.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - comfort food
 - nutritional benefits
-date: "2022-10-29T00:00:00Z"
+date: "29 October 2022"
 description: Gluten free cornbread mix
 image: /assets/images/aad7c31b-ab84-4d57-b22b-38905a3134f8.png
 nutrients:

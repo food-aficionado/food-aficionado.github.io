@@ -4,7 +4,7 @@ categories:
 - culinary use
 - nutritional value
 - interesting facts
-date: "2023-08-08T00:00:00Z"
+date: "8 August 2023"
 description: Brown mustard seeds
 image: /assets/images/ec3d0291-85d6-4bcd-92cb-fedbccfa0701.png
 nutrients:

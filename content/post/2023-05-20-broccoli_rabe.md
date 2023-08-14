@@ -4,7 +4,7 @@ categories:
 - health benefits
 - cooking with vegetables
 - history of foods
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Broccoli rabe
 image: /assets/images/a6621bf0-9b81-4675-8c0b-cd9e0a310706.png
 nutrients:

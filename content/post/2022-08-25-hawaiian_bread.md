@@ -4,7 +4,7 @@ categories:
 - hawaiian bread
 - culinary uses
 - nutritional value
-date: "2022-08-25T00:00:00Z"
+date: "25 August 2022"
 description: Hawaiian bread
 image: /assets/images/f782a428-67ee-4194-b5e7-179814614b7a.png
 nutrients:

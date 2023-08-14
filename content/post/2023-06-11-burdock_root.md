@@ -4,7 +4,7 @@ categories:
 - health benefits
 - culinary uses
 - history
-date: "2023-06-11T00:00:00Z"
+date: "11 June 2023"
 description: Burdock root
 image: /assets/images/2dfda089-6974-4187-8ebc-cbdaaaaa2e6b.png
 nutrients:

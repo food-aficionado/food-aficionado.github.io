@@ -4,7 +4,7 @@ categories:
 - fruits
 - health benefits
 - culinary uses
-date: "2023-04-25T00:00:00Z"
+date: "25 April 2023"
 description: Green apples are a versatile ingredient in the kitchen with a tart flavor,
   nutritional benefits, and a rich history.
 image: /assets/images/a61aa099-d0d8-436a-afd8-ce4c339564bd.png

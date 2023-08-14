@@ -4,7 +4,7 @@ categories:
 - health benefits of eating
 - cooking and baking with bran flakes
 - nutrition facts of bran flakes
-date: "2022-08-20T00:00:00Z"
+date: "20 August 2022"
 description: Bran flakes
 image: /assets/images/2d6ccc61-4734-44e5-a275-cf8c3d0452a5.png
 nutrients:

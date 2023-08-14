@@ -4,7 +4,7 @@ categories:
 - beef dishes
 - nutrition
 - culinary history
-date: "2022-09-15T00:00:00Z"
+date: "15 September 2022"
 description: Ribeye steak
 image: /assets/images/e33467e9-7504-495b-a786-eb9938d193ab.png
 nutrients:

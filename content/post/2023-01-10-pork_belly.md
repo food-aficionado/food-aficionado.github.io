@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history  facts
-date: "2023-01-10T00:00:00Z"
+date: "10 January 2023"
 description: Pork belly
 image: /assets/images/2035ffc2-43b8-48a9-bb30-36981210ae02.png
 nutrients:

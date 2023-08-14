@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - slow cooking
 - meat and protein
-date: "2023-03-13T00:00:00Z"
+date: "13 March 2023"
 description: Beef chuck roast
 image: /assets/images/b032fede-b890-47de-897c-4d848e40f659.png
 nutrients:

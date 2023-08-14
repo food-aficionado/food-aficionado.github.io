@@ -4,7 +4,7 @@ categories:
 - baking
 - mintflavored treats
 - historical facts
-date: "2023-06-03T00:00:00Z"
+date: "3 June 2023"
 description: Peppermint crunch
 image: /assets/images/02bfcf4e-3fb8-4186-8669-c71b78eed24a.png
 nutrients:

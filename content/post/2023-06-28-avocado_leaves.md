@@ -4,7 +4,7 @@ categories:
 - culinary
 - mexican cuisine
 - nutrition
-date: "2023-06-28T00:00:00Z"
+date: "28 June 2023"
 description: Avocado leaves offer a unique anise-mint flavor and licorice-like aroma
   that can be used to elevate the flavors of soups, stews, tamales, grilled meats,
   and more.

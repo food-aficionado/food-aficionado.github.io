@@ -3,7 +3,7 @@ author: Food Jd. Aficionado
 categories:
 - chemistry
 - food
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Exploring the world of food colors reveals how they not only enhance
   the visual appeal of dishes and influence our perception of taste, but can also
   provide nutritional benefits when derived from natural sources.

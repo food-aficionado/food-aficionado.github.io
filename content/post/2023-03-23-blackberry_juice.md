@@ -4,7 +4,7 @@ categories:
 - beverages
 - health and wellness
 - culinary uses
-date: "2023-03-23T00:00:00Z"
+date: "23 March 2023"
 description: Blackberry juice
 image: /assets/images/ebdb59b2-f229-43aa-b841-7281586c9a37.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - candy reviews
 - desserts
 - food history
-date: "2023-03-05T00:00:00Z"
+date: "5 March 2023"
 description: Snickers bar
 image: /assets/images/f437cd51-87ef-4178-9d19-a6f3b8d4e081.png
 nutrients:

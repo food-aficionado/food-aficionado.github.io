@@ -4,7 +4,7 @@ categories:
 - spices  herbs
 - texmex cuisine
 - cookoffs
-date: "2023-07-11T00:00:00Z"
+date: "11 July 2023"
 description: Chili seasoning mix
 image: /assets/images/5ff36264-0e9a-47a6-a1dd-ace5028922b5.png
 nutrients:

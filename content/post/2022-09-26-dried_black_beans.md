@@ -4,7 +4,7 @@ categories:
 - beans
 - nutrition
 - history
-date: "2022-09-26T00:00:00Z"
+date: "26 September 2022"
 description: Dried black beans
 image: /assets/images/d1b7dffe-c871-47df-990c-ee0ec29929b0.png
 nutrients:

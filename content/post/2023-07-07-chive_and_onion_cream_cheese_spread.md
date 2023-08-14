@@ -4,7 +4,7 @@ categories:
 - cream cheese spreads
 - recipes
 - nutrition
-date: "2023-07-07T00:00:00Z"
+date: "7 July 2023"
 description: Chive & Onion Cream Cheese Spread is a flavorful and versatile spread
   with a creamy texture and tantalizing blend of chives and onions which can be used
   in a variety of dishes from bagels to dips.

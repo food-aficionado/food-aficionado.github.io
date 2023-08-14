@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - historical tidbits
-date: "2022-08-24T00:00:00Z"
+date: "24 August 2022"
 description: Ground chorizo
 image: /assets/images/302700cf-4ebe-450b-bda3-7d6ff3714da7.png
 nutrients:

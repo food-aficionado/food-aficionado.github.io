@@ -4,7 +4,7 @@ categories:
 - food prep
 - culinary secrets
 - health benefits
-date: "2022-08-21T00:00:00Z"
+date: "21 August 2022"
 description: Beef bouillon
 image: /assets/images/dda92067-dcd1-4758-b5a8-ca5d9645d129.png
 nutrients:

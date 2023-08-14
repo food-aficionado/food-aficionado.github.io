@@ -4,7 +4,7 @@ categories:
 - health benefits of broccoli florets
 - versatile cooking methods
 - nutritional value of broccoli
-date: "2022-08-23T00:00:00Z"
+date: "23 August 2022"
 description: Broccoli florets
 image: /assets/images/c752875e-f144-48c5-b204-b457a9ae56e3.png
 nutrients:

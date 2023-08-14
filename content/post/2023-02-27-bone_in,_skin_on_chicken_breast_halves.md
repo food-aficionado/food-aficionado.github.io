@@ -4,7 +4,7 @@ categories:
 - chicken recipes
 - nutrition
 - culinary history
-date: "2023-02-27T00:00:00Z"
+date: "27 February 2023"
 description: Bone in, skin on chicken breast halves
 image: /assets/images/2a39044f-7dbb-44bf-a6a5-7ac9ee2d7468.png
 nutrients:

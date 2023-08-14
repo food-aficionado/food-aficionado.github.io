@@ -4,7 +4,7 @@ categories:
 - desserts
 - savory dishes
 - health benefits
-date: "2023-03-03T00:00:00Z"
+date: "3 March 2023"
 description: Semisweet chocolate
 image: /assets/images/66ce0e34-e2a4-45b0-9e10-07259d09e991.png
 nutrients:

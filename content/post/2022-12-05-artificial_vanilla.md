@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - beverages
-date: "2022-12-05T00:00:00Z"
+date: "5 December 2022"
 description: Imitation vanilla is a synthetic flavoring agent offering an accessible
   and economical alternative to natural vanilla and a robust flavor that can enhance
   a variety of sweet and savory dishes.

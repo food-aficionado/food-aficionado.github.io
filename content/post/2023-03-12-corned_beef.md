@@ -4,7 +4,7 @@ categories:
 - culinary
 - history
 - nutrition
-date: "2023-03-12T00:00:00Z"
+date: "12 March 2023"
 description: Corned beef
 image: /assets/images/63fb129f-6495-4e38-ae03-51a9b4d56ab7.png
 nutrients:

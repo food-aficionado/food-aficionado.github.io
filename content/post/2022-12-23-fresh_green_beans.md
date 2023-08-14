@@ -4,7 +4,7 @@ categories:
 - fresh produce
 - cooking
 - nutrition
-date: "2022-12-23T00:00:00Z"
+date: "23 December 2022"
 description: Fresh green beans
 image: /assets/images/efafe63c-c446-4fbd-ae7b-d00296aff979.png
 nutrients:

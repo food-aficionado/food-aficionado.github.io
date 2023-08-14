@@ -4,7 +4,7 @@ categories:
 - health  wellness
 - beverages
 - culinary
-date: "2022-09-22T00:00:00Z"
+date: "22 September 2022"
 description: Blueberry juice
 image: /assets/images/6aeb3e78-ec53-4ee4-b9e3-aa36549f2f07.png
 nutrients:

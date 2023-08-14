@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - cooking  recipes
 - history  culture
-date: "2023-01-09T00:00:00Z"
+date: "9 January 2023"
 description: Cooked buckwheat
 image: /assets/images/f362a31a-6e38-4ef0-b31d-3a53dbcaba2a.png
 nutrients:

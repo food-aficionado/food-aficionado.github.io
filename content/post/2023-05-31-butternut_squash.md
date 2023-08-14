@@ -5,7 +5,7 @@ categories:
 - nutrition
 - history  fun facts
 - benefits
-date: "2023-05-31T00:00:00Z"
+date: "31 May 2023"
 description: Butternut squash
 image: /assets/images/e6380a34-b4bb-43a9-ba8f-7c362c5ea740.png
 nutrients:

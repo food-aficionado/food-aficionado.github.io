@@ -4,7 +4,7 @@ categories:
 - food  beverages
 - brewing  beer
 - health  nutrition
-date: "2023-06-18T00:00:00Z"
+date: "18 June 2023"
 description: Wheat beer
 image: /assets/images/a1885f4f-b481-4d24-9079-592edee88801.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - goat cheese
 - cooking
 - nutrition
-date: "2023-05-16T00:00:00Z"
+date: "16 May 2023"
 description: Goat cheese
 image: /assets/images/989f1fec-56fc-490e-ae9d-e53e043c6ef4.png
 nutrients:

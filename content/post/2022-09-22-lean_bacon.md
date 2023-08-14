@@ -4,7 +4,7 @@ categories:
 - bacon
 - nutrition
 - recipes
-date: "2022-09-22T00:00:00Z"
+date: "22 September 2022"
 description: Lean bacon
 image: /assets/images/cbbbba67-0316-414d-9012-0a3b56446999.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - wine
 - culinary uses
 - nutrition
-date: "2023-01-22T00:00:00Z"
+date: "22 January 2023"
 description: Sauvignon blanc
 image: /assets/images/3a840d1d-99eb-46ea-a78c-2a00e9d235c0.png
 nutrients:

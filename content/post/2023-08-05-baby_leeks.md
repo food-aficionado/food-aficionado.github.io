@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - interesting facts
-date: "2023-08-05T00:00:00Z"
+date: "5 August 2023"
 description: Baby leeks
 image: /assets/images/f1200296-2937-4f47-be7d-364fa9bc8752.png
 nutrients:

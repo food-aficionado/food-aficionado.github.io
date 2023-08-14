@@ -4,7 +4,7 @@ categories:
 - fruit
 - cooking
 - nutrition
-date: "2023-07-25T00:00:00Z"
+date: "25 July 2023"
 description: The cherimoya is an exotic, subtly tart, lusciously creamy, tropical-flavored
   fruit that can be used to make both sweet and savory dishes, contributing to a healthy
   diet with essential vitamins and minerals.

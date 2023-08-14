@@ -4,7 +4,7 @@ categories:
 - comfort food
 - cooking
 - nutrition
-date: "2023-03-08T00:00:00Z"
+date: "8 March 2023"
 description: Corn husks
 image: /assets/images/78c9d68c-cdf8-436a-a102-7c116c293752.png
 nutrients:

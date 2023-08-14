@@ -4,7 +4,7 @@ categories:
 - toffee bits
 - baking
 - sweet treats
-date: "2022-08-11T00:00:00Z"
+date: "11 August 2022"
 description: Toffee pieces
 image: /assets/images/bbf6b687-e751-4f6b-b087-3ff6273884b5.png
 nutrients:

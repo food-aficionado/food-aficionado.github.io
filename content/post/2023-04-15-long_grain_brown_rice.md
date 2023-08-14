@@ -4,7 +4,7 @@ categories:
 - health benefits
 - culinary uses
 - history
-date: "2023-04-15T00:00:00Z"
+date: "15 April 2023"
 description: Long grain brown rice
 image: /assets/images/98a9473a-4c7d-4a04-b367-1449573c6bdc.png
 nutrients:

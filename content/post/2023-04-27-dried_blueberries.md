@@ -4,7 +4,7 @@ categories:
 - healthy food
 - baking
 - cooking
-date: "2023-04-27T00:00:00Z"
+date: "27 April 2023"
 description: Dried blueberries
 image: /assets/images/3400378a-e9db-4d8c-8b4f-9c5003eae277.png
 nutrients:

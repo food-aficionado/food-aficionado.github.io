@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - cooking  recipes
 - farming  agriculture
-date: "2023-01-07T00:00:00Z"
+date: "7 January 2023"
 description: Baby carrots
 image: /assets/images/0bd150b4-01d0-4a90-8305-bf7457053159.png
 nutrients:

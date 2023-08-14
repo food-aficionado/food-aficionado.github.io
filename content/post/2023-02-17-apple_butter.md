@@ -4,7 +4,7 @@ categories:
 - apple butter spread
 - cooking
 - nutrition
-date: "2023-02-17T00:00:00Z"
+date: "17 February 2023"
 description: Apple butter spread offers a unique and complex flavor, while being versatile
   in cooking, offering nutritional value and an interesting history.
 image: /assets/images/5ff2abbe-5e57-4194-ab4e-448c51a60154.png

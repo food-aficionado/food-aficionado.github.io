@@ -4,7 +4,7 @@ categories:
 - dietary nutrition
 - cooking and baking
 - agriculture
-date: "2023-06-09T00:00:00Z"
+date: "9 June 2023"
 description: Corn on the cob
 image: /assets/images/3224f164-59b0-4340-878c-f71fc591f9e8.png
 nutrients:

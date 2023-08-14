@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-11-21T00:00:00Z"
+date: "21 November 2022"
 description: Everything bagel seasoning
 image: /assets/images/c08eaa56-dced-4ed2-9828-4e48153593c8.png
 nutrients:

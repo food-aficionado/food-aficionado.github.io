@@ -4,7 +4,7 @@ categories:
 - french cuisine
 - pastries
 - bakery
-date: "2023-01-29T00:00:00Z"
+date: "29 January 2023"
 description: Croissant
 image: /assets/images/7d1bb08a-adb0-4cf1-a367-7da6aac56f85.png
 nutrients:

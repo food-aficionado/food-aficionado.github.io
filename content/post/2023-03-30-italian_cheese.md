@@ -4,7 +4,7 @@ categories:
 - italian cheese
 - flavor
 - nutritional benefits
-date: "2023-03-30T00:00:00Z"
+date: "30 March 2023"
 description: Italian cheese
 image: /assets/images/2bc290c9-0ceb-486c-8307-2aaab3eb8715.png
 nutrients:

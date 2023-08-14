@@ -4,7 +4,7 @@ categories:
 - korean cuisine
 - marinades
 - nutrition
-date: "2023-07-17T00:00:00Z"
+date: "17 July 2023"
 description: Korean bbq marinade
 image: /assets/images/fca92724-9431-4474-b727-976ed789d7f8.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - herbs  spices
 - middle eastern cuisine
 - antioxidants
-date: "2022-10-10T00:00:00Z"
+date: "10 October 2022"
 description: Dried barberries
 image: /assets/images/a87a922c-3040-4f4d-998a-937cae823685.png
 nutrients:

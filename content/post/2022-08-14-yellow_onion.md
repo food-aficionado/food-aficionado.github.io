@@ -4,7 +4,7 @@ categories:
 - cooking with onions
 - nutritional value
 - historical background
-date: "2022-08-14T00:00:00Z"
+date: "14 August 2022"
 description: Yellow onion
 image: /assets/images/027a1252-7005-4cc8-a060-64156b423661.png
 nutrients:

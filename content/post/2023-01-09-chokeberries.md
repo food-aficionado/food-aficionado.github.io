@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - cookingrecipes
-date: "2023-01-09T00:00:00Z"
+date: "9 January 2023"
 description: Aronia is a super berry that boasts a unique flavor combination, culinary
   versatility, and numerous nutritional benefits for improved health.
 image: /assets/images/58249f11-31bf-4f0d-a8c8-66fa60cb99c0.png

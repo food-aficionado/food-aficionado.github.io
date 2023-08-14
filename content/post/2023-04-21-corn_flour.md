@@ -5,7 +5,7 @@ categories:
 - common uses in cooking
 - nutritional value
 - interesting history and facts
-date: "2023-04-21T00:00:00Z"
+date: "21 April 2023"
 description: Corn flour
 image: /assets/images/57a73f6a-12de-4d10-b4ec-f1e4b50770db.png
 nutrients:

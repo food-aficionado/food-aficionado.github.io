@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history and fun facts
-date: "2023-02-24T00:00:00Z"
+date: "24 February 2023"
 description: Canned soybeans
 image: /assets/images/7ae7f1ab-db49-48fd-aa9d-57dadf090ca8.png
 nutrients:

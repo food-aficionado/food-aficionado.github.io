@@ -4,7 +4,7 @@ categories:
 - desserts
 - brownies
 - baking
-date: "2022-11-14T00:00:00Z"
+date: "14 November 2022"
 description: Brownie mix
 image: /assets/images/e1e4d6bf-ce36-4b0b-bc85-959b23f337ef.png
 nutrients:

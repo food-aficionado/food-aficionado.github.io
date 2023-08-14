@@ -4,7 +4,7 @@ categories:
 - lowsugar cooking
 - condiments
 - culinary history
-date: "2022-12-14T00:00:00Z"
+date: "14 December 2022"
 description: Reduced sugar ketchup offers the taste of traditional ketchup without
   the sugar overload, allowing for guilt-free cravings satisfaction.
 image: /assets/images/9a1b4c9f-b845-4a0b-8cf2-805004b86154.png

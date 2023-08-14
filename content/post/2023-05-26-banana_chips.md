@@ -4,7 +4,7 @@ categories:
 - snacks
 - health benefits
 - cooking methods
-date: "2023-05-26T00:00:00Z"
+date: "26 May 2023"
 description: Banana chips
 image: /assets/images/55d19fab-b0fc-4a8f-94ab-39b414bfdb95.png
 nutrients:

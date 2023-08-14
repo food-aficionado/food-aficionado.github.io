@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegetarianvegan recipes
 - asian cuisine
-date: "2022-12-01T00:00:00Z"
+date: "1 December 2022"
 description: Bean sprouts
 image: /assets/images/7da76e55-1b2f-468c-9e84-a96373ff9d6a.png
 nutrients:

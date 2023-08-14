@@ -4,7 +4,7 @@ categories:
 - food
 - health
 - history
-date: "2023-05-08T00:00:00Z"
+date: "8 May 2023"
 description: Blood orange
 image: /assets/images/8457b2f7-3885-4ab4-a5d2-c0613ae1f74f.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - health
 - kitchen tools
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: Vegetable oil cooking spray
 image: /assets/images/fc90446f-cc53-4714-acb2-f332c93a9a45.png
 nutrients:

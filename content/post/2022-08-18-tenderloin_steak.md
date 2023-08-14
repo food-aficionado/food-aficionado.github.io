@@ -4,7 +4,7 @@ categories:
 - beef
 - cookingrecipes
 - nutrition
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Tenderloin steak
 image: /assets/images/77d89a5e-0f16-4f14-b0c4-f70adc615f6d.png
 nutrients:

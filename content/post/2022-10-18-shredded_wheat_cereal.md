@@ -4,7 +4,7 @@ categories:
 - cereals
 - nutritional value
 - culinary applications
-date: "2022-10-18T00:00:00Z"
+date: "18 October 2022"
 description: Shredded wheat cereal
 image: /assets/images/a0f40ca1-2dd5-4174-b6cb-634a26bb9203.png
 nutrients:

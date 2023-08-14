@@ -4,7 +4,7 @@ categories:
 - corned beef
 - cooking
 - nutrition
-date: "2022-09-30T00:00:00Z"
+date: "30 September 2022"
 description: Corned beef brisket
 image: /assets/images/59a87066-c2e9-4252-aa76-f3ce892f900a.png
 nutrients:

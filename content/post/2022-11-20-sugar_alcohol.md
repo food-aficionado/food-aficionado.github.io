@@ -4,7 +4,7 @@ categories:
 - sugar alcohol
 - healthier sweeteners
 - nutrition
-date: "2022-11-20T00:00:00Z"
+date: "20 November 2022"
 description: Sugar alcohol offers a sweet taste with fewer calories and a low glycemic
   index, making it a popular alternative to sugar in cooking and baking for those
   watching their daily intake or following a low-carb or ketogenic diet.

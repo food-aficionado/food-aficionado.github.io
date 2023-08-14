@@ -4,7 +4,7 @@ categories:
 - culinary arts
 - vegetarian cooking
 - nutrition
-date: "2023-04-28T00:00:00Z"
+date: "28 April 2023"
 description: Vegetable stock
 image: /assets/images/5194858a-d977-475b-9d71-4baf67c22e04.png
 nutrients:

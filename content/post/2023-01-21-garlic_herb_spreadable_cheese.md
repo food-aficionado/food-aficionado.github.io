@@ -4,7 +4,7 @@ categories:
 - savory dishes
 - condiments
 - cheese
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Garlic-herb spreadable cheese is a combination of creamy cheese, garlic,
   and herbs that can be used to elevate any dish and provide nutritional benefits.
 image: /assets/images/575c316b-bae7-4105-aaa7-776378775d48.png

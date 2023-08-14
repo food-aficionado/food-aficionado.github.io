@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Country style beef ribs
 image: /assets/images/00926c53-f52e-4876-b899-53d669f76001.png
 nutrients:

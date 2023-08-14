@@ -4,7 +4,7 @@ categories:
 - canned asparagus
 - cooking
 - nutrition
-date: "2022-12-21T00:00:00Z"
+date: "21 December 2022"
 description: Canned asparagus is a convenient pantry staple that offers an array of
   uses, flavor, and nutrition, as well as an interesting history.
 image: /assets/images/4230be7e-ca8c-4905-8f61-981ea5a5d046.png

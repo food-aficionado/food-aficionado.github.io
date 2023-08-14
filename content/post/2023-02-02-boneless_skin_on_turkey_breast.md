@@ -4,7 +4,7 @@ categories:
 - poultry
 - nutrition
 - history
-date: "2023-02-02T00:00:00Z"
+date: "2 February 2023"
 description: Boneless skin on turkey breast
 image: /assets/images/1def1ea0-8489-4af0-b025-b92e67f00acc.png
 nutrients:

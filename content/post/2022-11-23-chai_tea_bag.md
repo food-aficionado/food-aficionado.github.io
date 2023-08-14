@@ -4,7 +4,7 @@ categories:
 - tea
 - spices
 - health benefits
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Chai tea bag
 image: /assets/images/0ba5af27-3777-4925-bb65-e4969ac4dd85.png
 nutrients:

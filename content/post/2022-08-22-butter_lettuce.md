@@ -4,7 +4,7 @@ categories:
 - leafy greens
 - healthy eating
 - cooking
-date: "2022-08-22T00:00:00Z"
+date: "22 August 2022"
 description: Butter lettuce
 image: /assets/images/4ad0620e-9c9b-41ce-a840-ced570d6bd60.png
 nutrients:

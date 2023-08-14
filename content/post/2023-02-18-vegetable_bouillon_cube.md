@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - history
-date: "2023-02-18T00:00:00Z"
+date: "18 February 2023"
 description: Vegetable bouillon cube
 image: /assets/images/e3da6b93-4f68-4759-bb95-41f770c7b0f8.png
 nutrients:

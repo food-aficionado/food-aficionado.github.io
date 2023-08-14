@@ -4,7 +4,7 @@ categories:
 - chicken recipes
 - healthy eating
 - cooking methods
-date: "2023-06-21T00:00:00Z"
+date: "21 June 2023"
 description: Chicken breast
 image: /assets/images/b3a79537-9923-49f6-bdd3-7d41643b5c6a.png
 nutrients:

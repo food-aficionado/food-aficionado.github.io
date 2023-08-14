@@ -4,7 +4,7 @@ categories:
 - culinary
 - baked goods
 - beverages
-date: "2023-07-15T00:00:00Z"
+date: "15 July 2023"
 description: Blood orange zest
 image: /assets/images/959785d7-0902-4387-86b7-c70d93336fa5.png
 nutrients:

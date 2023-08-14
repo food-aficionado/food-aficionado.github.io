@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-03-23T00:00:00Z"
+date: "23 March 2023"
 description: Rice bran oil
 image: /assets/images/7b73389f-9f56-4135-a447-a14de03b129b.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - comfort food
 - nutrition
 - history
-date: "2023-08-07T00:00:00Z"
+date: "7 August 2023"
 description: Baked beans are a beloved form of comfort food around the world appreciated
   for their rich, smoky flavor, versatility, and nutritional value.
 image: /assets/images/7daced1f-3e2f-4959-8b8a-2d140f7856a2.png

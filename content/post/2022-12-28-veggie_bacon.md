@@ -4,7 +4,7 @@ categories:
 - vegetarian cooking
 - plantbased diets
 - vegetarianism
-date: "2022-12-28T00:00:00Z"
+date: "28 December 2022"
 description: Veggie bacon
 image: /assets/images/08318a3f-3011-4468-bb5b-5e07791a6337.png
 nutrients:

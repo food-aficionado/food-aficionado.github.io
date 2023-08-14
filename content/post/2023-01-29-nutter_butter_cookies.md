@@ -4,7 +4,7 @@ categories:
 - snacks
 - baking
 - nutrition
-date: "2023-01-29T00:00:00Z"
+date: "29 January 2023"
 description: Nutter butter cookies
 image: /assets/images/22aaf329-8b41-49ef-a5b1-8dac8dc85970.png
 nutrients:

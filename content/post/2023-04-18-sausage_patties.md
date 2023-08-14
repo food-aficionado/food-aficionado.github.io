@@ -5,7 +5,7 @@ categories:
 - cooking ideas
 - nutritional value
 - interesting facts and history
-date: "2023-04-18T00:00:00Z"
+date: "18 April 2023"
 description: Sausage patties
 image: /assets/images/abbdb002-7054-4134-9274-7906dab314a2.png
 nutrients:

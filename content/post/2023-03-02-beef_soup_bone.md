@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-03-02T00:00:00Z"
+date: "2 March 2023"
 description: Beef soup bone
 image: /assets/images/6ea98da1-fcb1-48b4-b356-d6173ca17395.png
 nutrients:

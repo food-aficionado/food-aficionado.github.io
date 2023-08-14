@@ -4,7 +4,7 @@ categories:
 - japanese cuisine
 - beef dishes
 - ramen
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Beef flavored ramen
 image: /assets/images/c9ed41af-e8fa-4413-9419-8cdc6a1f6db0.png
 nutrients:

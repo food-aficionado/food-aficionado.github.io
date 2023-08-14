@@ -4,7 +4,7 @@ categories:
 - spices  herbs
 - baking
 - pickling
-date: "2023-07-09T00:00:00Z"
+date: "9 July 2023"
 description: Caraway seeds
 image: /assets/images/0ae26732-f5fb-4362-9acc-e894625c6fd0.png
 nutrients:

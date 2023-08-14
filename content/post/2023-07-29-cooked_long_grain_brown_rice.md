@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-07-29T00:00:00Z"
+date: "29 July 2023"
 description: Cooked long grain brown rice
 image: /assets/images/37ef7612-f68b-4c59-b15d-8e5f81eaf307.png
 nutrients:

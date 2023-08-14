@@ -4,7 +4,7 @@ categories:
 - plantbased recipes
 - healthy eating
 - history of food
-date: "2022-12-11T00:00:00Z"
+date: "11 December 2022"
 description: Dried pinto beans
 image: /assets/images/f2f80885-2c3a-4e94-a7b0-d7c2d0603e21.png
 nutrients:

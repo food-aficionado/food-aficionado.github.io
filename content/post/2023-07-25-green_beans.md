@@ -4,7 +4,7 @@ categories:
 - cooking  culinary uses
 - taste  flavor
 - nutritional benefits
-date: "2023-07-25T00:00:00Z"
+date: "25 July 2023"
 description: Green beans
 image: /assets/images/ba7f4231-62ff-44e1-956d-dd226e35017f.png
 nutrients:

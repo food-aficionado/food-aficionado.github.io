@@ -6,7 +6,7 @@ categories:
 - common uses and culinary delights
 - nutritional value
 - a fascinating history and fun facts
-date: "2022-10-08T00:00:00Z"
+date: "8 October 2022"
 description: Canadian bacon
 image: /assets/images/3e5dfce8-d28c-4002-807e-e258d4d7b452.png
 nutrients:

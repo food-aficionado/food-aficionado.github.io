@@ -4,7 +4,7 @@ categories:
 - beef broth
 - health benefits
 - culinary uses
-date: "2022-09-27T00:00:00Z"
+date: "27 September 2022"
 description: Bone broth
 image: /assets/images/ace428e6-361f-4a33-b37e-a26da5d1a284.png
 nutrients:

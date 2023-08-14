@@ -4,7 +4,7 @@ categories:
 - fruit cuisine
 - nutrition
 - history
-date: "2023-06-01T00:00:00Z"
+date: "1 June 2023"
 description: Purple plum
 image: /assets/images/bd714f7c-a6c1-4661-90a3-b99cef35b529.png
 nutrients:

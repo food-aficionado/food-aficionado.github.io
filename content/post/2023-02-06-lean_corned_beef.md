@@ -4,7 +4,7 @@ categories:
 - categories lean meats
 - culinary delights
 - historical significance
-date: "2023-02-06T00:00:00Z"
+date: "6 February 2023"
 description: Lean corned beef
 image: /assets/images/410a2493-90c4-47ea-a66d-0d610dadff25.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - comfort foods
 - pasta dishes
-date: "2023-03-28T00:00:00Z"
+date: "28 March 2023"
 description: Lasagne noodles
 image: /assets/images/4ab731c3-4ec2-45d6-a3e4-7a60ece33bc5.png
 nutrients:

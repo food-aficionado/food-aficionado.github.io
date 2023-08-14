@@ -6,7 +6,7 @@ categories:
 - common uses in cooking
 - nutritional value
 - fun facts
-date: "2023-03-18T00:00:00Z"
+date: "18 March 2023"
 description: Fava beans
 image: /assets/images/bdeb3b74-1ab6-448d-ad0c-064c1df65af7.png
 nutrients:

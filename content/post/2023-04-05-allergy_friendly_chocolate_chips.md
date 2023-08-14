@@ -4,7 +4,7 @@ categories:
 - allergyfree foods
 - chocolate
 - baking  cooking
-date: "2023-04-05T00:00:00Z"
+date: "5 April 2023"
 description: Allergy-free chocolate chips offer a delicious and safe option for every
   sweet tooth's cravings.
 image: /assets/images/15cb44e6-60e9-4d18-8ea0-72302e295672.png

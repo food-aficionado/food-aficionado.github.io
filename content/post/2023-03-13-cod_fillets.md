@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-03-13T00:00:00Z"
+date: "13 March 2023"
 description: Cod fillets
 image: /assets/images/87091c2c-3dd7-4e3d-87b0-1682ac666cfc.png
 nutrients:

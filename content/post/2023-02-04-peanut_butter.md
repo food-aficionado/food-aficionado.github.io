@@ -6,7 +6,7 @@ categories:
 - cooking with peanut butter
 - nutritional benefits
 - history and fun facts
-date: "2023-02-04T00:00:00Z"
+date: "4 February 2023"
 description: Peanut butter
 image: /assets/images/3fb0e3a7-4f83-41c3-8c24-c9f7a538e9d8.png
 nutrients:

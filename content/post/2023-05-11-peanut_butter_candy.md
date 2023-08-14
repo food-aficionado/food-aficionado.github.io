@@ -4,7 +4,7 @@ categories:
 - candies
 - peanut butter
 - nutrition
-date: "2023-05-11T00:00:00Z"
+date: "11 May 2023"
 description: Peanut butter candy
 image: /assets/images/e9aaf918-b6f1-44a1-9837-54701addd918.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-07-20T00:00:00Z"
+date: "20 July 2023"
 description: Buttercup squash
 image: /assets/images/21b8f047-cdde-4da7-aa49-1c470b3ff5e3.png
 nutrients:

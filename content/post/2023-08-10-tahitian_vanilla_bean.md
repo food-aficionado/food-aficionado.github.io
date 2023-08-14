@@ -4,7 +4,7 @@ categories:
 - culinary
 - tahitian vanilla beans
 - nutrition
-date: "2023-08-10T00:00:00Z"
+date: "10 August 2023"
 description: Tahitian vanilla bean
 image: /assets/images/056ae8d2-3f3a-408b-88d2-7768203cb40a.png
 nutrients:

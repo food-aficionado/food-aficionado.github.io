@@ -4,7 +4,7 @@ categories:
 - health and nutrition
 - superfoods
 - baking
-date: "2023-05-06T00:00:00Z"
+date: "6 May 2023"
 description: Cocoa nibs
 image: /assets/images/e76d5a76-796d-4ba4-84d7-de9079f1aa24.png
 nutrients:

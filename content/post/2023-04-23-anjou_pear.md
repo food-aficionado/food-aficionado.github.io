@@ -4,7 +4,7 @@ categories:
 - fruit
 - health benefits
 - culinary uses
-date: "2023-04-23T00:00:00Z"
+date: "23 April 2023"
 description: The D'Anjou pear is a delightful fruit with a rich history, succulent
   and juicy flesh, and an incredibly balanced flavor profile that makes it a favorite
   among food enthusiasts and professional chefs.

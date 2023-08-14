@@ -4,7 +4,7 @@ categories:
 - culinary exploration
 - alligator meat
 - southern american cuisine
-date: "2023-03-16T00:00:00Z"
+date: "16 March 2023"
 description: Exploring the flavors, uses, and nutritional value of alligator meat
   provides an exciting culinary adventure for adventurous food enthusiasts looking
   for a unique culinary experience.

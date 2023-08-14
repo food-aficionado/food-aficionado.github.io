@@ -4,7 +4,7 @@ categories:
 - sweets
 - coconut recipes
 - history of candy
-date: "2023-03-01T00:00:00Z"
+date: "1 March 2023"
 description: The Almond Joy candy bar is a popular treat combining delicious milk
   chocolate, creamy coconut filling and crunchy almonds for a flavor balance that
   is irresistible.

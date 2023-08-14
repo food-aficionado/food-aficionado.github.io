@@ -4,7 +4,7 @@ categories:
 - superfoods
 - culinary delights
 - baking
-date: "2023-07-06T00:00:00Z"
+date: "6 July 2023"
 description: Bee pollen
 image: /assets/images/6a47d8df-ffec-4d70-97a3-a5371c172b42.png
 nutrients:

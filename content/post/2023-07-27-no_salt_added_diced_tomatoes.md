@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-07-27T00:00:00Z"
+date: "27 July 2023"
 description: No salt added diced tomatoes are a nutritious and versatile ingredient
   that can enhance the flavors of many dishes, from pastas and stews to salsas and
   dips, while offering a healthier alternative to canned tomatoes.

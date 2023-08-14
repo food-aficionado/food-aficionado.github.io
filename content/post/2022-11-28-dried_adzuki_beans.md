@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-11-28T00:00:00Z"
+date: "28 November 2022"
 description: Dried aduki beans are an incredibly versatile and nutritious ingredient
   with a deep maroon color, nutty and sweet flavor, and many culinary uses, from savory
   dishes to popular sweet treats.

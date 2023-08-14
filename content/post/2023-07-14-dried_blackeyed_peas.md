@@ -4,7 +4,7 @@ categories:
 - legumes
 - southern cuisine
 - nutritional value
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Dried blackeyed peas
 image: /assets/images/8184a62f-2005-4ebc-b319-4365ce52137e.png
 nutrients:

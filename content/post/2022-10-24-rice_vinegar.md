@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - cooking
 - rice wine vinegar
-date: "2022-10-24T00:00:00Z"
+date: "24 October 2022"
 description: Rice vinegar
 image: /assets/images/ad58d13f-d875-4472-b525-c72076418471.png
 nutrients:

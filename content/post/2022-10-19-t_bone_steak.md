@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-19T00:00:00Z"
+date: "19 October 2022"
 description: T bone steak
 image: /assets/images/3ae5f160-cdea-4b9b-a68e-03fc1b0533b2.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2022-09-06T00:00:00Z"
+date: "6 September 2022"
 description: Avocado oil is an incredibly versatile and nutritious cooking choice
   boasting a mild flavor, high smoke point, and many nutritional benefits.
 image: /assets/images/624265d5-b6e7-486a-a216-8fdb6f048e6d.png

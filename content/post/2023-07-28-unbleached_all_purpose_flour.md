@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - nutrition
-date: "2023-07-28T00:00:00Z"
+date: "28 July 2023"
 description: Unbleached all-purpose flour is a versatile, flavorful kitchen staple
   used in baking, batters and coatings, thickening sauces, and making homemade pasta
   and noodles.

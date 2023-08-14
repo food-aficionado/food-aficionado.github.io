@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking
 - health  nutrition
-date: "2023-08-02T00:00:00Z"
+date: "2 August 2023"
 description: Corona beans
 image: /assets/images/abfc8bc6-8e47-4558-a160-9429f7d70ab7.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - filipino cuisine
 - patis
 - condiments
-date: "2023-08-09T00:00:00Z"
+date: "9 August 2023"
 description: Patis is a versatile, umami-rich ingredient that can add depth and flavor
   to Filipino dishes, while also offering nutritional benefits when consumed in moderation.
 image: /assets/images/45579918-27bf-41e2-a073-b58448f4b707.png

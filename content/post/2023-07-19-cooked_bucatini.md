@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking
 - nutrition
-date: "2023-07-19T00:00:00Z"
+date: "19 July 2023"
 description: Cooked bucatini
 image: /assets/images/440f48f0-076b-4173-9f55-7f1b60c34e63.png
 nutrients:

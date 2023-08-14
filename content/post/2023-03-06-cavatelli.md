@@ -4,7 +4,7 @@ categories:
 - pasta
 - italian cuisine
 - nutrition
-date: "2023-03-06T00:00:00Z"
+date: "6 March 2023"
 description: Cavatelli
 image: /assets/images/6413dfc4-c0ee-4e77-baa7-66a51eec7878.png
 nutrients:

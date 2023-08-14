@@ -4,7 +4,7 @@ categories:
 - waffle syrup
 - taste and flavor
 - nutritional value
-date: "2022-12-19T00:00:00Z"
+date: "19 December 2022"
 description: Table syrup
 image: /assets/images/08b04253-c8a6-40ab-b191-0b43583893c0.png
 nutrients:

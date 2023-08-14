@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - cooking recipes
 - nutrition
-date: "2023-03-26T00:00:00Z"
+date: "26 March 2023"
 description: Cellophane noodles
 image: /assets/images/7860bd2d-517f-4de6-9bcc-d90f106de676.png
 nutrients:

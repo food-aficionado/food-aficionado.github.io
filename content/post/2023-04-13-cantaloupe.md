@@ -4,7 +4,7 @@ categories:
 - fruit
 - health benefits
 - summer recipes
-date: "2023-04-13T00:00:00Z"
+date: "13 April 2023"
 description: Cantaloupe
 image: /assets/images/e6aa641d-8f42-4ad4-b359-375d28bccc8b.png
 nutrients:

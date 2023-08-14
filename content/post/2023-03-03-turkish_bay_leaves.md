@@ -4,7 +4,7 @@ categories:
 - herbs and spices
 - turkish cuisine
 - health benefits
-date: "2023-03-03T00:00:00Z"
+date: "3 March 2023"
 description: Turkish bay leaves
 image: /assets/images/f394502c-0974-4f2f-a581-db6820dc5f59.png
 nutrients:

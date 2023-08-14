@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - umami flavor
 - fermentation
-date: "2023-05-24T00:00:00Z"
+date: "24 May 2023"
 description: Seasoned soybean paste
 image: /assets/images/35698077-7220-4e7f-a59a-f99acc685547.png
 nutrients:

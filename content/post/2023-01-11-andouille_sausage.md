@@ -4,7 +4,7 @@ categories:
 - culinary
 - french cuisine
 - nutrition
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Andouille sausages are a delicious, smoky, and savory sausage originating
   from France, commonly used in Creole and Cajun dishes, and should be enjoyed in
   moderation due to their relatively high sodium and saturated fat content.

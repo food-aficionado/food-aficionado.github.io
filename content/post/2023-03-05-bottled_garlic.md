@@ -4,7 +4,7 @@ categories:
 - cuisine
 - history
 - health benefits
-date: "2023-03-05T00:00:00Z"
+date: "5 March 2023"
 description: Bottled garlic
 image: /assets/images/43d6145b-54cb-468a-b036-6185f3abcda1.png
 nutrients:

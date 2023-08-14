@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking techniques
 - nutrition
-date: "2023-06-07T00:00:00Z"
+date: "7 June 2023"
 description: Broccolini
 image: /assets/images/a6cce68e-ad50-4bd9-a2da-1bec2a697640.png
 nutrients:

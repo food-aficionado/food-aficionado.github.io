@@ -4,7 +4,7 @@ categories:
 - legumes
 - cooking
 - nutrition
-date: "2022-08-22T00:00:00Z"
+date: "22 August 2022"
 description: Navy beans
 image: /assets/images/6280ecf8-ddd2-4cb4-b51c-d24816b5d24e.png
 nutrients:

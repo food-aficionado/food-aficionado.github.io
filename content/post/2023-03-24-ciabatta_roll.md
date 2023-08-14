@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - breads
 - nutrition
-date: "2023-03-24T00:00:00Z"
+date: "24 March 2023"
 description: Ciabatta roll
 image: /assets/images/600c1e86-f398-4fc7-abb7-dbe8414e4f2a.png
 nutrients:

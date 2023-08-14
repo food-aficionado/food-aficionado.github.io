@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - fun facts and history
-date: "2022-12-04T00:00:00Z"
+date: "4 December 2022"
 description: Mashed banana
 image: /assets/images/a5dd6013-57cd-4872-b88d-1af0cb8659bd.png
 nutrients:

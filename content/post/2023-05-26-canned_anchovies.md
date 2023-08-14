@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-05-26T00:00:00Z"
+date: "26 May 2023"
 description: Anchovies have a strong, savory flavor that can be used in various recipes
   to enhance the flavor of sauces, dressings, pizza, pasta dishes, soups, and more,
   as well as providing Omega-3 fatty acids, protein, and vitamins and minerals.

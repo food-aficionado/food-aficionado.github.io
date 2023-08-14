@@ -4,7 +4,7 @@ categories:
 - indian cuisine
 - nutrional value
 - culinary applications
-date: "2023-04-12T00:00:00Z"
+date: "12 April 2023"
 description: Cooked black lentils
 image: /assets/images/c486157a-3c52-4991-b4e1-b24d7614a9cd.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - beef recipes
 - soup recipes
 - french cuisine
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Beef consomme
 image: /assets/images/85b133f9-50db-46b7-9271-286d8997df2e.png
 nutrients:

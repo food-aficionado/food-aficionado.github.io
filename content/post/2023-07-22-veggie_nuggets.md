@@ -4,7 +4,7 @@ categories:
 - plantbased diets
 - vegetarianvegan cuisine
 - nutrition
-date: "2023-07-22T00:00:00Z"
+date: "22 July 2023"
 description: Veggie nuggets
 image: /assets/images/9fba16e2-3cd8-4b04-bf68-de5e32475011.png
 nutrients:

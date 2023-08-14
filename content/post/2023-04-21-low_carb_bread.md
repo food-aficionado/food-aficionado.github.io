@@ -4,7 +4,7 @@ categories:
 - lowcarb eating
 - healthy eating
 - baking
-date: "2023-04-21T00:00:00Z"
+date: "21 April 2023"
 description: Low carb bread
 image: /assets/images/e63ab0bc-a006-4d85-be1b-4685d645732f.png
 nutrients:

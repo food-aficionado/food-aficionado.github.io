@@ -6,7 +6,7 @@ categories:
 - common uses in cooking
 - nutritional value
 - interesting history and facts
-date: "2023-04-22T00:00:00Z"
+date: "22 April 2023"
 description: Corn cereal
 image: /assets/images/ee0342a8-3c3e-4197-93fc-cc0346e3bb76.png
 nutrients:

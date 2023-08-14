@@ -4,7 +4,7 @@ categories:
 - cuisine
 - food
 - history
-date: "2022-11-02T00:00:00Z"
+date: "2 November 2022"
 description: Buffalo sauce
 image: /assets/images/9b610621-8f28-45da-90c3-f04326dc28b2.png
 nutrients:

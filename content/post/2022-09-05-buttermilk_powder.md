@@ -4,7 +4,7 @@ categories:
 - pantry staples
 - flavor enhancements
 - nutrition
-date: "2022-09-05T00:00:00Z"
+date: "5 September 2022"
 description: Buttermilk powder
 image: /assets/images/f9136ec0-8b54-438e-a2df-f9b1f9e788d6.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - seafood
 - nutritional benefits
 - cooking methods
-date: "2022-12-30T00:00:00Z"
+date: "30 December 2022"
 description: Striped bass
 image: /assets/images/fd4524fc-658b-4169-aaf4-413e1f6cc8ff.png
 nutrients:

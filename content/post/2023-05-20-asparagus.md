@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - history of asparagus
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Asparagus has a unique flavor, impressive nutritional value, and is incredibly
   versatile in the kitchen, making it well worth savoring.
 image: /assets/images/7707489e-b0ba-40ce-b4c2-d3ba8b8263a7.png

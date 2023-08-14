@@ -4,7 +4,7 @@ categories:
 - fruit
 - vitaminrich foods
 - antioxidantrich foods
-date: "2023-01-18T00:00:00Z"
+date: "18 January 2023"
 description: Pomegranate arils provide a vibrant array of flavors, textures, and health
   benefits, making them an excellent addition to sweet and savory dishes to bring
   a touch of magic to any culinary creation.

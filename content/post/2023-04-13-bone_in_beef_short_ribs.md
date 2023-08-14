@@ -4,7 +4,7 @@ categories:
 - meat preparation
 - culinary history
 - nutrition
-date: "2023-04-13T00:00:00Z"
+date: "13 April 2023"
 description: Bone in beef short ribs
 image: /assets/images/ac0c8f98-1448-4f22-828d-f757f4c17818.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - chinese medicine
 - culinary uses
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Schisandra berries
 image: /assets/images/1c4c0681-e507-4b88-99dd-f8a5240f10a7.png
 nutrients:

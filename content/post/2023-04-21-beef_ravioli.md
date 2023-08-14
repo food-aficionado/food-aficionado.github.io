@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking applications
 - nutritional value
-date: "2023-04-21T00:00:00Z"
+date: "21 April 2023"
 description: Beef ravioli
 image: /assets/images/bd511e92-4ce9-45b7-bf76-5d9cace715c3.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary
 - baking
 - health benefits
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Pure almond extract packs a punch of flavor that can transform dishes
   into tantalizing delights with its rich, sweet, and slightly nutty flavor, hint
   of aroma, and versatility to enhance sweet and savory dishes, in addition to providing

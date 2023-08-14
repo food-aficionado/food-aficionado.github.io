@@ -4,7 +4,7 @@ categories:
 - wild boar
 - meat
 - culinary uses
-date: "2023-06-23T00:00:00Z"
+date: "23 June 2023"
 description: Leg of wild boar
 image: /assets/images/b56926ab-0604-43fd-9572-acba2b19c425.png
 nutrients:

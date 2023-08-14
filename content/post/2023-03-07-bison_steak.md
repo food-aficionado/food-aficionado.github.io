@@ -4,7 +4,7 @@ categories:
 - culinary arts
 - nutrition
 - history
-date: "2023-03-07T00:00:00Z"
+date: "7 March 2023"
 description: Bison steak
 image: /assets/images/8abcef91-29ae-4905-91f8-22aa2e6daea9.png
 nutrients:

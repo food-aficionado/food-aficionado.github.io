@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - healthy eating
 - culinary history
-date: "2022-11-14T00:00:00Z"
+date: "14 November 2022"
 description: The Asian medley is a unique blend of fresh vegetables which provides
   an array of dynamic and flavorful experiences for a variety of dishes, offering
   nutritional benefits and cultural traditions.

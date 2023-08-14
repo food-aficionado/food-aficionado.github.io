@@ -4,7 +4,7 @@ categories:
 - spices
 - gingerbread spice
 - history
-date: "2023-04-24T00:00:00Z"
+date: "24 April 2023"
 description: Gingerbread spice
 image: /assets/images/7e3074b5-6ad2-411c-8af6-0cb71b5bb979.png
 nutrients:

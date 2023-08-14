@@ -4,7 +4,7 @@ categories:
 - baking
 - healthy eating
 - ingredients
-date: "2023-02-20T00:00:00Z"
+date: "20 February 2023"
 description: ""
 image: /assets/images/8d295294-b9a2-40e1-90a6-7d304a87e7c9.png
 nutrients:

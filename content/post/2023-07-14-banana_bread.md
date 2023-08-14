@@ -4,7 +4,7 @@ categories:
 - culinary
 - health  wellness
 - history
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Banana bread
 image: /assets/images/dbe324e9-53c7-4ad3-a2b3-6552c22b4827.png
 nutrients:

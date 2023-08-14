@@ -6,7 +6,7 @@ categories:
   health  nutrition
 - indian cuisine
 - baking  cooking
-date: "2023-01-23T00:00:00Z"
+date: "23 January 2023"
 description: Pearl millet
 image: /assets/images/9004e79c-4dde-4331-9131-30b14f303ede.png
 nutrients:

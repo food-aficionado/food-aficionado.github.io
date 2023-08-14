@@ -4,7 +4,7 @@ categories:
 - healthy cooking
 - taste and texture
 - nutritional value
-date: "2023-06-17T00:00:00Z"
+date: "17 June 2023"
 description: Low fat half n half is a dairy-based product that combines equal parts
   of milk and cream providing a velvety smooth texture and a slightly sweet and creamy
   taste, with significantly less fat than regular half n half, making it an ideal

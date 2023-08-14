@@ -4,7 +4,7 @@ categories:
 - cooking
 - uses of polenta
 - nutritional value
-date: "2022-09-29T00:00:00Z"
+date: "29 September 2022"
 description: Prepared polenta
 image: /assets/images/791ef93a-802a-4707-b28f-844037aed477.png
 nutrients:

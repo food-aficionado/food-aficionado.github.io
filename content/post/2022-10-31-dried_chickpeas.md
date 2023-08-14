@@ -4,7 +4,7 @@ categories:
 - legumes
 - nutrition
 - culinary delight
-date: "2022-10-31T00:00:00Z"
+date: "31 October 2022"
 description: Dried chickpeas
 image: /assets/images/d9bad580-0dc2-4963-b7d7-f0d8a4023516.png
 nutrients:

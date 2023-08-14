@@ -4,7 +4,7 @@ categories:
 - fruits
 - nutrition
 - cooking
-date: "2023-04-11T00:00:00Z"
+date: "11 April 2023"
 description: Assorted fruit offers a delightful experience with an array of flavors,
   textures, and nutritional benefits that make them an ideal addition to both sweet
   and savory dishes.

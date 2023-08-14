@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history and fun facts
-date: "2023-05-26T00:00:00Z"
+date: "26 May 2023"
 description: Allspice is a versatile and flavorful culinary ingredient that can add
   depth to savory dishes and warmth to sweet treats, as well as offer various health
   benefits.

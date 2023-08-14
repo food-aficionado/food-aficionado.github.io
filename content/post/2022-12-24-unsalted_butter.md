@@ -4,7 +4,7 @@ categories:
 - butter
 - culinary arts
 - cooking techniques
-date: "2022-12-24T00:00:00Z"
+date: "24 December 2022"
 description: Unsalted butter
 image: /assets/images/b9fb2343-3cc7-46b2-a5c1-5c97c4686bf1.png
 nutrients:

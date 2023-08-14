@@ -4,7 +4,7 @@ categories:
 - chicken dishes
 - southern cuisine
 - brazilian cuisine
-date: "2023-04-27T00:00:00Z"
+date: "27 April 2023"
 description: Bone in chicken breast
 image: /assets/images/68c7895f-658c-44d2-9f4e-9950184d793a.png
 nutrients:

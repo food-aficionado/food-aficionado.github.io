@@ -4,7 +4,7 @@ categories:
 - cream of celery soup
 - nutrition
 - recipe ideas
-date: "2022-10-16T00:00:00Z"
+date: "16 October 2022"
 description: Reduced fat and reduced sodium cream of celery soup
 image: /assets/images/12ce6a31-2634-48fa-8fc2-03ced9ecacf2.png
 nutrients:

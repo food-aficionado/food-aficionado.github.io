@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - foods and nutrition
 - plantbased protein
-date: "2022-11-22T00:00:00Z"
+date: "22 November 2022"
 description: Edamame in the pod
 image: /assets/images/ba471223-53d8-4a60-b943-adf3087b4212.png
 nutrients:

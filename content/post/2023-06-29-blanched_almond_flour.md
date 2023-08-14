@@ -4,7 +4,7 @@ categories:
 - dietary options
 - baking
 - nutrition
-date: "2023-06-29T00:00:00Z"
+date: "29 June 2023"
 description: Blanched almond flour is a versatile and nutrient-dense ingredient with
   a subtly sweet flavor that can be used in both sweet and savory recipes.
 image: /assets/images/515f87d0-0b4b-496b-a7b5-63e53b0e0ad9.png

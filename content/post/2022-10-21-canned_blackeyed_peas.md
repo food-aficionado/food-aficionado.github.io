@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-21T00:00:00Z"
+date: "21 October 2022"
 description: Canned blackeyed peas
 image: /assets/images/f64f2d84-3a02-48e1-a159-596059e5abc8.png
 nutrients:

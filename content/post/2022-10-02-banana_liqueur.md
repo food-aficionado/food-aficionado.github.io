@@ -4,7 +4,7 @@ categories:
 - cocktails
 - culinary
 - banana liqueur
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Banana liqueur
 image: /assets/images/1b0a5ddb-0e37-4825-b60a-8ecdc238167c.png
 nutrients:

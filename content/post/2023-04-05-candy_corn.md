@@ -4,7 +4,7 @@ categories:
 - food
 - cooking
 - sweets
-date: "2023-04-05T00:00:00Z"
+date: "5 April 2023"
 description: Candy corn
 image: /assets/images/eeb46790-4ef5-4fc6-b43a-8be029e4d31b.png
 nutrients:

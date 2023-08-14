@@ -4,7 +4,7 @@ categories:
 - cooking
 - ground beef round
 - nutritional value
-date: "2023-07-23T00:00:00Z"
+date: "23 July 2023"
 description: Ground round
 image: /assets/images/f6a1f1af-6c15-432e-a898-8a40436d7c67.png
 nutrients:

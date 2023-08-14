@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - nutrition
 - history
-date: "2023-07-27T00:00:00Z"
+date: "27 July 2023"
 description: Bamboo shoots
 image: /assets/images/a766392a-6c05-4f9d-9853-b0385b4d1d9c.png
 nutrients:

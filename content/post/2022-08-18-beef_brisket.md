@@ -4,7 +4,7 @@ categories:
 - beef
 - cooking
 - nutrition
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Beef brisket
 image: /assets/images/cfc7cc1c-e0af-4981-80fe-ec0f69e0e606.png
 nutrients:

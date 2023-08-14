@@ -4,7 +4,7 @@ categories:
 - cooking
 - bananas
 - shallots
-date: "2022-10-14T00:00:00Z"
+date: "14 October 2022"
 description: Banana shallot
 image: /assets/images/62fbdc03-30ab-4271-977b-3a732ba12e01.png
 nutrients:

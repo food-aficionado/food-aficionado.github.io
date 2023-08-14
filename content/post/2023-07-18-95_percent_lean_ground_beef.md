@@ -4,7 +4,7 @@ categories:
 - culinary wonders
 - ground beef
 - nutritional value
-date: "2023-07-18T00:00:00Z"
+date: "18 July 2023"
 description: 95 percent lean ground beef
 image: /assets/images/84126608-c84e-4fc0-aebb-280ea58c0364.png
 nutrients:

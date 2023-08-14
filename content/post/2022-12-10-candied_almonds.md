@@ -4,7 +4,7 @@ categories:
 - desserts
 - cooking
 - nutrition
-date: "2022-12-10T00:00:00Z"
+date: "10 December 2022"
 description: Sugared almonds are a combination of sweet and crunchy flavors, with
   their burst of flavor and texture used in a variety of baking recipes and dishes
   for special occasions.

@@ -4,7 +4,7 @@ categories:
 - culinary
 - chicken bouillon
 - recipes
-date: "2023-02-18T00:00:00Z"
+date: "18 February 2023"
 description: Chicken bouillon
 image: /assets/images/8a319054-5094-45cc-ac27-c6925d159480.png
 nutrients:

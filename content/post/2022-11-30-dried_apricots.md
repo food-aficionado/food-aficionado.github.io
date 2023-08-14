@@ -4,7 +4,7 @@ categories:
 - dried fruit
 - history
 - nutrition
-date: "2022-11-30T00:00:00Z"
+date: "30 November 2022"
 description: Dried apricots are a flavorful and nutritious treat that offer a versatile
   addition to both sweet and savory recipes, as well as numerous health benefits.
 image: /assets/images/e7bdf6e7-5744-4a13-980b-7238ccbc9710.png

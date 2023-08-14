@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - cooking
-date: "2023-03-28T00:00:00Z"
+date: "28 March 2023"
 description: Collard greens
 image: /assets/images/0a4b3f50-4b1b-49d0-9695-4810bc4a2950.png
 nutrients:

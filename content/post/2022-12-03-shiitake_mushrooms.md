@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2022-12-03T00:00:00Z"
+date: "3 December 2022"
 description: Shiitake mushrooms
 image: /assets/images/10d0590f-94dd-41a4-809e-ad85901107fd.png
 nutrients:

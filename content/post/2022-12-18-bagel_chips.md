@@ -4,7 +4,7 @@ categories:
 - snack food
 - appetizers
 - cooking with bagels
-date: "2022-12-18T00:00:00Z"
+date: "18 December 2022"
 description: Bagel chips
 image: /assets/images/3125bece-c973-4ecd-ae31-a096c3029068.png
 nutrients:

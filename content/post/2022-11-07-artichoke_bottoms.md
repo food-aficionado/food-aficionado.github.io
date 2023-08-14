@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - artichoke recipes
 - nutrition
-date: "2022-11-07T00:00:00Z"
+date: "7 November 2022"
 description: Artichoke bottoms are a flavorful and nutritious addition to culinary
   adventures, offering tender texture, delicious nutty undertones, and valuable health
   benefits.

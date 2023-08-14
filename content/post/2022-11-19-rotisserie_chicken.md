@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - easy recipes
 - history of rotisserie cooking
-date: "2022-11-19T00:00:00Z"
+date: "19 November 2022"
 description: Rotisserie chicken
 image: /assets/images/a05ec1c9-7d7d-4915-b9ea-92a5f653e0b6.png
 nutrients:

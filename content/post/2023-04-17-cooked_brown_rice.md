@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - nutrition
 - culinary uses
-date: "2023-04-17T00:00:00Z"
+date: "17 April 2023"
 description: Cooked brown rice
 image: /assets/images/758130d6-8c6e-4660-80a5-4a5bdee92b09.png
 nutrients:

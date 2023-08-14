@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - health benefits
 - interesting history  facts
-date: "2023-04-13T00:00:00Z"
+date: "13 April 2023"
 description: Gluten free bread flour
 image: /assets/images/8d03a707-a611-42b8-8739-c839349b8f8f.png
 nutrients:

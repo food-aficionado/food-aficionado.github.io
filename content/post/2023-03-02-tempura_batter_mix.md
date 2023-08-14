@@ -4,7 +4,7 @@ categories:
 - culinary adventures
 - tempura batter mix
 - history of food
-date: "2023-03-02T00:00:00Z"
+date: "2 March 2023"
 description: Tempura batter mix
 image: /assets/images/409b06e1-e95d-4362-8f16-338c2cc51a69.png
 nutrients:

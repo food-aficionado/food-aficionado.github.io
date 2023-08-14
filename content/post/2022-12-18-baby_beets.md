@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-12-18T00:00:00Z"
+date: "18 December 2022"
 description: Baby beets
 image: /assets/images/37d81fd6-bb1d-4781-8947-aad4a4f9f7e1.png
 nutrients:

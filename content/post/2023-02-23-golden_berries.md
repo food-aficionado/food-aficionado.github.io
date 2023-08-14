@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - history
-date: "2023-02-23T00:00:00Z"
+date: "23 February 2023"
 description: Golden berries
 image: /assets/images/32b6d8d8-ad8d-4cde-b97c-f148ab76cda0.png
 nutrients:

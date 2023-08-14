@@ -4,7 +4,7 @@ categories:
 - salads
 - lettuce wraps
 - nutritional value
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Butter lettuce leaves
 image: /assets/images/89cdb4c0-7ff3-4adb-a86b-50a73523431b.png
 nutrients:

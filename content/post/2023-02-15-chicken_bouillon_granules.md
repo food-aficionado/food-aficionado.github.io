@@ -4,7 +4,7 @@ categories:
 - culinary history
 - seasoning and spices
 - healthy eating
-date: "2023-02-15T00:00:00Z"
+date: "15 February 2023"
 description: Chicken bouillon granules
 image: /assets/images/1f678477-54c0-4549-826d-2ee29a68c58c.png
 nutrients:

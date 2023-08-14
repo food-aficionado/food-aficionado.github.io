@@ -4,7 +4,7 @@ categories:
 - seasonings and spices
 - cooking and recipes
 - history and culture
-date: "2022-11-26T00:00:00Z"
+date: "26 November 2022"
 description: Old bay seasoning
 image: /assets/images/e4019983-bf11-430a-969c-23f88b052bc6.png
 nutrients:

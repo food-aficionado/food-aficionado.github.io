@@ -4,7 +4,7 @@ categories:
 - cooking
 - culinary
 - nutrition
-date: "2023-03-23T00:00:00Z"
+date: "23 March 2023"
 description: Boneless skinless chicken breast
 image: /assets/images/1e53284b-b716-43d3-8c3a-9f8356cc8fc9.png
 nutrients:

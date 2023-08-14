@@ -4,7 +4,7 @@ categories:
 - legumes
 - plantbased proteins
 - culinary creativity
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: White kidney beans
 image: /assets/images/8e406497-7961-49f2-9315-2855166a58df.png
 nutrients:

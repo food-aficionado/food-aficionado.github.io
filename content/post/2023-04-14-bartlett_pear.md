@@ -4,7 +4,7 @@ categories:
 - culinary
 - fruits
 - health
-date: "2023-04-14T00:00:00Z"
+date: "14 April 2023"
 description: Bartlett pear
 image: /assets/images/b8c154fa-c4bd-498c-ac58-6d9c7ab84125.png
 nutrients:

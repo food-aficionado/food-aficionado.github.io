@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - cooking
 - history
-date: "2022-12-26T00:00:00Z"
+date: "26 December 2022"
 description: Chia seeds
 image: /assets/images/af87c6e7-c732-45f9-833b-bc8c45dfc9e1.png
 nutrients:

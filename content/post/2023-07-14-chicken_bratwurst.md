@@ -4,7 +4,7 @@ categories:
 - chicken cooking
 - nutrition
 - history
-date: "2023-07-14T00:00:00Z"
+date: "14 July 2023"
 description: Chicken bratwurst
 image: /assets/images/52fe0f57-1031-4fd0-b84b-7081d71e7dc0.png
 nutrients:

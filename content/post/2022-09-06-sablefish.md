@@ -4,7 +4,7 @@ categories:
 - seafood
 - historical aspects
 - nutrition
-date: "2022-09-06T00:00:00Z"
+date: "6 September 2022"
 description: Sablefish
 image: /assets/images/0d97cbff-1316-4bdd-b6ae-27a12fa8a2ca.png
 nutrients:

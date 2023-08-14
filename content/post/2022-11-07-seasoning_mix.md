@@ -4,7 +4,7 @@ categories:
 - culinary
 - flavour
 - nutrition
-date: "2022-11-07T00:00:00Z"
+date: "7 November 2022"
 description: Seasoning mix
 image: /assets/images/66c5fdf9-c295-4213-ac3b-06c6e2780863.png
 nutrients:

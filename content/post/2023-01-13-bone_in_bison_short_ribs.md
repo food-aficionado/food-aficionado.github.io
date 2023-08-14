@@ -4,7 +4,7 @@ categories:
 - buffalo cuisine
 - nutritional benefits
 - ethical farming practices
-date: "2023-01-13T00:00:00Z"
+date: "13 January 2023"
 description: Bone in bison short ribs
 image: /assets/images/f5945b51-4572-4fe4-a28d-e5b85b57e2d0.png
 nutrients:

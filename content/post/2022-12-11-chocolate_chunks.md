@@ -4,7 +4,7 @@ categories:
 - baking
 - ingredient usage
 - nutrition
-date: "2022-12-11T00:00:00Z"
+date: "11 December 2022"
 description: Chocolate chunks
 image: /assets/images/ba5b96a8-fa2a-4002-b325-4d1f55f9f32c.png
 nutrients:

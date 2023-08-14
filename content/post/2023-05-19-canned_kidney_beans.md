@@ -4,7 +4,7 @@ categories:
 - nutrition
 - culinary uses
 - history
-date: "2023-05-19T00:00:00Z"
+date: "19 May 2023"
 description: Canned kidney beans
 image: /assets/images/ada2dd19-e1ea-4382-91f6-0049575e7c3b.png
 nutrients:

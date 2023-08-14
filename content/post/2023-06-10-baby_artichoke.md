@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-06-10T00:00:00Z"
+date: "10 June 2023"
 description: Baby artichokes are a delicious and versatile vegetable with a subtle
   nutty flavor, numerous cooking uses, and plenty of nutritional value, making them
   an excellent addition to any meal.

@@ -4,7 +4,7 @@ categories:
 - beef stock
 - soups and stews
 - sauces and gravies
-date: "2023-04-07T00:00:00Z"
+date: "7 April 2023"
 description: Beef stock
 image: /assets/images/9a7cae6f-8d98-4285-bafa-b2887bdc664d.png
 nutrients:

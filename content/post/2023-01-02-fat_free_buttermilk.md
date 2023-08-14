@@ -4,7 +4,7 @@ categories:
 - cooking
 - healthy eating
 - nutrition
-date: "2023-01-02T00:00:00Z"
+date: "2 January 2023"
 description: Fat free buttermilk
 image: /assets/images/822cf3f7-f9b2-4b64-a997-24be761b9d88.png
 nutrients:

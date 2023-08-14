@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - versatility in cooking
 - nutritional value
-date: "2023-07-25T00:00:00Z"
+date: "25 July 2023"
 description: Refried beans
 image: /assets/images/cab05e20-0898-44a0-a6a2-cb75e1f562a0.png
 nutrients:

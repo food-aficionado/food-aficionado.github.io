@@ -4,7 +4,7 @@ categories:
 - legumes
 - health benefits
 - mediterranean cuisine
-date: "2023-06-19T00:00:00Z"
+date: "19 June 2023"
 description: Canned borlotti beans
 image: /assets/images/cb704508-467f-4608-a277-8910eab2f1e0.png
 nutrients:

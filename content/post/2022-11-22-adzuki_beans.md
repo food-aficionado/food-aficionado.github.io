@@ -4,7 +4,7 @@ categories:
 - health and nutrition
 - plantbased protein
 - culinary traditions
-date: "2022-11-22T00:00:00Z"
+date: "22 November 2022"
 description: Aduki beans are highly versatile, nutritionally dense, and culturally
   significant legumes that add flavor and texture to savory and sweet dishes, and
   bring numerous health benefits to boot.

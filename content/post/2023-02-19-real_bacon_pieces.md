@@ -4,7 +4,7 @@ categories:
 - culinary
 - recipes
 - bacon
-date: "2023-02-19T00:00:00Z"
+date: "19 February 2023"
 description: Real bacon pieces
 image: /assets/images/26c9e906-6680-40b0-a887-92826f1c17e1.png
 nutrients:

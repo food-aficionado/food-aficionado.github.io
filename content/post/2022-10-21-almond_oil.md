@@ -4,7 +4,7 @@ categories:
 - gourmet cooking
 - nutrition
 - history
-date: "2022-10-21T00:00:00Z"
+date: "21 October 2022"
 description: ""
 image: /assets/images/9c0a96ac-9a0d-4620-b610-85c8c5f21e06.png
 nutrients:

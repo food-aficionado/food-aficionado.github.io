@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-03-08T00:00:00Z"
+date: "8 March 2023"
 description: Canned white kidney beans
 image: /assets/images/d490d118-4362-4df2-a48d-cdd878741844.png
 nutrients:

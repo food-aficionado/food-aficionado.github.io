@@ -4,7 +4,7 @@ categories:
 - culinary exploration
 - health benefits
 - traditional medicines
-date: "2022-09-12T00:00:00Z"
+date: "12 September 2022"
 description: Black nightshade
 image: /assets/images/6ced1268-11e1-4e85-86e9-afdd758f499b.png
 nutrients:

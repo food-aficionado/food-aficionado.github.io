@@ -4,7 +4,7 @@ categories:
 - food
 - culinary delights
 - smoked sausage
-date: "2023-05-23T00:00:00Z"
+date: "23 May 2023"
 description: Smoked sausage
 image: /assets/images/9b51850e-e5da-4171-b031-c811d914f117.png
 nutrients:

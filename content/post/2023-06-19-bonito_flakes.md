@@ -6,7 +6,7 @@ categories:
 - katsuobushi
 - nutrition
 - japanese food history
-date: "2023-06-19T00:00:00Z"
+date: "19 June 2023"
 description: Bonito flakes
 image: /assets/images/95f396f1-4f44-4658-9712-43dac0dc755d.png
 nutrients:

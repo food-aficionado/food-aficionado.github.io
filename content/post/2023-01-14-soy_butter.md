@@ -4,7 +4,7 @@ categories:
 - soy nut butter
 - nutrition
 - cooking
-date: "2023-01-14T00:00:00Z"
+date: "14 January 2023"
 description: Soy butter
 image: /assets/images/cbbf92c7-8823-414a-9a1c-8bca1d466572.png
 nutrients:

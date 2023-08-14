@@ -4,7 +4,7 @@ categories:
 - health and nutrition
 - vegetarian cooking
 - cooking with veggies
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: The vegetable mix is a harmonious blend of different flavors and colors
   that adds a burst of freshness, flavor, and nourishment to any dish.
 image: /assets/images/d62445e4-f5c0-4ae3-b2c4-19ab69a6be80.png

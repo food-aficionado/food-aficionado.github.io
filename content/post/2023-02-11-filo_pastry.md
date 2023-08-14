@@ -4,7 +4,7 @@ categories:
 - culinary history
 - baking techniques
 - nutritional benefits
-date: "2023-02-11T00:00:00Z"
+date: "11 February 2023"
 description: Filo pastry
 image: /assets/images/12eedd09-0a78-4b25-ac8f-64c7e5e12889.png
 nutrients:

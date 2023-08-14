@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - cooking
-date: "2022-10-05T00:00:00Z"
+date: "5 October 2022"
 description: Avocado slices are a versatile and nutritious ingredient that bring a
   unique texture, flavor, and numerous nutritional benefits to many dishes.
 image: /assets/images/c071fddf-0f79-4ac3-87fa-f4aaa7b73a84.png

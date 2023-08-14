@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-12T00:00:00Z"
+date: "12 October 2022"
 description: Peas and carrots are a timeless combination of complementary flavors,
   vibrant colors, and nutritional benefits elevating any meal to culinary excellence.
 image: /assets/images/702803e3-6831-45d1-865c-ebc97b8ff53c.png

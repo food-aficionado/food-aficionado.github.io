@@ -4,7 +4,7 @@ categories:
 - ginger ale
 - culinary uses
 - nutritional benefits
-date: "2022-08-19T00:00:00Z"
+date: "19 August 2022"
 description: Ginger ale
 image: /assets/images/97b89f34-b20c-43de-96e6-70de912e2def.png
 nutrients:

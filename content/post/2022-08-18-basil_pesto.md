@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking
 - nutrition
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Basil pesto
 image: /assets/images/488be1fa-991a-49d1-bbee-538affaeb089.png
 nutrients:

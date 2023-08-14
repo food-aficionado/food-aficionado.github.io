@@ -4,7 +4,7 @@ categories:
 - seafood recipes
 - sustainable eating
 - conservation
-date: "2023-05-07T00:00:00Z"
+date: "7 May 2023"
 description: Black drum
 image: /assets/images/972a573e-3585-4348-82e8-5c5e0bfaf5a6.png
 nutrients:

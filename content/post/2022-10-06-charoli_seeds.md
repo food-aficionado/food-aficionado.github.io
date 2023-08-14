@@ -4,7 +4,7 @@ categories:
 - indian cooking
 - ayurvedic medicine
 - nutritional benefits
-date: "2022-10-06T00:00:00Z"
+date: "6 October 2022"
 description: Charoli seeds
 image: /assets/images/11ec2803-6d25-48fc-a43f-be5c7d3b8a3e.png
 nutrients:

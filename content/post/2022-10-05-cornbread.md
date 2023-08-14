@@ -4,7 +4,7 @@ categories:
 - comfort foods
 - corn bread history
 - nutritional value
-date: "2022-10-05T00:00:00Z"
+date: "5 October 2022"
 description: Cornbread
 image: /assets/images/b182c6b1-81e1-4d64-acc6-f83a64173f64.png
 nutrients:

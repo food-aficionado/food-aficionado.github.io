@@ -4,7 +4,7 @@ categories:
 - food and cooking
 - nutrition
 - history
-date: "2023-03-07T00:00:00Z"
+date: "7 March 2023"
 description: Mcintosh apple
 image: /assets/images/0e2ac1e8-e10d-48e4-8fb9-32c2d487885a.png
 nutrients:

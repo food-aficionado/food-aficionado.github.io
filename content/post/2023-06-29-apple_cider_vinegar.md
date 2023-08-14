@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - history
-date: "2023-06-29T00:00:00Z"
+date: "29 June 2023"
 description: Cider vinegar is a flavorful, versatile ingredient found in kitchens
   around the world and is rich with health benefits, an interesting history and diverse
   culinary applications.

@@ -4,7 +4,7 @@ categories:
 - cooking with spices
 - vegetables
 - history and facts
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Banana pepper rings
 image: /assets/images/42b57097-59ac-4167-a703-100ed66a1283.png
 nutrients:

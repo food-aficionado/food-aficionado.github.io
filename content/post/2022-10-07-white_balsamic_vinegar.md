@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2022-10-07T00:00:00Z"
+date: "7 October 2022"
 description: White balsamic vinegar
 image: /assets/images/0317edb5-a4e6-4f1a-b2d4-23c025b1b685.png
 nutrients:

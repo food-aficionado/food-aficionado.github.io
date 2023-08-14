@@ -4,7 +4,7 @@ categories:
 - cookingpasta
 - healthnutrition
 - historyfun facts
-date: "2022-09-12T00:00:00Z"
+date: "12 September 2022"
 description: Cooked whole wheat farfalle
 image: /assets/images/abae05b4-86ef-45c6-ba59-8cdffdd65bfd.png
 nutrients:

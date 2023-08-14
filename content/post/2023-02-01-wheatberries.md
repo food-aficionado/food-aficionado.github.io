@@ -4,7 +4,7 @@ categories:
 - nutrition
 - recipes
 - history
-date: "2023-02-01T00:00:00Z"
+date: "1 February 2023"
 description: Wheatberries
 image: /assets/images/3e93d7aa-433a-4bb8-a299-8ba9e78fddc7.png
 nutrients:

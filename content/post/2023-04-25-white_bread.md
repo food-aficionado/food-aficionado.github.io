@@ -4,7 +4,7 @@ categories:
 - bread
 - cooking
 - nutrition
-date: "2023-04-25T00:00:00Z"
+date: "25 April 2023"
 description: White bread
 image: /assets/images/d9241e89-0124-4d1d-a5c2-c21c9deaae09.png
 nutrients:

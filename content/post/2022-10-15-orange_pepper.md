@@ -4,7 +4,7 @@ categories:
 - cuisine
 - nutrition
 - history
-date: "2022-10-15T00:00:00Z"
+date: "15 October 2022"
 description: Orange pepper
 image: /assets/images/40c13127-07f1-49d1-ae11-f3c180a58ace.png
 nutrients:

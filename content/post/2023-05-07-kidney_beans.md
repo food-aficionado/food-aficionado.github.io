@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - plantbased eating
 - cooking  recipes
-date: "2023-05-07T00:00:00Z"
+date: "7 May 2023"
 description: Kidney beans
 image: /assets/images/2059f638-bf67-4f0c-b3c7-0817a59380ab.png
 nutrients:

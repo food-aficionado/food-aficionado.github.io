@@ -4,7 +4,7 @@ categories:
 - lowsodium cooking
 - baking
 - nutrition
-date: "2023-07-31T00:00:00Z"
+date: "31 July 2023"
 description: Low sodium baking powder
 image: /assets/images/b28afb25-a013-47d4-b113-a8b962ad6bac.png
 nutrients:

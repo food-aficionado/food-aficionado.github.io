@@ -4,7 +4,7 @@ categories:
 - dairy products
 - culinary arts
 - nutrition
-date: "2023-03-01T00:00:00Z"
+date: "1 March 2023"
 description: Half and Half is an equal parts combination of milk and cream offering
   a lusciously rich and creamy taste that is perfect for adding richness and creaminess
   to hot beverages, soups and sauces, or baked goods.

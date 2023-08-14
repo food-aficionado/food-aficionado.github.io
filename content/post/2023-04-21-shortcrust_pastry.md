@@ -4,7 +4,7 @@ categories:
 - french cuisine
 - baking
 - cooking
-date: "2023-04-21T00:00:00Z"
+date: "21 April 2023"
 description: Shortcrust pastry
 image: /assets/images/71b3a731-f3bc-40f0-b5c8-fd5c2be7411a.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - spice
 - culinary
 - health benefits
-date: "2022-09-05T00:00:00Z"
+date: "5 September 2022"
 description: Black peppercorns
 image: /assets/images/50a1699b-ec68-498f-b407-524893038830.png
 nutrients:

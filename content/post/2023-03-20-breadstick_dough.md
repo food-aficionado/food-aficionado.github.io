@@ -4,7 +4,7 @@ categories:
 - bread
 - cooking
 - nutrition
-date: "2023-03-20T00:00:00Z"
+date: "20 March 2023"
 description: Breadstick dough
 image: /assets/images/10633b63-b458-4e3a-9f47-8cb5a2239282.png
 nutrients:

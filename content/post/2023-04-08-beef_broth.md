@@ -4,7 +4,7 @@ categories:
 - culinary
 - history
 - nutrition
-date: "2023-04-08T00:00:00Z"
+date: "8 April 2023"
 description: Beef broth
 image: /assets/images/0059eb63-e80e-46a8-96ee-3ddce496fb3b.png
 nutrients:

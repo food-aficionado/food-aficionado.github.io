@@ -4,7 +4,7 @@ categories:
 - culinary
 - greek cuisine
 - legume
-date: "2023-04-24T00:00:00Z"
+date: "24 April 2023"
 description: Canned gigante beans
 image: /assets/images/c9225c05-6967-466f-b638-7abfe7f8efc8.png
 nutrients:

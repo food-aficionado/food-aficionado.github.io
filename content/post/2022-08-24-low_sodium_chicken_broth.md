@@ -4,7 +4,7 @@ categories:
 - lowsodium diets
 - cooking tips
 - health benefits
-date: "2022-08-24T00:00:00Z"
+date: "24 August 2022"
 description: Low sodium chicken broth
 image: /assets/images/a5bb2fb3-53d3-49ec-b73c-63c9fe3ec0cf.png
 nutrients:

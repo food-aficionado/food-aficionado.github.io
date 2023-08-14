@@ -4,7 +4,7 @@ categories:
 - spices
 - filipino cooking
 - health benefits
-date: "2023-03-28T00:00:00Z"
+date: "28 March 2023"
 description: Adobo seasoning is a versatile, flavorful and nutrient-rich Filipino
   spice blend steeped in cultural history, capable of transforming dishes with its
   bold and complex taste.

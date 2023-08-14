@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - legume nutrition
 - italian cuisine
-date: "2023-07-28T00:00:00Z"
+date: "28 July 2023"
 description: Canned cranberry beans
 image: /assets/images/e69d9745-318b-446e-894c-b878c01a8ead.png
 nutrients:

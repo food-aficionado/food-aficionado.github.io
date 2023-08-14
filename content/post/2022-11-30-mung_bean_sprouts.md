@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - asian cuisine
 - nutritional benefits
-date: "2022-11-30T00:00:00Z"
+date: "30 November 2022"
 description: Mung bean sprouts
 image: /assets/images/f030c93b-6ccd-4912-b620-4d9ec9201d73.png
 nutrients:

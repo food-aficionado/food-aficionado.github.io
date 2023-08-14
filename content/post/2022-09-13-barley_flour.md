@@ -4,7 +4,7 @@ categories:
 - culinary applications
 - nutritional value
 - historical significance
-date: "2022-09-13T00:00:00Z"
+date: "13 September 2022"
 description: Barley flour
 image: /assets/images/2f30d4fd-8ba7-441b-8f44-61f58a64f6b0.png
 nutrients:

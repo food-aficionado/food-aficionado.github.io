@@ -4,7 +4,7 @@ categories:
 - fruit jams
 - health benefits
 - history
-date: "2023-03-20T00:00:00Z"
+date: "20 March 2023"
 description: Blackberry jam
 image: /assets/images/d5c71865-bf41-46ea-bcb1-0d59c66c8756.png
 nutrients:

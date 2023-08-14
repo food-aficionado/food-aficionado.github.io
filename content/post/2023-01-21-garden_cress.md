@@ -4,7 +4,7 @@ categories:
 - garden care
 - health  nutrition
 - culinary delights
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Garden cress
 image: /assets/images/7bd1b754-7d93-4813-ae53-e56f414ae686.png
 nutrients:

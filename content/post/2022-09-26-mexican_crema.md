@@ -4,7 +4,7 @@ categories:
 - mexican cream
 - uses in mexican cooking
 - nutritional value
-date: "2022-09-26T00:00:00Z"
+date: "26 September 2022"
 description: Mexican crema
 image: /assets/images/24b0c46e-ff1c-4a2f-b171-86ec3dbeb29b.png
 nutrients:

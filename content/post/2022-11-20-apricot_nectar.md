@@ -4,7 +4,7 @@ categories:
 - fruit juices
 - cooking
 - nutrition
-date: "2022-11-20T00:00:00Z"
+date: "20 November 2022"
 description: Exploring apricot juice's taste, culinary uses, and nutritional benefits
   reveals its versatility and unique ability to bring joy and sunshine to any culinary
   journey.

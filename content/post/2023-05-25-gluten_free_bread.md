@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - bread recipes
 - nutrition and health
-date: "2023-05-25T00:00:00Z"
+date: "25 May 2023"
 description: Gluten free bread
 image: /assets/images/bc178e38-b5b8-4693-908a-aa1373efc023.png
 nutrients:

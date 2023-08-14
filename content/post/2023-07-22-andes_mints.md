@@ -4,7 +4,7 @@ categories:
 - culinary creativity
 - chocolates  mints
 - nutrition  treats
-date: "2023-07-22T00:00:00Z"
+date: "22 July 2023"
 description: The blog post explores the delight of Andes Mints, their uses as a culinary
   ingredient, nutritional values, and interesting origin.
 image: /assets/images/e35a80f0-b423-4d3c-887c-325f73a755b7.png

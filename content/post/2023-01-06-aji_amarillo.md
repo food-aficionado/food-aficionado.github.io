@@ -4,7 +4,7 @@ categories:
 - peruvian cuisine
 - spices  herbs
 - nutritional value
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: Aji Amarillo is a popular Peruvian pepper with vibrant yellow color and
   fruity, citrusy, and subtly floral flavors, providing a bold and vibrant kick to
   culinary creations.

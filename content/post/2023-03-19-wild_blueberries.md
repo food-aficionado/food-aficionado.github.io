@@ -4,7 +4,7 @@ categories:
 - fruits
 - health benefits
 - culinary uses
-date: "2023-03-19T00:00:00Z"
+date: "19 March 2023"
 description: Wild blueberries
 image: /assets/images/0f9f0f70-4a9b-4bb9-85a3-e9861d1c77ff.png
 nutrients:

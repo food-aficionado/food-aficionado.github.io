@@ -4,7 +4,7 @@ categories:
 - middle eastern cuisine
 - aleppo pepper
 - culinary history
-date: "2023-08-05T00:00:00Z"
+date: "5 August 2023"
 description: Discovering Aleppo is a culinary adventure that allows one to explore
   its historic flavors, unique taste, and resilient culture through the power of food.
 image: /assets/images/63fbc584-ffcb-4d6d-91f9-9d696397c0f1.png

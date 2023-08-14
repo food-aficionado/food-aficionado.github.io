@@ -4,7 +4,7 @@ categories:
 - breakfast recipes
 - savory dishes
 - fun facts
-date: "2022-08-17T00:00:00Z"
+date: "17 August 2022"
 description: Sausage links
 image: /assets/images/0b115735-e91b-406e-a3c5-2a818e2b90f1.png
 nutrients:

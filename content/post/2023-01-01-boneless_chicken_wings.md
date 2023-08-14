@@ -4,7 +4,7 @@ categories:
 - appetizers
 - sandwiches and wraps
 - nutritional value
-date: "2023-01-01T00:00:00Z"
+date: "1 January 2023"
 description: Boneless chicken wings
 image: /assets/images/04bd0ae7-14cb-44d9-8964-cb20b19cbcb3.png
 nutrients:

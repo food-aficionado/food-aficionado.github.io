@@ -4,7 +4,7 @@ categories:
 - health benefits
 - cooking  recipes
 - history  culture
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Baby bok choy
 image: /assets/images/390324c4-3f4a-4f18-a999-590951eb3da3.png
 nutrients:

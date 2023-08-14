@@ -4,7 +4,7 @@ categories:
 - pastries
 - nutrition
 - history  fun facts
-date: "2023-05-13T00:00:00Z"
+date: "13 May 2023"
 description: Cinnamon roll
 image: /assets/images/e6d500ff-fdf1-4238-a16d-77dab1fa79ed.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-05-07T00:00:00Z"
+date: "7 May 2023"
 description: Grain blend
 image: /assets/images/db625d5d-3a57-4cb3-9198-dd362a8edcfc.png
 nutrients:

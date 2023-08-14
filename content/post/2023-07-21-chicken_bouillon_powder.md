@@ -4,7 +4,7 @@ categories:
 - cooking
 - flavor enhancers
 - kitchen staples
-date: "2023-07-21T00:00:00Z"
+date: "21 July 2023"
 description: Chicken bouillon powder
 image: /assets/images/2a43dfa6-9ae9-4d4f-9c88-bedfcf31f73c.png
 nutrients:

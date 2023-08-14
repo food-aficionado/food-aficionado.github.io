@@ -4,7 +4,7 @@ categories:
 - food
 - nutrition
 - culinary history
-date: "2023-01-15T00:00:00Z"
+date: "15 January 2023"
 description: Mini bagel
 image: /assets/images/805db963-5227-4817-b292-f1a8d3a571d9.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - canned meats
 - nutritional value
 - common recipes
-date: "2023-04-14T00:00:00Z"
+date: "14 April 2023"
 description: Canned chicken breast
 image: /assets/images/584caa0c-a9a3-488e-a4c6-46de45106b27.png
 nutrients:

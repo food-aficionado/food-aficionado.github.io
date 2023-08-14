@@ -4,7 +4,7 @@ categories:
 - sweets
 - cooking
 - nutrition
-date: "2022-12-17T00:00:00Z"
+date: "17 December 2022"
 description: Jelly beans
 image: /assets/images/5cb9c153-bb03-42de-966d-c0af536a67cc.png
 nutrients:

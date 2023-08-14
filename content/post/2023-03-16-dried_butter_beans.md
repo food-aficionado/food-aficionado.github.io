@@ -4,7 +4,7 @@ categories:
 - legumes
 - nutrition
 - cooking
-date: "2023-03-16T00:00:00Z"
+date: "16 March 2023"
 description: Dried butter beans
 image: /assets/images/bf9c9de4-aa5c-40ed-9414-f87a686d9ba0.png
 nutrients:

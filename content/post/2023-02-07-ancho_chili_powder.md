@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - spices
 - health benefits
-date: "2023-02-07T00:00:00Z"
+date: "7 February 2023"
 description: Ancho chile powder adds a unique smoky and slightly sweet taste to a
   wide range of dishes, as well as providing essential vitamins and minerals and having
   been popular in Mexican cuisine for centuries.

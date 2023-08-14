@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - asian cuisine
 - rice dishes
-date: "2023-06-16T00:00:00Z"
+date: "16 June 2023"
 description: Cooked black rice
 image: /assets/images/2457bc57-ec9c-4107-b554-efd94bb060f2.png
 nutrients:

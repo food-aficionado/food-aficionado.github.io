@@ -4,7 +4,7 @@ categories:
 - mediterranean cuisine
 - cooking with artichokes
 - nutritional value of artichokes
-date: "2023-05-29T00:00:00Z"
+date: "29 May 2023"
 description: The text summarizes that artichokes are a special vegetable that have
   an unusual appearance, delicate flavor, and offer both health benefits and culinary
   versatility.

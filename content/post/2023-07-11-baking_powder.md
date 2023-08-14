@@ -4,7 +4,7 @@ categories:
 - baking
 - kitchen tips
 - culinary history
-date: "2023-07-11T00:00:00Z"
+date: "11 July 2023"
 description: Baking powder
 image: /assets/images/f4fc3638-b277-47c2-a217-2502716bd50b.png
 nutrients:

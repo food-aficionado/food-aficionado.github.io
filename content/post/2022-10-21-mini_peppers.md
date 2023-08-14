@@ -5,7 +5,7 @@ categories:
 - taste profile
 - culinary uses
 - nutritional benefits
-date: "2022-10-21T00:00:00Z"
+date: "21 October 2022"
 description: Mini peppers
 image: /assets/images/019b0762-1e1c-44a8-8811-45d262d20999.png
 nutrients:

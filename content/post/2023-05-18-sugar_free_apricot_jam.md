@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - sugarfree recipes
 - baking and cooking
-date: "2023-05-18T00:00:00Z"
+date: "18 May 2023"
 description: Sugar-free apricot jam offers a tangy burst of flavor, various creative
   uses, nutritional benefits, and a rich history - making it a perfect choice for
   anyone looking to enjoy the taste of apricots without the added sugar.

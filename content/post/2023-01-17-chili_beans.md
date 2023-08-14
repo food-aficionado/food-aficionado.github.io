@@ -4,7 +4,7 @@ categories:
 - chili beans
 - texmex cuisine
 - plantbased protein
-date: "2023-01-17T00:00:00Z"
+date: "17 January 2023"
 description: Chili beans
 image: /assets/images/ea90122e-7364-4f2c-bb4f-fc29e2d3974b.png
 nutrients:

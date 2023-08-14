@@ -4,7 +4,7 @@ categories:
 - asian desserts
 - nutritional benefits
 - cultural significance
-date: "2023-03-24T00:00:00Z"
+date: "24 March 2023"
 description: Red bean paste
 image: /assets/images/87e21ab0-2192-4452-9bc0-b7436dcb6c18.png
 nutrients:

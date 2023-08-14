@@ -4,7 +4,7 @@ categories:
 - health  nutrition
 - cooking
 - history  fun facts
-date: "2022-10-10T00:00:00Z"
+date: "10 October 2022"
 description: Acorn squash is a seasonal winter squash with a mildly sweet and slightly
   nutty flavor, a range of cooking methods, and a wealth of nutritional benefits,
   making it a popular choice in both sweet and savory dishes.

@@ -4,7 +4,7 @@ categories:
 - glutenfree cooking
 - dietary restrictions  allergies
 - alternative ingredients
-date: "2023-01-14T00:00:00Z"
+date: "14 January 2023"
 description: Gluten free all purpose flour
 image: /assets/images/1828678f-978f-4dbe-bdba-ce37059a0b3e.png
 nutrients:

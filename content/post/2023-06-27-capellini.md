@@ -4,7 +4,7 @@ categories:
 - pasta
 - cooking
 - nutrition
-date: "2023-06-27T00:00:00Z"
+date: "27 June 2023"
 description: Capellini
 image: /assets/images/52bda2b2-25a3-43d0-988a-552421b627c6.png
 nutrients:

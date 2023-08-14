@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - home cooking
-date: "2023-05-06T00:00:00Z"
+date: "6 May 2023"
 description: Clabber girl baking powder
 image: /assets/images/c5b24b04-6010-4c5f-80a3-ed564577177d.png
 nutrients:

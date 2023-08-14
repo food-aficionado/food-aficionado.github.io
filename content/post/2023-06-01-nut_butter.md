@@ -4,7 +4,7 @@ categories:
 - nutrition
 - cooking
 - history
-date: "2023-06-01T00:00:00Z"
+date: "1 June 2023"
 description: Nut butters offer delicious taste and rich nutritional value as well
   as an interesting history, making them a valuable addition to any kitchen.
 image: /assets/images/fb84f3f6-f942-4a01-b7d1-6c3915ec056e.png

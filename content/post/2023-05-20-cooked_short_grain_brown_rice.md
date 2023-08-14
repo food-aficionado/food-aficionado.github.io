@@ -4,7 +4,7 @@ categories:
 - grains
 - asian cuisine
 - nutrition
-date: "2023-05-20T00:00:00Z"
+date: "20 May 2023"
 description: Cooked short grain brown rice
 image: /assets/images/119ab8e0-32f7-4fbb-90c1-8ce45542e18a.png
 nutrients:

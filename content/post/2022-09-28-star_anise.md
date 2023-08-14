@@ -4,7 +4,7 @@ categories:
 - spices
 - culinary uses
 - health benefits
-date: "2022-09-28T00:00:00Z"
+date: "28 September 2022"
 description: Whole star anise is an aromatic spice with a licorice-like flavor that
   offers a range of health benefits, captivating history, versatile uses, and an exquisite
   flavor profile perfect for elevating any dish; a must-have for adventurous home

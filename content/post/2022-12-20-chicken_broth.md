@@ -7,7 +7,7 @@ categories:
 - nutritional value
 - history and interesting facts
 - homemade vs store
-date: "2022-12-20T00:00:00Z"
+date: "20 December 2022"
 description: Chicken broth
 image: /assets/images/4a1c8830-b8ac-453f-809e-6f10f7f6cd40.png
 nutrients:

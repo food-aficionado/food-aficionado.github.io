@@ -4,7 +4,7 @@ categories:
 - black rice
 - culinary delight
 - health benefits
-date: "2023-02-18T00:00:00Z"
+date: "18 February 2023"
 description: Black rice
 image: /assets/images/59ea001e-5ade-4477-9217-866494af1b9d.png
 nutrients:

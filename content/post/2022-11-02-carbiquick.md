@@ -4,7 +4,7 @@ categories:
 - lowcarb dieting
 - baking
 - nutritional value
-date: "2022-11-02T00:00:00Z"
+date: "2 November 2022"
 description: Carbiquick
 image: /assets/images/8ec6c023-02c0-4db2-802d-726ff278b6e3.png
 nutrients:

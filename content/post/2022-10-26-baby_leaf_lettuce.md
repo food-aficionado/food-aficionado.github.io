@@ -4,7 +4,7 @@ categories:
 - salads
 - vegetables
 - nutritional value
-date: "2022-10-26T00:00:00Z"
+date: "26 October 2022"
 description: Baby leaf lettuce
 image: /assets/images/83ea4a16-9b02-4366-8e61-961ad5675cbe.png
 nutrients:

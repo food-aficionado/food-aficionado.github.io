@@ -4,7 +4,7 @@ categories:
 - culinary
 - health
 - history
-date: "2023-05-07T00:00:00Z"
+date: "7 May 2023"
 description: Red kidney beans
 image: /assets/images/7ca23dc8-848a-4e53-a11f-4f933118e0cb.png
 nutrients:

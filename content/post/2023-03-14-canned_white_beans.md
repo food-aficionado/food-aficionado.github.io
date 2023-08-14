@@ -4,7 +4,7 @@ categories:
 - culinary
 - health benefits
 - history
-date: "2023-03-14T00:00:00Z"
+date: "14 March 2023"
 description: Canned white beans
 image: /assets/images/2648513f-5092-4ec2-84d9-a0199566bd41.png
 nutrients:

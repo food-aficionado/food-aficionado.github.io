@@ -4,7 +4,7 @@ categories:
 - roast turkey breast
 - nutrition
 - history
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Deli turkey
 image: /assets/images/5afc273c-4fae-41ae-b825-4ad4298a69fd.png
 nutrients:

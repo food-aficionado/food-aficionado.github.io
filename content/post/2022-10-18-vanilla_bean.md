@@ -4,7 +4,7 @@ categories:
 - gourmet cooking
 - baking
 - vanilla varieties
-date: "2022-10-18T00:00:00Z"
+date: "18 October 2022"
 description: Vanilla bean
 image: /assets/images/6a87a6dc-28bb-4c4e-a281-40e244673791.png
 nutrients:

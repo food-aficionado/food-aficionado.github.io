@@ -4,7 +4,7 @@ categories:
 - cheese
 - cooking and recipes
 - health and nutrition
-date: "2023-01-13T00:00:00Z"
+date: "13 January 2023"
 description: Boursin cheese
 image: /assets/images/a68694e2-fa1c-49e6-9bee-ee587f052961.png
 nutrients:

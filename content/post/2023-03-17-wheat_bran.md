@@ -4,7 +4,7 @@ categories:
 - health benefits
 - nutritional value
 - common uses in cooking
-date: "2023-03-17T00:00:00Z"
+date: "17 March 2023"
 description: Wheat bran
 image: /assets/images/86df0ac1-e946-4ed1-ae03-d433d9719fcc.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - pasta recipes
 - italian cuisine
 - healthy eating
-date: "2023-04-14T00:00:00Z"
+date: "14 April 2023"
 description: Angel hair pasta is a delicately-textured, quickly-cooking pasta that's
   loved for its light flavor and ability to easily soak up sauces, making it perfect
   for a variety of dishes and culinary creations.

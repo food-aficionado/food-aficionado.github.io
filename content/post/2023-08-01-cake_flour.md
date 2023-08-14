@@ -4,7 +4,7 @@ categories:
 - cake baking
 - glutenfree baking
 - history of cake flour blend
-date: "2023-08-01T00:00:00Z"
+date: "1 August 2023"
 description: Cake flour
 image: /assets/images/c62fbb0d-a56d-451e-82ee-cf22f241191c.png
 nutrients:

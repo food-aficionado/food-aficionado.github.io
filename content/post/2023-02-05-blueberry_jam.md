@@ -4,7 +4,7 @@ categories:
 - blueberry jam
 - culinary creation
 - nutritional benefits
-date: "2023-02-05T00:00:00Z"
+date: "5 February 2023"
 description: Blueberry jam
 image: /assets/images/affd7758-313f-48dd-a5f2-abd215ebc8ec.png
 nutrients:

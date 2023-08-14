@@ -4,7 +4,7 @@ categories:
 - comfort food
 - history of food
 - nutritional benefits
-date: "2022-09-11T00:00:00Z"
+date: "11 September 2022"
 description: Chili with beans
 image: /assets/images/e3c19dbb-fda3-4afc-b8d0-11d3fd4b2a4f.png
 nutrients:

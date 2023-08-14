@@ -4,7 +4,7 @@ categories:
 - baking
 - culinary adventures
 - nutrition
-date: "2023-02-28T00:00:00Z"
+date: "28 February 2023"
 description: Semisweet chocolate chips
 image: /assets/images/a405e47a-dedd-43a4-88d4-c8a1513889e8.png
 nutrients:

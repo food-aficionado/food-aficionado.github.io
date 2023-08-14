@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - italian desserts
 - nutritional value
-date: "2023-01-07T00:00:00Z"
+date: "7 January 2023"
 description: Gluten free ladyfingers
 image: /assets/images/dd8d70c5-eab2-4421-87bc-450380d4cb1f.png
 nutrients:

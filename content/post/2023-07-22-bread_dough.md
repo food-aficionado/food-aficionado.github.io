@@ -4,7 +4,7 @@ categories:
 - baking
 - comfort food
 - nutrition
-date: "2023-07-22T00:00:00Z"
+date: "22 July 2023"
 description: Bread dough
 image: /assets/images/076c3c33-d976-4dfd-a19d-517b7817eb88.png
 nutrients:

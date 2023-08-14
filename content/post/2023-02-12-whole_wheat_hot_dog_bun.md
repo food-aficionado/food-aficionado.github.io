@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegan cuisine
 - whole wheat foods
-date: "2023-02-12T00:00:00Z"
+date: "12 February 2023"
 description: Whole wheat hot dog bun
 image: /assets/images/7213939a-4b1d-4e6c-bf79-c8b5442e2318.png
 nutrients:

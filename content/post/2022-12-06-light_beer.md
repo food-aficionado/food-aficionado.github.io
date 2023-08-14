@@ -4,7 +4,7 @@ categories:
 - light beer
 - cooking
 - nutritional value
-date: "2022-12-06T00:00:00Z"
+date: "6 December 2022"
 description: Light beer
 image: /assets/images/132b94b1-8ae0-4277-b47e-0c43203d285c.png
 nutrients:

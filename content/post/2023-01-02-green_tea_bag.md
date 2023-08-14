@@ -4,7 +4,7 @@ categories:
 - green tea
 - cooking
 - nutrition
-date: "2023-01-02T00:00:00Z"
+date: "2 January 2023"
 description: Green tea bag
 image: /assets/images/c7fe8d43-0d9e-46e1-9ea9-9b0f63e44c94.png
 nutrients:

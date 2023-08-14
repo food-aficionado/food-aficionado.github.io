@@ -4,7 +4,7 @@ categories:
 - cooking with chicken
 - health benefits of chicken
 - interesting facts about chicken
-date: "2023-01-07T00:00:00Z"
+date: "7 January 2023"
 description: Boneless skin on chicken breast halves
 image: /assets/images/325117dd-4360-4cee-af60-b8bd84c226b6.png
 nutrients:

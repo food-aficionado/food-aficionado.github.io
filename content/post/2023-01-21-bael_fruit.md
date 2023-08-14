@@ -4,7 +4,7 @@ categories:
 - bael
 - culinary
 - health benefits
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Bael fruit
 image: /assets/images/838950cd-ab9f-4971-9cfe-52970f7e7419.png
 nutrients:

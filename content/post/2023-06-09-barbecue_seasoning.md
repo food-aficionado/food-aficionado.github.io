@@ -4,7 +4,7 @@ categories:
 - barbecue spice
 - grilling
 - american cuisine
-date: "2023-06-09T00:00:00Z"
+date: "9 June 2023"
 description: Barbecue seasoning
 image: /assets/images/c2497a1a-0133-436b-98c3-979a8a5f6462.png
 nutrients:

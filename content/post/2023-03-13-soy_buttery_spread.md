@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased foods
 - cooking and baking
-date: "2023-03-13T00:00:00Z"
+date: "13 March 2023"
 description: Soy buttery spread
 image: /assets/images/90c0d13c-43d0-4560-bd66-84080dd6bf17.png
 nutrients:

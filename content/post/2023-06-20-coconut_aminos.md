@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - asian cuisine
 - cooking with condiments
-date: "2023-06-20T00:00:00Z"
+date: "20 June 2023"
 description: Coconut aminos
 image: /assets/images/42c9c840-8a7f-427d-acec-753c49c98f3e.png
 nutrients:

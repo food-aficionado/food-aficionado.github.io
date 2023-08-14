@@ -4,7 +4,7 @@ categories:
 - health
 - cooking
 - exotic fruits
-date: "2023-05-30T00:00:00Z"
+date: "30 May 2023"
 description: The text is about exploring the unique culinary world of rose apples,
   which have a tantalizing taste and impressive nutritional profile.
 image: /assets/images/85a240e6-0c14-4808-b110-59397e43f1da.png

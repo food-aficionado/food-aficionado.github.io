@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - food history
-date: "2023-03-10T00:00:00Z"
+date: "10 March 2023"
 description: Pork steaks
 image: /assets/images/59dc6ce9-703f-4fc8-a7e0-dfa44a1a3e3d.png
 nutrients:

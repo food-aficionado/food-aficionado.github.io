@@ -4,7 +4,7 @@ categories:
 - legumes and beans
 - nutritional value
 - common cooking uses
-date: "2023-06-22T00:00:00Z"
+date: "22 June 2023"
 description: Dried brown lentils
 image: /assets/images/c2ea7cd8-a616-425d-9bcf-670bf45b9376.png
 nutrients:

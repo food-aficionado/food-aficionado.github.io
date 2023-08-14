@@ -4,7 +4,7 @@ categories:
 - pork
 - cooking
 - nutrition
-date: "2023-07-20T00:00:00Z"
+date: "20 July 2023"
 description: Bone in pork chops
 image: /assets/images/7a1c225f-de4c-4636-9754-58f4bbe02222.png
 nutrients:

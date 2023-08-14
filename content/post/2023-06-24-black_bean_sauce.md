@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - condiments
 - fermented foods
-date: "2023-06-24T00:00:00Z"
+date: "24 June 2023"
 description: Black bean sauce
 image: /assets/images/6a8cc809-71e8-4932-957e-c2af30c9b72d.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - slab bacon
 - nutrition
-date: "2023-04-08T00:00:00Z"
+date: "8 April 2023"
 description: Slab bacon
 image: /assets/images/945287cd-8fc4-4908-9a6d-7d518ef16320.png
 nutrients:

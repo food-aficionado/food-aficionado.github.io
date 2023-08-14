@@ -4,7 +4,7 @@ categories:
 - legumes
 - canned foods
 - nutrition
-date: "2023-01-03T00:00:00Z"
+date: "3 January 2023"
 description: Canned butter beans
 image: /assets/images/004bec47-6b92-480b-b5a3-718e0855f364.png
 nutrients:

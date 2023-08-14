@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - cultural traditions
-date: "2023-07-13T00:00:00Z"
+date: "13 July 2023"
 description: Black beans
 image: /assets/images/253be94e-8a19-4b8c-8ebe-123b3534ccc7.png
 nutrients:

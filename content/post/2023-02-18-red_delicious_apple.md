@@ -4,7 +4,7 @@ categories:
 - fruit
 - cooking
 - nutrition
-date: "2023-02-18T00:00:00Z"
+date: "18 February 2023"
 description: Red delicious apple
 image: /assets/images/f2b3c81e-7aac-4b1f-8d67-f6f5990c4f3b.png
 nutrients:

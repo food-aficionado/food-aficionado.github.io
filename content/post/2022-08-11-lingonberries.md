@@ -4,7 +4,7 @@ categories:
 - cooking
 - healthy eating
 - culinary exploration
-date: "2022-08-11T00:00:00Z"
+date: "11 August 2022"
 description: Lingonberries
 image: /assets/images/4cf5f044-dd1b-49e6-bee9-1483db7c702e.png
 nutrients:

@@ -2,7 +2,7 @@
 author: Food Jd. Aficionado
 categories:
 - the health benefits of jobs tearshttpswwwselfhackedcombloghealthbenefitsof
-date: "2023-04-16T00:00:00Z"
+date: "16 April 2023"
 description: Jobs tears
 image: /assets/images/b9ae6681-dae2-485a-8721-5712d3dc70db.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - beef
 - cooking
 - nutrition
-date: "2023-03-14T00:00:00Z"
+date: "14 March 2023"
 description: Strip steak
 image: /assets/images/b249d5b3-4f6f-4a4e-b6a0-92f24b3d2071.png
 nutrients:

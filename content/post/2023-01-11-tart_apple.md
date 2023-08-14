@@ -4,7 +4,7 @@ categories:
 - apples
 - cooking
 - health and nutrition
-date: "2023-01-11T00:00:00Z"
+date: "11 January 2023"
 description: Tart apples are a versatile, nutritious, and historically interesting
   fruit with a distinctive tangy taste that adds depth and complexity to a range of
   culinary creations.

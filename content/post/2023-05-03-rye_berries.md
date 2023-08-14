@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - grains
 - cooking recipes
-date: "2023-05-03T00:00:00Z"
+date: "3 May 2023"
 description: Rye berries
 image: /assets/images/7b0c20c6-b59a-4b2a-bfff-eab740cca8d4.png
 nutrients:

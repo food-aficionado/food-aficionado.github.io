@@ -4,7 +4,7 @@ categories:
 - culinary delights
 - german cuisine
 - nutrition
-date: "2022-09-17T00:00:00Z"
+date: "17 September 2022"
 description: Bratwurst bun
 image: /assets/images/4f17a586-e4a1-412f-9b24-ec95690f99a3.png
 nutrients:

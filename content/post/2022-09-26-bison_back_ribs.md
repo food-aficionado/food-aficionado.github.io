@@ -4,7 +4,7 @@ categories:
 - meat
 - nutrition
 - cooking techniques
-date: "2022-09-26T00:00:00Z"
+date: "26 September 2022"
 description: Bison back ribs
 image: /assets/images/66bbb1b2-9016-45d8-aa72-af82ca001d9e.png
 nutrients:

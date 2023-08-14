@@ -4,7 +4,7 @@ categories:
 - bakery products
 - fastfood
 - culinary creations
-date: "2022-12-05T00:00:00Z"
+date: "5 December 2022"
 description: Slider buns
 image: /assets/images/eaab9b9c-8a3f-45d9-b134-fd44ec433878.png
 nutrients:

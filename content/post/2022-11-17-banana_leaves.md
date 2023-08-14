@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - cultural heritage
-date: "2022-11-17T00:00:00Z"
+date: "17 November 2022"
 description: Banana leaves
 image: /assets/images/789af7e3-b031-4643-8b42-b1d951046e37.png
 nutrients:

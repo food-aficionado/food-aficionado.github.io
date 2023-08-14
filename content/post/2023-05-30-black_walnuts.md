@@ -4,7 +4,7 @@ categories:
 - cuisine
 - nutritional benefits
 - history
-date: "2023-05-30T00:00:00Z"
+date: "30 May 2023"
 description: Black walnuts
 image: /assets/images/75d441f9-08d2-49b0-ae8e-9c5aec8e806f.png
 nutrients:

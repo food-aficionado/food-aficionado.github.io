@@ -4,7 +4,7 @@ categories:
 - pasta
 - italian cuisine
 - cooking
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Anellini noodles are small, round, chewy and versatile pasta rings originating
   from Italy, perfect for adding that special touch to your favorite dishes.
 image: /assets/images/33da0453-3cd4-40c7-830c-e5dec5e72829.png

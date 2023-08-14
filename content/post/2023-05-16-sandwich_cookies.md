@@ -4,7 +4,7 @@ categories:
 - desserts
 - cookies
 - baking
-date: "2023-05-16T00:00:00Z"
+date: "16 May 2023"
 description: Sandwich cookies
 image: /assets/images/b78a4ee0-d78a-4ba2-8a09-a281c26e7010.png
 nutrients:

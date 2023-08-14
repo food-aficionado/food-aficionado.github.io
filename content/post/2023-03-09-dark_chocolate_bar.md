@@ -4,7 +4,7 @@ categories:
 - dark chocolate
 - health benefits
 - cookingbaking
-date: "2023-03-09T00:00:00Z"
+date: "9 March 2023"
 description: Dark chocolate bar
 image: /assets/images/347a9b14-5fb4-4d83-a8b8-5b34411f4c1c.png
 nutrients:

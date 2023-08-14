@@ -6,7 +6,7 @@ categories:
 - common uses in cooking
 - nutritional value
 - interesting facts and history
-date: "2022-12-25T00:00:00Z"
+date: "25 December 2022"
 description: Great northern beans
 image: /assets/images/9c2abea9-835d-4a0d-87b1-4cd10bbc16c6.png
 nutrients:

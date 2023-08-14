@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - snacks and appetizers
 - culinary treats
-date: "2023-01-27T00:00:00Z"
+date: "27 January 2023"
 description: Brazil nuts
 image: /assets/images/1d9edc22-250a-4718-9b32-49389b93a0eb.png
 nutrients:

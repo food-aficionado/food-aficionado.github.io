@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - historyfacts
-date: "2022-10-03T00:00:00Z"
+date: "3 October 2022"
 description: Blackberries
 image: /assets/images/86c23cfe-e664-4bd0-8f98-ab2344646398.png
 nutrients:

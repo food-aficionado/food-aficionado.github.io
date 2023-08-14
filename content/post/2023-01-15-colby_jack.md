@@ -4,7 +4,7 @@ categories:
 - cheese exploration
 - cooking with cojack cheese
 - nutritional benefits of cojack cheese
-date: "2023-01-15T00:00:00Z"
+date: "15 January 2023"
 description: Cojack cheese is a unique blend of Colby and Monterey Jack with a mild
   flavor and versatile uses for cooking a range of dishes, from grilled cheese to
   mac and cheese.

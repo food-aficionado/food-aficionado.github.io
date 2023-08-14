@@ -4,7 +4,7 @@ categories:
 - nutrition
 - recipes
 - culinary history
-date: "2023-07-02T00:00:00Z"
+date: "2 July 2023"
 description: Red pepper
 image: /assets/images/f8532334-5619-4f89-bff0-fcb6b3c17ac4.png
 nutrients:

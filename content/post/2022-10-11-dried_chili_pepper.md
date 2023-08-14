@@ -4,7 +4,7 @@ categories:
 - spices
 - cooking
 - health benefits
-date: "2022-10-11T00:00:00Z"
+date: "11 October 2022"
 description: Dried chili pepper
 image: /assets/images/37e10260-ec6d-479a-90cb-9aa3f7025442.png
 nutrients:

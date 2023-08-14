@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - culinary uses
 - nutritional value
-date: "2022-10-19T00:00:00Z"
+date: "19 October 2022"
 description: Shredded mexican cheese blend
 image: /assets/images/981d644c-a97a-4f97-b612-a88209e81dd2.png
 nutrients:

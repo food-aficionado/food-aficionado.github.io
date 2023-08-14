@@ -4,7 +4,7 @@ categories:
 - beef tenderloin
 - cooking
 - nutrition
-date: "2022-11-30T00:00:00Z"
+date: "30 November 2022"
 description: Beef tenderloin
 image: /assets/images/ee62fb42-850c-4dd1-9130-d31382ae682e.png
 nutrients:

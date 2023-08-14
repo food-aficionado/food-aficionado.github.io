@@ -4,7 +4,7 @@ categories:
 - apple pie spice
 - sweet delights
 - savory creations
-date: "2022-09-28T00:00:00Z"
+date: "28 September 2022"
 description: Apple Pie Spice is a sweet and warming blend of spices, which can be
   used in a variety of sweet and savory dishes for an extra burst of autumnal delight
   and added nutritional benefits.

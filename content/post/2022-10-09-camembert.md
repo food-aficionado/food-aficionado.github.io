@@ -4,7 +4,7 @@ categories:
 - cheese
 - cooking
 - nutrition
-date: "2022-10-09T00:00:00Z"
+date: "9 October 2022"
 description: Camembert
 image: /assets/images/3417f7d4-7132-4973-b724-ffb131f6db55.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history
-date: "2022-08-10T00:00:00Z"
+date: "10 August 2022"
 description: Russet potato
 image: /assets/images/c8a382ee-18c9-4ae5-aad5-93625fca32a8.png
 nutrients:

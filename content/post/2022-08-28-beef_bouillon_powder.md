@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-08-28T00:00:00Z"
+date: "28 August 2022"
 description: Beef bouillon powder
 image: /assets/images/919fb8ab-89b9-48b4-9363-c2275db68454.png
 nutrients:

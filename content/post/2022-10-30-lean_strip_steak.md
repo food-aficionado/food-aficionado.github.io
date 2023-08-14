@@ -4,7 +4,7 @@ categories:
 - meat
 - cooking
 - nutrition
-date: "2022-10-30T00:00:00Z"
+date: "30 October 2022"
 description: Lean strip steak
 image: /assets/images/b139f5f9-7a32-4ba0-8d25-19d10b40b9ee.png
 nutrients:

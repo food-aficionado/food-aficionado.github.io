@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-03-02T00:00:00Z"
+date: "2 March 2023"
 description: Frozen baby lima beans
 image: /assets/images/9c8842de-e712-4485-9443-7282601c5b9b.png
 nutrients:

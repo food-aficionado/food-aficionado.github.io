@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-12-03T00:00:00Z"
+date: "3 December 2022"
 description: Green pepper
 image: /assets/images/6c32af3b-7d31-40c5-91c2-241aa4ea7d9e.png
 nutrients:

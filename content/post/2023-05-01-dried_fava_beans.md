@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - cultural history
-date: "2023-05-01T00:00:00Z"
+date: "1 May 2023"
 description: Dried fava beans
 image: /assets/images/0ac462e1-d5f9-493e-be4a-039e7db1191f.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - food
 - color
 - nutrition
-date: "2023-01-10T00:00:00Z"
+date: "10 January 2023"
 description: Blue food color
 image: /assets/images/4edd2b69-0470-4d45-8013-79fd0fe616f5.png
 nutrients:

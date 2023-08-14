@@ -4,7 +4,7 @@ categories:
 - pasta
 - cooking
 - nutrition
-date: "2022-11-20T00:00:00Z"
+date: "20 November 2022"
 description: Cooked angel hair pasta
 image: /assets/images/10b6f518-f210-44ff-8c72-62b0834b0d97.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - asian cuisine
 - cooking
 - nutrition
-date: "2022-10-22T00:00:00Z"
+date: "22 October 2022"
 description: Asian toasted sesame dressing offers a rich, nutty, and subtly sweet
   flavor profile which can be used in a wide range of dishes for added complexity
   and nutritional benefits.

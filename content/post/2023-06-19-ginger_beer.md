@@ -4,7 +4,7 @@ categories:
 - beverages
 - cooking
 - nutrition
-date: "2023-06-19T00:00:00Z"
+date: "19 June 2023"
 description: Ginger beer
 image: /assets/images/b19d196b-b3ed-4cb4-a21e-fb1681578848.png
 nutrients:

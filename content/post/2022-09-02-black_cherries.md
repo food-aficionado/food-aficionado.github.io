@@ -4,7 +4,7 @@ categories:
 - health benefits
 - culinary uses
 - history
-date: "2022-09-02T00:00:00Z"
+date: "2 September 2022"
 description: Black cherries
 image: /assets/images/a6aaa3ec-fb12-42ea-88b8-2e31685373d0.png
 nutrients:

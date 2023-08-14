@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutritional value
 - butter facts
-date: "2022-12-05T00:00:00Z"
+date: "5 December 2022"
 description: Unsalted sweet butter
 image: /assets/images/7ca332ec-e9a8-46fd-ad1a-7e10bc1dd1dd.png
 nutrients:

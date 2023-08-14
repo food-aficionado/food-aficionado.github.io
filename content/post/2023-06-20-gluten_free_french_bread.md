@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - french cuisine
 - nutrition
-date: "2023-06-20T00:00:00Z"
+date: "20 June 2023"
 description: Gluten free french bread
 image: /assets/images/81d501cd-d912-4c63-b13b-e0574076bf86.png
 nutrients:

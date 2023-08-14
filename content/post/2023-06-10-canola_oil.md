@@ -4,7 +4,7 @@ categories:
 - cooking oils
 - health benefits
 - interesting history and facts
-date: "2023-06-10T00:00:00Z"
+date: "10 June 2023"
 description: Canola oil
 image: /assets/images/9875bd05-4a52-41a6-893c-eea0386797c7.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary repertoire
 - taste and texture
 - culinary applications
-date: "2023-03-10T00:00:00Z"
+date: "10 March 2023"
 description: Ham slices
 image: /assets/images/b3d181ae-cfe1-42d0-a766-b019cdbc1edd.png
 nutrients:

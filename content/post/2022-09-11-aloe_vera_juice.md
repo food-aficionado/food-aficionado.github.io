@@ -4,7 +4,7 @@ categories:
 - healthnutrition
 - cooking
 - history
-date: "2022-09-11T00:00:00Z"
+date: "11 September 2022"
 description: Aloe water offers a unique sweet yet tangy taste, has various culinary
   applications, is a natural source of hydration and contains essential vitamins,
   minerals and antioxidants, making it a versatile and healthy ingredient to explore

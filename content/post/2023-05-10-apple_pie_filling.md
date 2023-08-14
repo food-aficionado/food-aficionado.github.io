@@ -4,7 +4,7 @@ categories:
 - fruitfocused desserts
 - comfort foods
 - history of food
-date: "2023-05-10T00:00:00Z"
+date: "10 May 2023"
 description: Apple Pie Filling is a combination of tart apples, warm spices, and sweetness
   that can be utilized in various culinary creations for a comforting, tantalizing
   flavor.

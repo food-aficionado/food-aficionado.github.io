@@ -4,7 +4,7 @@ categories:
 - 1 peanut butter
 - 2 recipes
 - 3 nutrition
-date: "2022-08-16T00:00:00Z"
+date: "16 August 2022"
 description: No salt added peanut butter is a nutritious and versatile ingredient
   that can be incorporated into a variety of dishes to add depth and richness.
 image: /assets/images/6a3fb957-4df6-4eaa-9df3-12ddf41e6724.png

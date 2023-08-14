@@ -4,7 +4,7 @@ categories:
 - pinto beans
 - cooking
 - nutritional value
-date: "2023-01-02T00:00:00Z"
+date: "2 January 2023"
 description: Pinto beans
 image: /assets/images/666bb709-ef13-48bf-951b-b4ce7f81b5b6.png
 nutrients:

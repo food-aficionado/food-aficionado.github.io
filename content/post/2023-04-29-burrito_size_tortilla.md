@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - cooking
 - nutrition
-date: "2023-04-29T00:00:00Z"
+date: "29 April 2023"
 description: Burrito size tortilla
 image: /assets/images/bc194381-0a0e-4d22-8b01-7dcd9aaccd28.png
 nutrients:

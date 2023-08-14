@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - cooking
 - nutrition
-date: "2023-02-23T00:00:00Z"
+date: "23 February 2023"
 description: Italian bread
 image: /assets/images/19eb7243-cd3b-4ce1-87f5-793a891a7fdc.png
 nutrients:

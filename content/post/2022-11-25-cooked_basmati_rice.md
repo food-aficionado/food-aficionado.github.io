@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history and fun facts
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Cooked basmati rice
 image: /assets/images/679f1a15-593b-4f1a-9e7d-7d4c81114310.png
 nutrients:

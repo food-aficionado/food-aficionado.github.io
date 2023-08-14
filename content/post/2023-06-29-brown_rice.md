@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2023-06-29T00:00:00Z"
+date: "29 June 2023"
 description: Brown rice
 image: /assets/images/b392b419-b13c-45da-85f3-cc28eca7ed09.png
 nutrients:

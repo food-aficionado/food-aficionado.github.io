@@ -4,7 +4,7 @@ categories:
 - wholemeal bread
 - nutrition
 - culinary creations
-date: "2023-07-19T00:00:00Z"
+date: "19 July 2023"
 description: Whole wheat bread
 image: /assets/images/c528f22d-fead-403c-bf9d-2bd6009e8ea3.png
 nutrients:

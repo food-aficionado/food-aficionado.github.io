@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking with avocados
 - nutritional benefits
-date: "2023-06-22T00:00:00Z"
+date: "22 June 2023"
 description: Hass Avocados are renowned for their buttery texture, unique flavor,
   and versatility in cooking, and are packed with essential nutrients such as healthy
   fats, dietary fiber, vitamins and minerals, and antioxidants.

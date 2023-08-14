@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-23T00:00:00Z"
+date: "23 October 2022"
 description: Shredded chicken
 image: /assets/images/0f816118-1b48-450f-a07f-03bf5c7cf03b.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-03-21T00:00:00Z"
+date: "21 March 2023"
 description: Take a journey through the ocean with ahi tuna steaks, renowned for their
   remarkable flavor, versatility, and nutritional profile, offering culinary delights
   for all levels of cooks.

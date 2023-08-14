@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - asian cuisine
 - legumes
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Cooked mung beans
 image: /assets/images/8fb4418c-be35-4377-9954-f4aaff0b9298.png
 nutrients:

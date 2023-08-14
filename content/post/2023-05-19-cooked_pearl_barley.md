@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegetarian cooking
 - nutritional benefits
-date: "2023-05-19T00:00:00Z"
+date: "19 May 2023"
 description: Cooked pearl barley
 image: /assets/images/46b6d40a-305e-4d02-97fe-e02a4b35b7fc.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - health
 - vegan
 - glutenfree
-date: "2022-11-21T00:00:00Z"
+date: "21 November 2022"
 description: Ground almonds are a versatile and nutritious ingredient with a rich,
   nutty flavor that can be used in numerous ways to elevate sweet and savory dishes.
 image: /assets/images/118abd95-241e-4b85-bfa3-bc7552bd2c5d.png

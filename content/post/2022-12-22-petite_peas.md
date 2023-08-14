@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - culinary history
-date: "2022-12-22T00:00:00Z"
+date: "22 December 2022"
 description: Petite peas
 image: /assets/images/4ea65efb-4a9d-4d1c-931d-77b39b9fa0f9.png
 nutrients:

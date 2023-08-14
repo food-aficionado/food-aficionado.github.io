@@ -4,7 +4,7 @@ categories:
 - seafood
 - culinary uses
 - nutritional value
-date: "2023-02-19T00:00:00Z"
+date: "19 February 2023"
 description: Bluefish fillets
 image: /assets/images/d61c8fb1-c2c8-4ca8-b6ff-5a9bef452d8a.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - tea
 - cookery
 - health benefits
-date: "2023-05-13T00:00:00Z"
+date: "13 May 2023"
 description: Red tea bag
 image: /assets/images/5d5792d8-8626-4030-936f-bbf5dd78c515.png
 nutrients:

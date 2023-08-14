@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - pasta recipes
 - nutrition
-date: "2023-05-12T00:00:00Z"
+date: "12 May 2023"
 description: Cooked whole wheat angel hair pasta
 image: /assets/images/6e2fc7cb-0678-4723-8a34-4599c733c283.png
 nutrients:

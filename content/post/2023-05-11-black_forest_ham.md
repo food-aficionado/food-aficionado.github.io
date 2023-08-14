@@ -4,7 +4,7 @@ categories:
 - german cuisine
 - nutritional value
 - black forest ham
-date: "2023-05-11T00:00:00Z"
+date: "11 May 2023"
 description: Black forest ham
 image: /assets/images/8197e92f-ec0b-4c91-adfa-c9f732ef4c6d.png
 nutrients:

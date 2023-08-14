@@ -4,7 +4,7 @@ categories:
 - food
 - nutrition
 - kitchen staples
-date: "2023-02-26T00:00:00Z"
+date: "26 February 2023"
 description: Chicken bones
 image: /assets/images/a04240d0-f509-4ea3-ae3a-410cb015102d.png
 nutrients:

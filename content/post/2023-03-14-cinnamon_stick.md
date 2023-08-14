@@ -4,7 +4,7 @@ categories:
 - culinary
 - spices
 - history
-date: "2023-03-14T00:00:00Z"
+date: "14 March 2023"
 description: Cinnamon stick
 image: /assets/images/dd81a616-19a6-4e1e-9681-f6366000be39.png
 nutrients:

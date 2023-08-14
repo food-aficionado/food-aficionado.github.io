@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking
 - nutrition
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Light buttery spread
 image: /assets/images/0a8b057f-2642-4130-a56e-01b9316cc109.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - thai cuisine
 - herbs and spices
 - health benefits
-date: "2022-08-13T00:00:00Z"
+date: "13 August 2022"
 description: Thai basil
 image: /assets/images/49fdfac8-ca15-45f9-b115-01374fc2bec1.png
 nutrients:

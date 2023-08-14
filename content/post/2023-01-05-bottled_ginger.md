@@ -4,7 +4,7 @@ categories:
 - spices  herbs
 - cooking
 - health  wellness
-date: "2023-01-05T00:00:00Z"
+date: "5 January 2023"
 description: Bottled ginger
 image: /assets/images/8e211f7b-f3c8-4ab1-9c02-d783107cfd59.png
 nutrients:

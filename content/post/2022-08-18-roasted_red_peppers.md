@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - roasted red peppers
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Roasted red peppers
 image: /assets/images/19040231-76e0-488e-a076-cddb27a64953.png
 nutrients:

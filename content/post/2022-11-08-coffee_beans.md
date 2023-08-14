@@ -4,7 +4,7 @@ categories:
 - coffee
 - cooking
 - nutrition
-date: "2022-11-08T00:00:00Z"
+date: "8 November 2022"
 description: Coffee beans
 image: /assets/images/1217bf80-b4b9-4374-8fa8-ed21ddb43784.png
 nutrients:

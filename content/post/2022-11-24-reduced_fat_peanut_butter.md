@@ -4,7 +4,7 @@ categories:
 - health and nutrition
 - cooking
 - history and facts
-date: "2022-11-24T00:00:00Z"
+date: "24 November 2022"
 description: Reduced fat peanut butter
 image: /assets/images/83771dcf-95b1-4b81-aba5-224b22298ba9.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-10-19T00:00:00Z"
+date: "19 October 2022"
 description: Pink banana squash
 image: /assets/images/6b622de1-3e69-4462-b914-4071da887fb6.png
 nutrients:

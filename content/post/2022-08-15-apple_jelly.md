@@ -4,7 +4,7 @@ categories:
 - fruit preserves
 - history
 - nutrition
-date: "2022-08-15T00:00:00Z"
+date: "15 August 2022"
 description: Apple Preserves offer a delightful symphony of flavors and nutritional
   benefits, perfect for adding sweetness and warmth to your morning routine or as
   a flavor-packed addition to various dishes.

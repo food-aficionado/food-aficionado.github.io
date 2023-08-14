@@ -4,7 +4,7 @@ categories:
 - health
 - cooking
 - superfoods
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Acai berry powder is a nutritious and delicious superfood that can be
   used in a variety of ways to add flavor and color to meals.
 image: /assets/images/16bd527d-011a-43d2-8ef3-60e1d53e0c70.png

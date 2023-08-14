@@ -4,7 +4,7 @@ categories:
 - baking
 - desserts
 - white chocolate
-date: "2023-05-24T00:00:00Z"
+date: "24 May 2023"
 description: Bakers white chocolate
 image: /assets/images/b1e83104-c96a-4ac1-898e-29cef98d7445.png
 nutrients:

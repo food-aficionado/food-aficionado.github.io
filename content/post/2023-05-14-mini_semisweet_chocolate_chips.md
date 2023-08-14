@@ -4,7 +4,7 @@ categories:
 - baking
 - chocolate
 - nutrition
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Mini semisweet chocolate chips
 image: /assets/images/261a2cfa-4dc7-4740-9117-377bfe9db31c.png
 nutrients:

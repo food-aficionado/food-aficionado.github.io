@@ -4,7 +4,7 @@ categories:
 - candy making
 - baking
 - glutenfree cooking
-date: "2022-11-23T00:00:00Z"
+date: "23 November 2022"
 description: Candy melts
 image: /assets/images/cc6eb83d-01dc-4c47-a395-78a58b1cfc21.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutritional value
 - fun facts about chard
-date: "2022-10-14T00:00:00Z"
+date: "14 October 2022"
 description: Swiss chard
 image: /assets/images/95ddd470-8d5c-4907-8e3e-f058823b3e87.png
 nutrients:

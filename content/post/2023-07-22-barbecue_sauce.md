@@ -5,7 +5,7 @@ categories:
 - taste
 - nutritional value
 - history
-date: "2023-07-22T00:00:00Z"
+date: "22 July 2023"
 description: Barbecue sauce
 image: /assets/images/cd08eb0e-0595-4545-ae8b-17d78e8611a7.png
 nutrients:

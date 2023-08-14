@@ -4,7 +4,7 @@ categories:
 - baking
 - comfort food
 - nutrition
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Buttermilk biscuits
 image: /assets/images/79773244-5c5c-4a62-a012-7a148002e287.png
 nutrients:

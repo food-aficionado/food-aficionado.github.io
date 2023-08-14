@@ -4,7 +4,7 @@ categories:
 - mushrooms
 - cooking
 - nutrition
-date: "2023-03-12T00:00:00Z"
+date: "12 March 2023"
 description: Mixed mushrooms
 image: /assets/images/b071a1c4-55ac-4f24-853f-f4a579cda2d6.png
 nutrients:

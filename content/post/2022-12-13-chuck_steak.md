@@ -4,7 +4,7 @@ categories:
 - grilling
 - cooking
 - nutrition
-date: "2022-12-13T00:00:00Z"
+date: "13 December 2022"
 description: Chuck steak
 image: /assets/images/79c36b5c-610e-4520-bb59-531d1cf5d93d.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - food
 - culinary
 - hamburgers
-date: "2022-09-26T00:00:00Z"
+date: "26 September 2022"
 description: Hamburger bun
 image: /assets/images/e64e15a9-0842-445b-8d53-58b4e5aceb71.png
 nutrients:

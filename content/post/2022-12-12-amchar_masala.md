@@ -4,7 +4,7 @@ categories:
 - cooking
 - amchar masala
 - indian cuisine
-date: "2022-12-12T00:00:00Z"
+date: "12 December 2022"
 description: Amchar Masala is a versatile South Asian spice that adds a tangy and
   sour touch to a variety of dishes, boosting the flavors of fruits, vegetables, curries,
   and chutneys, as well as marinating meats and seafood.

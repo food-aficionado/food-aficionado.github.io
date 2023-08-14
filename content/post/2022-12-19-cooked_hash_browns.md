@@ -4,7 +4,7 @@ categories:
 - cuisine
 - breakfast foods
 - cooking tips
-date: "2022-12-19T00:00:00Z"
+date: "19 December 2022"
 description: Cooked hash browns
 image: /assets/images/b2407a0d-9297-4825-b2c2-fab31d2d27a6.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - sugarfree recipes
 - chocolate chips
-date: "2022-10-12T00:00:00Z"
+date: "12 October 2022"
 description: Sugar free chocolate chips
 image: /assets/images/711bf5a7-46b4-4f8e-9116-dd7f3340561d.png
 nutrients:

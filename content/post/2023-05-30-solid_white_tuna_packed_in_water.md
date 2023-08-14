@@ -4,7 +4,7 @@ categories:
 - seafood
 - nutrition
 - cooking
-date: "2023-05-30T00:00:00Z"
+date: "30 May 2023"
 description: Albacore tuna in water offers a delicious and nutritious option that
   is perfect for seafood enthusiasts or those looking to incorporate more lean protein
   into their diet.

@@ -4,7 +4,7 @@ categories:
 - food
 - cooking
 - nutrition
-date: "2023-05-27T00:00:00Z"
+date: "27 May 2023"
 description: Salted butter
 image: /assets/images/8f3ef153-3cb6-4dff-87b4-f216ff776428.png
 nutrients:

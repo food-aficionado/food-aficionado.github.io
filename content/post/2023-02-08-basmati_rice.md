@@ -4,7 +4,7 @@ categories:
 - indian cuisine
 - rice dishes
 - nutritional value
-date: "2023-02-08T00:00:00Z"
+date: "8 February 2023"
 description: Basmati rice
 image: /assets/images/df6cc32c-4e6b-4fdf-8f88-b5993a9106b5.png
 nutrients:

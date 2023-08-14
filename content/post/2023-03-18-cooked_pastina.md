@@ -4,7 +4,7 @@ categories:
 - cooking
 - pasta recipes
 - nutritional benefits
-date: "2023-03-18T00:00:00Z"
+date: "18 March 2023"
 description: Cooked pastina
 image: /assets/images/ff318b65-d7ab-47d4-9c2e-0ab8a7af0f19.png
 nutrients:

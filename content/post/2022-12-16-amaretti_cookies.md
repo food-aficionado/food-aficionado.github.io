@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - amaretto cookies
-date: "2022-12-16T00:00:00Z"
+date: "16 December 2022"
 description: Amaretto Cookies are a unique blend of almonds, sweetness, and crunch,
   offering a delightful nutty flavor that can be enjoyed in many ways.
 image: /assets/images/ba69ad34-3671-43c7-b656-4c0ce1e23405.png

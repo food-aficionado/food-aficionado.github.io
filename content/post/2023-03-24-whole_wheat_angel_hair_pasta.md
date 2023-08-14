@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - versatile ingredients
-date: "2023-03-24T00:00:00Z"
+date: "24 March 2023"
 description: Whole wheat angel hair pasta
 image: /assets/images/8f86c7c9-2eb1-420c-b936-aa9e040bbc8c.png
 nutrients:

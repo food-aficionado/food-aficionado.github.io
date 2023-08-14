@@ -4,7 +4,7 @@ categories:
 - nutrition
 - health benefits
 - cooking uses
-date: "2022-11-02T00:00:00Z"
+date: "2 November 2022"
 description: Liquid egg whites
 image: /assets/images/f49ee0d5-9b35-42c6-8e74-f0ec9e269e85.png
 nutrients:

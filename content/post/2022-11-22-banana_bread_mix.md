@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - banana recipes
-date: "2022-11-22T00:00:00Z"
+date: "22 November 2022"
 description: Banana bread mix
 image: /assets/images/48dd9b6f-00f2-4bba-a1a2-76df7c7661dc.png
 nutrients:

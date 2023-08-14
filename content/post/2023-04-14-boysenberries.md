@@ -4,7 +4,7 @@ categories:
 - cooking with fruits
 - health benefits of fruits
 - history and fun facts about fruits
-date: "2023-04-14T00:00:00Z"
+date: "14 April 2023"
 description: Boysenberries
 image: /assets/images/e8d1e67c-5149-467c-99b4-eff125c7d875.png
 nutrients:

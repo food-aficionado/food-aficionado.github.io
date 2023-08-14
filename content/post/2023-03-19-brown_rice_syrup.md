@@ -4,7 +4,7 @@ categories:
 - cooking with rice syrup
 - natural sweeteners
 - plantbased cooking
-date: "2023-03-19T00:00:00Z"
+date: "19 March 2023"
 description: Brown rice syrup
 image: /assets/images/8563839e-9714-4abd-bc77-b7f92fcae392.png
 nutrients:

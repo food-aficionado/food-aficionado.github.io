@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - taste and texture
 - common uses in cooking
-date: "2022-12-21T00:00:00Z"
+date: "21 December 2022"
 description: Gluten free chocolate sandwich cookies
 image: /assets/images/f3526263-dc5d-41a5-b3ac-fbcce590a7ab.png
 nutrients:

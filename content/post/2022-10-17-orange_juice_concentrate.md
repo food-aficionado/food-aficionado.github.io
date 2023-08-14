@@ -4,7 +4,7 @@ categories:
 - oranges
 - citrus flavor
 - nutritional value
-date: "2022-10-17T00:00:00Z"
+date: "17 October 2022"
 description: Orange juice concentrate
 image: /assets/images/a43045ba-321b-49f9-b2c4-ba5531369567.png
 nutrients:

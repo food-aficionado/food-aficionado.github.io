@@ -4,7 +4,7 @@ categories:
 - healthy cooking
 - nutritional benefits
 - culinary uses
-date: "2022-10-02T00:00:00Z"
+date: "2 October 2022"
 description: Slivered Blanched Almonds offer a delicately sweet and nutty flavor with
   a pleasant crunch, making them a versatile and nutritious ingredient in both sweet
   and savory dishes.

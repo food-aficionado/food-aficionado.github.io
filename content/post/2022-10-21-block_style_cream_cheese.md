@@ -4,7 +4,7 @@ categories:
 - cream cheese
 - cooking
 - nutrition
-date: "2022-10-21T00:00:00Z"
+date: "21 October 2022"
 description: Block style cream cheese
 image: /assets/images/1c229fec-3c1f-4eab-a19c-cd6c622ad0d2.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - beef cuts
 - cooking techniques
 - nutrition
-date: "2023-07-02T00:00:00Z"
+date: "2 July 2023"
 description: Beef sirloin tip roast
 image: /assets/images/9fa3f451-f85d-4d7b-966e-530e0dc84d3d.png
 nutrients:

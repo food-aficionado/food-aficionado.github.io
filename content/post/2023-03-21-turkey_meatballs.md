@@ -4,7 +4,7 @@ categories:
 - turkey
 - meatballs
 - nutrition
-date: "2023-03-21T00:00:00Z"
+date: "21 March 2023"
 description: Turkey meatballs
 image: /assets/images/f9a2c996-074f-4119-b3d6-981c27ed6125.png
 nutrients:

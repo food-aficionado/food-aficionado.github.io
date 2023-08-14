@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Pumpernickel
 image: /assets/images/2ea00c62-4f3d-496e-8de0-e341cb54d161.png
 nutrients:

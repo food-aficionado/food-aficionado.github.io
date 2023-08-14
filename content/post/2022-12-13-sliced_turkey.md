@@ -4,7 +4,7 @@ categories:
 - lean meats
 - sandwich fillings
 - protein sources
-date: "2022-12-13T00:00:00Z"
+date: "13 December 2022"
 description: Sliced turkey
 image: /assets/images/c1ec66a9-6aaa-49fd-a5d2-19e5c2716d50.png
 nutrients:

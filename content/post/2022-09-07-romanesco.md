@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - cooking
-date: "2022-09-07T00:00:00Z"
+date: "7 September 2022"
 description: Romanesco
 image: /assets/images/e373e2ca-d912-4db3-9b3e-815f38dc245c.png
 nutrients:

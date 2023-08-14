@@ -4,7 +4,7 @@ categories:
 - comfort food
 - cooking
 - nutrition
-date: "2023-05-05T00:00:00Z"
+date: "5 May 2023"
 description: Cooked beef patties
 image: /assets/images/0910474f-9953-4b41-bb03-3607b7032fb9.png
 nutrients:

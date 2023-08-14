@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutritional benefits
 - interesting facts
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Soybean oil
 image: /assets/images/7d956571-2ba4-4f73-96b2-ba1099bbbe65.png
 nutrients:

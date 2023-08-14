@@ -4,7 +4,7 @@ categories:
 - canned chipotle
 - cooking
 - nutritional value
-date: "2023-03-27T00:00:00Z"
+date: "27 March 2023"
 description: Canned Chipotle is a versatile spice with smoky and fiery flavors, as
   well as sweet and tangy undertones, that can be used in sauces, marinades, soups,
   and more.

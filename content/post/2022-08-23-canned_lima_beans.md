@@ -4,7 +4,7 @@ categories:
 - nutrition
 - cooking with lima beans
 - history of lima beans
-date: "2022-08-23T00:00:00Z"
+date: "23 August 2022"
 description: Canned lima beans
 image: /assets/images/b2151fb1-83d0-42f6-a9c0-ca9cc34ceecd.png
 nutrients:

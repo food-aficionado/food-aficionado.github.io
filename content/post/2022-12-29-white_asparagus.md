@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-12-29T00:00:00Z"
+date: "29 December 2022"
 description: White asparagus spears are a "white gold" delicacy that offer a unique
   flavor profile, versatile culinary applications, and a fascinating history.
 image: /assets/images/042dde47-4625-4f80-b6b7-bafbc136e279.png

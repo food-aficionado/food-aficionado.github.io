@@ -4,7 +4,7 @@ categories:
 - baking
 - desserts
 - butterscotch chips
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Butterscotch chips
 image: /assets/images/638ff0e1-3ece-4965-b66b-ab8a670d09c3.png
 nutrients:

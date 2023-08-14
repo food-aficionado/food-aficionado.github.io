@@ -4,7 +4,7 @@ categories:
 - glutenfree food
 - nutrition
 - japanese cuisine
-date: "2022-08-11T00:00:00Z"
+date: "11 August 2022"
 description: Gluten free panko
 image: /assets/images/cb10b4dd-c111-4b27-92f6-e7c0302e7fce.png
 nutrients:

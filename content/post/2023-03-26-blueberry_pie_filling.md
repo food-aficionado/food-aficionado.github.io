@@ -4,7 +4,7 @@ categories:
 - deliciousness
 - nutrition
 - history and facts
-date: "2023-03-26T00:00:00Z"
+date: "26 March 2023"
 description: Blueberry pie filling
 image: /assets/images/9735e508-540d-4b6b-b010-6fd9f0b0c86c.png
 nutrients:

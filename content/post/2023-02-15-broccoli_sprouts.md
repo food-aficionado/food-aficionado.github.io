@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - nutritional value
 - cooking uses
-date: "2023-02-15T00:00:00Z"
+date: "15 February 2023"
 description: Broccoli sprouts
 image: /assets/images/02916fc2-f85c-4f03-a6ba-45fec95bb1c2.png
 nutrients:

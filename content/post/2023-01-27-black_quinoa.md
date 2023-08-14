@@ -4,7 +4,7 @@ categories:
 - health
 - nutrition
 - cooking
-date: "2023-01-27T00:00:00Z"
+date: "27 January 2023"
 description: Black quinoa
 image: /assets/images/99c3b461-10aa-4bf7-b71b-4e97f173cb4d.png
 nutrients:

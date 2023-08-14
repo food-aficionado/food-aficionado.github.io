@@ -4,7 +4,7 @@ categories:
 - organ meats
 - culinary traditions
 - sustainable eating
-date: "2023-07-02T00:00:00Z"
+date: "2 July 2023"
 description: Beef hearts
 image: /assets/images/ef533abd-b3ef-4596-852f-0d2f391ad791.png
 nutrients:

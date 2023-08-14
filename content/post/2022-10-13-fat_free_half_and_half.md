@@ -4,7 +4,7 @@ categories:
 - health
 - dairy
 - cooking
-date: "2022-10-13T00:00:00Z"
+date: "13 October 2022"
 description: Fat free half n half offers a healthier alternative to cream by offering
   a rich and creamy texture with low fat and moderate calories.
 image: /assets/images/9bd0c6f8-9722-4372-8078-764e336c9dc4.png

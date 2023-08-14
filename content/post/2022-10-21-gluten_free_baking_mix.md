@@ -4,7 +4,7 @@ categories:
 - glutenfree baking
 - alternative flours
 - nutritional benefits
-date: "2022-10-21T00:00:00Z"
+date: "21 October 2022"
 description: Gluten free baking mix
 image: /assets/images/4958b9ad-6221-4e43-8c4a-7c9b5b0a1b6a.png
 nutrients:

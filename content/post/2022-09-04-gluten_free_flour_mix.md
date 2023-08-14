@@ -4,7 +4,7 @@ categories:
 - glutenfree diet
 - glutenfree baking
 - nutritional value
-date: "2022-09-04T00:00:00Z"
+date: "4 September 2022"
 description: Gluten free flour mix
 image: /assets/images/bb6570f7-9ad7-4bb6-a09e-7c328d1552c5.png
 nutrients:

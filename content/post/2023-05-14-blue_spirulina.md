@@ -4,7 +4,7 @@ categories:
 - superfoods
 - nutritional value
 - culinary applications
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Blue spirulina
 image: /assets/images/de6c9cae-ded1-4905-a472-baeddfd552b5.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - wild boar
 - cooking
 - health benefits
-date: "2023-07-07T00:00:00Z"
+date: "7 July 2023"
 description: Wild boar tenderloins
 image: /assets/images/fe5d242a-a263-4450-a806-a05cbfd2110b.png
 nutrients:

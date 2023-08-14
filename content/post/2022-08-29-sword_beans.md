@@ -4,7 +4,7 @@ categories:
 - legumes
 - nutrition
 - culinary experiments
-date: "2022-08-29T00:00:00Z"
+date: "29 August 2022"
 description: Sword beans
 image: /assets/images/ed9fc743-7dfb-44b2-b83a-562092917799.png
 nutrients:

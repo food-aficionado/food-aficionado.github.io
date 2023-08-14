@@ -4,7 +4,7 @@ categories:
 - condiments
 - sandwiches  burgers
 - nutrition
-date: "2022-09-15T00:00:00Z"
+date: "15 September 2022"
 description: Spicy brown mustard
 image: /assets/images/5ab1b734-f736-4d81-a701-96b67dfd4460.png
 nutrients:

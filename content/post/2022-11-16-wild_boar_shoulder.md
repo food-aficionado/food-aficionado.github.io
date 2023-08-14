@@ -4,7 +4,7 @@ categories:
 - wild boar
 - culinary uses
 - nutritional benefits
-date: "2022-11-16T00:00:00Z"
+date: "16 November 2022"
 description: Wild boar shoulder
 image: /assets/images/fa04773c-f924-45e9-a7ff-c2f8ee0744f3.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary recipes
 - history
 - health benefits
-date: "2022-08-17T00:00:00Z"
+date: "17 August 2022"
 description: Vanilla paste
 image: /assets/images/49128c8d-c24c-41d7-9717-a45143b84d13.png
 nutrients:

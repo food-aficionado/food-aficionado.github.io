@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - southeast asian cuisine
 - legumes
-date: "2022-12-05T00:00:00Z"
+date: "5 December 2022"
 description: Winged bean
 image: /assets/images/4ed353a6-6377-46ff-8f28-35cf98c40606.png
 nutrients:

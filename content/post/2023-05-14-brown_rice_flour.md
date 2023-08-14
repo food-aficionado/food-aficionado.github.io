@@ -4,7 +4,7 @@ categories:
 - glutenfree cooking
 - baking
 - nutrition
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Brown rice flour
 image: /assets/images/f3ea6e57-8c34-4258-b0e2-5b0e49c34425.png
 nutrients:

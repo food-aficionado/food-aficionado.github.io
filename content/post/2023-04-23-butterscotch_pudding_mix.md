@@ -4,7 +4,7 @@ categories:
 - desserts
 - cooking
 - nutrition
-date: "2023-04-23T00:00:00Z"
+date: "23 April 2023"
 description: Butterscotch pudding mix
 image: /assets/images/97457ee4-5d40-40d0-b301-c26b9757a279.png
 nutrients:

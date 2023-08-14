@@ -4,7 +4,7 @@ categories:
 - beef
 - cooking techniques
 - nutritional value
-date: "2022-09-29T00:00:00Z"
+date: "29 September 2022"
 description: Rump roast
 image: /assets/images/1be62d8c-2127-4510-96c4-8df76f7986b4.png
 nutrients:

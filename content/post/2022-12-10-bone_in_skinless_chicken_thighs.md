@@ -4,7 +4,7 @@ categories:
 - chicken
 - cooking
 - nutrition
-date: "2022-12-10T00:00:00Z"
+date: "10 December 2022"
 description: Bone in skinless chicken thighs
 image: /assets/images/ef3723ec-17f5-4a82-adbf-fe6fcc797d52.png
 nutrients:

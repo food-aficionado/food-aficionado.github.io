@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-11-11T00:00:00Z"
+date: "11 November 2022"
 description: Almond flakes are a versatile and nutritious ingredient that can add
   nutty flavor and delightful texture to both sweet and savory dishes.
 image: /assets/images/abe3aef1-953f-49ce-8ef4-05b7e198a167.png

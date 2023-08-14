@@ -4,7 +4,7 @@ categories:
 - pork
 - special occasions
 - culinary masterpieces
-date: "2022-12-09T00:00:00Z"
+date: "9 December 2022"
 description: Bone in pork rib roast
 image: /assets/images/45d7ea36-372a-4654-9449-4a39a0b6aedf.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - thai cuisine
 - spices and herbs
 - health benefits
-date: "2022-11-07T00:00:00Z"
+date: "7 November 2022"
 description: Red curry paste
 image: /assets/images/1317ac2c-3747-461a-a2a9-c2c2fd98c696.png
 nutrients:

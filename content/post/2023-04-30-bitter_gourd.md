@@ -4,7 +4,7 @@ categories:
 - foods
 - asian cuisine
 - health benefits
-date: "2023-04-30T00:00:00Z"
+date: "30 April 2023"
 description: Bitter gourd
 image: /assets/images/0b0a5658-8eec-4a04-b7e3-920ae871db97.png
 nutrients:

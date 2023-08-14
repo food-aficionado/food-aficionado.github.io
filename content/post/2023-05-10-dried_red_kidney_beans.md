@@ -4,7 +4,7 @@ categories:
 - legumes
 - vegan and vegetarian cooking
 - health benefits
-date: "2023-05-10T00:00:00Z"
+date: "10 May 2023"
 description: Dried red kidney beans
 image: /assets/images/821071cc-9981-40fe-acfc-243294393879.png
 nutrients:

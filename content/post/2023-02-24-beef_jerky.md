@@ -4,7 +4,7 @@ categories:
 - beef jerky
 - nutrition
 - history
-date: "2023-02-24T00:00:00Z"
+date: "24 February 2023"
 description: Beef jerky
 image: /assets/images/cae924b6-9123-40a9-94c5-0f9284b6ff88.png
 nutrients:

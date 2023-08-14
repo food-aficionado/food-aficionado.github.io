@@ -4,7 +4,7 @@ categories:
 - culinary
 - health benefits of brewers yeast
 - versatile uses
-date: "2022-10-22T00:00:00Z"
+date: "22 October 2022"
 description: Brewers yeast
 image: /assets/images/98ffdaac-a509-46de-a48e-9482fa6dc375.png
 nutrients:

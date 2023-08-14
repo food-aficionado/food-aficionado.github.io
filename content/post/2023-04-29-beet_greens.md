@@ -4,7 +4,7 @@ categories:
 - nutrition
 - recipes
 - historical significance
-date: "2023-04-29T00:00:00Z"
+date: "29 April 2023"
 description: Beet greens
 image: /assets/images/fc7d46ba-6846-4e6c-8228-6dbaf01b6f63.png
 nutrients:

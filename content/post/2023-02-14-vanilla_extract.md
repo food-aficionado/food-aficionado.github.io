@@ -4,7 +4,7 @@ categories:
 - baking
 - beverages
 - vanilla extract
-date: "2023-02-14T00:00:00Z"
+date: "14 February 2023"
 description: Vanilla extract
 image: /assets/images/8b962321-f9ff-4d3b-952e-4b882f2682e7.png
 nutrients:

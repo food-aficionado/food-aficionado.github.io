@@ -4,7 +4,7 @@ categories:
 - dark treacle
 - culinary versatility
 - nutritional benefits
-date: "2022-11-22T00:00:00Z"
+date: "22 November 2022"
 description: Black treacle
 image: /assets/images/7fd970ee-2d36-4c17-87ef-7a56c8af3361.png
 nutrients:

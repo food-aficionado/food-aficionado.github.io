@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - sustainable farming
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: Bison sirloin tip roast
 image: /assets/images/445979e9-10d0-4a52-aa45-51538c599e60.png
 nutrients:

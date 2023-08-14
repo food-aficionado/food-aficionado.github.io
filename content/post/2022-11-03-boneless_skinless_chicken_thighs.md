@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking  recipes
 - nutrition
-date: "2022-11-03T00:00:00Z"
+date: "3 November 2022"
 description: Boneless skinless chicken thighs
 image: /assets/images/a68aa1fe-3d4f-4b0c-9dfc-922a045a97ab.png
 nutrients:

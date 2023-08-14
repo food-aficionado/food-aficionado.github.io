@@ -4,7 +4,7 @@ categories:
 - cooking
 - baking
 - glutenfree
-date: "2023-01-23T00:00:00Z"
+date: "23 January 2023"
 description: Corn starch
 image: /assets/images/3fd1da06-88da-4254-8532-e1ad950fcea7.png
 nutrients:

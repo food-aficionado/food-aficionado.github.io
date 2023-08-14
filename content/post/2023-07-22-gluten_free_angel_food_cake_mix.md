@@ -4,7 +4,7 @@ categories:
 - glutenfree recipes
 - desserts
 - cake mixes
-date: "2023-07-22T00:00:00Z"
+date: "22 July 2023"
 description: Gluten free angel food cake mix
 image: /assets/images/d2cc64a0-9597-4aab-9440-7269c7fe4eb1.png
 nutrients:

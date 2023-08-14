@@ -4,7 +4,7 @@ categories:
 - cuisine
 - baking
 - health benefits
-date: "2022-12-06T00:00:00Z"
+date: "6 December 2022"
 description: Unsweetened baking chocolate
 image: /assets/images/d8d6ae42-40ee-4a79-aced-c91125f0c39c.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking with duck
 - health benefits
 - gastronomy history
-date: "2022-10-24T00:00:00Z"
+date: "24 October 2022"
 description: Duck breast
 image: /assets/images/0125415f-d99a-4af5-b0a8-73ea2924b60e.png
 nutrients:

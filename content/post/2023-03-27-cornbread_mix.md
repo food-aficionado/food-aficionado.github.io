@@ -6,7 +6,7 @@ categories:
 - uses in cooking
 - nutritional value
 - history and facts
-date: "2023-03-27T00:00:00Z"
+date: "27 March 2023"
 description: Cornbread mix
 image: /assets/images/33f3abd6-f64b-42ac-98d0-3ad2125e873c.png
 nutrients:

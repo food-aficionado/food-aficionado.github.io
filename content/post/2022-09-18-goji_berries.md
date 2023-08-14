@@ -3,7 +3,7 @@ author: Food Jd. Aficionado
 categories:
 - chinese cuisine
 - nutrition
-date: "2022-09-18T00:00:00Z"
+date: "18 September 2022"
 description: Goji berries
 image: /assets/images/c1116a11-903e-48a0-9ccf-3e0d6a440fd3.png
 nutrients:

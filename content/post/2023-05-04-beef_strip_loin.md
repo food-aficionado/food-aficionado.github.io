@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-05-04T00:00:00Z"
+date: "4 May 2023"
 description: Beef strip loin
 image: /assets/images/74f0fddd-b63d-4308-a649-c28ba85ee6c6.png
 nutrients:

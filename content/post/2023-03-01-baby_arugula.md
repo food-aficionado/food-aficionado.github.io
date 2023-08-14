@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional benefits
 - interesting facts
-date: "2023-03-01T00:00:00Z"
+date: "1 March 2023"
 description: Baby arugula leaves are a nutritious and flavorful addition to many dishes
   due to their vibrant green color and peppery taste.
 image: /assets/images/f17cc738-1201-4aa7-8918-cbf91aae0192.png

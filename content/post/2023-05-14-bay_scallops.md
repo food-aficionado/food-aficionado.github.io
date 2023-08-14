@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Bay scallops
 image: /assets/images/13458554-dfd3-4dcb-97b6-73a090310fe0.png
 nutrients:

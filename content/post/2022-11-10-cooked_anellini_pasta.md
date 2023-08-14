@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - pasta
 - cooking techniques
-date: "2022-11-10T00:00:00Z"
+date: "10 November 2022"
 description: Cooked anellini pasta
 image: /assets/images/84c57e4c-384d-4b2b-b32a-88b2d230e5c4.png
 nutrients:

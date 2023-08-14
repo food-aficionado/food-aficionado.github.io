@@ -4,7 +4,7 @@ categories:
 - rice
 - nutrition
 - cooking
-date: "2023-04-09T00:00:00Z"
+date: "9 April 2023"
 description: Cooked instant brown rice
 image: /assets/images/53f130b2-ffcf-4e09-a60f-4737a2f0445d.png
 nutrients:

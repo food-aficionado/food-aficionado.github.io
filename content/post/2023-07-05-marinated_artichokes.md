@@ -4,7 +4,7 @@ categories:
 - mediterranean cuisine
 - health benefits
 - culinary uses
-date: "2023-07-05T00:00:00Z"
+date: "5 July 2023"
 description: Marinated artichokes offer a unique tangy taste that is complemented
   by a slight sweetness and can add complexity and flavor to a variety of dishes.
 image: /assets/images/76aebdf2-28ce-4c25-817e-c89918b44284.png

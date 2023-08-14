@@ -4,7 +4,7 @@ categories:
 - meat dishes
 - comfort food
 - global cuisine
-date: "2022-10-12T00:00:00Z"
+date: "12 October 2022"
 description: Meatballs
 image: /assets/images/d1fd6826-40eb-4565-a08d-4f1fc1bb5212.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2022-12-28T00:00:00Z"
+date: "28 December 2022"
 description: Chilean seabass
 image: /assets/images/50d20416-76ef-4d76-ae91-b960ea90314c.png
 nutrients:

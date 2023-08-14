@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - food history
-date: "2023-01-17T00:00:00Z"
+date: "17 January 2023"
 description: Apricot Jam is a homemade delight that offers a unique balance of sweetness
   and tang, as well as a range of uses in cooking and a few nutritional benefits.
 image: /assets/images/176db7e9-6a53-4061-8617-dcce984a6abd.png

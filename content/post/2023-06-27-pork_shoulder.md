@@ -4,7 +4,7 @@ categories:
 - pork recipes
 - cooking techniques
 - nutritional benefits
-date: "2023-06-27T00:00:00Z"
+date: "27 June 2023"
 description: Pork shoulder
 image: /assets/images/35d01efd-2dec-49e8-9897-a5f50fb6da91.png
 nutrients:

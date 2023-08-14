@@ -4,7 +4,7 @@ categories:
 - culinary uses
 - nutritional value
 - history  facts
-date: "2023-07-03T00:00:00Z"
+date: "3 July 2023"
 description: Cranberries
 image: /assets/images/77b0725b-fbb9-403b-8c1b-646ff3e7d862.png
 nutrients:

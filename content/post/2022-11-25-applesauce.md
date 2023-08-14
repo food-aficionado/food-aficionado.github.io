@@ -4,7 +4,7 @@ categories:
 - food hacks
 - health benefits
 - applesauce recipes
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Applesauce is a versatile condiment with a pleasant balance of natural
   sweetness and tartness that can be used in both sweet and savory dishes and offers
   numerous nutritional benefits.

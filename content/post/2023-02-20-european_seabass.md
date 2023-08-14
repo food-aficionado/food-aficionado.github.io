@@ -4,7 +4,7 @@ categories:
 - seafood
 - cooking
 - nutrition
-date: "2023-02-20T00:00:00Z"
+date: "20 February 2023"
 description: European seabass
 image: /assets/images/85ca2fb0-6289-487d-a8c1-c0441ea9d51b.png
 nutrients:

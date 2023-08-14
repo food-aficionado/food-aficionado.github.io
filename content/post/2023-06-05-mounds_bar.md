@@ -4,7 +4,7 @@ categories:
 - sweets
 - food and cooking
 - history
-date: "2023-06-05T00:00:00Z"
+date: "5 June 2023"
 description: Mounds bar
 image: /assets/images/fcdd5938-ed24-4299-b5b2-46e855e33cab.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - food history
 - grapes
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Black grapes
 image: /assets/images/2879f964-d579-4df0-8a67-4114497fbb4a.png
 nutrients:

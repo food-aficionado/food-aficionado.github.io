@@ -4,7 +4,7 @@ categories:
 - spices
 - cooking
 - nutritional value
-date: "2023-05-15T00:00:00Z"
+date: "15 May 2023"
 description: Black pepper
 image: /assets/images/64a09891-06be-468f-9564-2b7c4b2c13b6.png
 nutrients:

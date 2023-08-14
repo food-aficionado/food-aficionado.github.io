@@ -4,7 +4,7 @@ categories:
 - cooking
 - browning sauce
 - kitchen tips  tricks
-date: "2022-08-12T00:00:00Z"
+date: "12 August 2022"
 description: Browning sauce
 image: /assets/images/33ca1edd-ac75-4e70-a0c3-cabf6e91e3ac.png
 nutrients:

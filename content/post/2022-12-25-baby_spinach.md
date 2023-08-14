@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking versatility
 - nutritional benefits
-date: "2022-12-25T00:00:00Z"
+date: "25 December 2022"
 description: Baby spinach
 image: /assets/images/2fb2d0cd-ba55-481b-be87-886a2d5ccf54.png
 nutrients:

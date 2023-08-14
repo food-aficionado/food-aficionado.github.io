@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-11-29T00:00:00Z"
+date: "29 November 2022"
 description: Dried currants
 image: /assets/images/87b3e084-ccb8-4e11-a712-953752ff6c9f.png
 nutrients:

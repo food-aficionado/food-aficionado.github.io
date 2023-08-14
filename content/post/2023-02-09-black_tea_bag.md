@@ -4,7 +4,7 @@ categories:
 - cooking
 - health benefits
 - tea history
-date: "2023-02-09T00:00:00Z"
+date: "9 February 2023"
 description: Black tea bag
 image: /assets/images/c37d5fab-10bc-4751-b949-59b03d6bebdd.png
 nutrients:

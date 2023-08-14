@@ -4,7 +4,7 @@ categories:
 - cooking with vegetables
 - nutrition and eating well
 - cultural food traditions
-date: "2023-07-08T00:00:00Z"
+date: "8 July 2023"
 description: Yellow pepper
 image: /assets/images/8cb95ba2-c48e-432b-be9d-5e4de6955410.png
 nutrients:

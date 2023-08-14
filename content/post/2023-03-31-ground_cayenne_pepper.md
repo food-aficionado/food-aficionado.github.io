@@ -4,7 +4,7 @@ categories:
 - ground red pepper
 - cooking
 - nutrition
-date: "2023-03-31T00:00:00Z"
+date: "31 March 2023"
 description: Ground cayenne pepper
 image: /assets/images/f66bdf74-bb29-4848-8f32-6f0da417f9ca.png
 nutrients:

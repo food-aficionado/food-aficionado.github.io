@@ -4,7 +4,7 @@ categories:
 - chicken breasts
 - cooking
 - nutrition
-date: "2023-03-09T00:00:00Z"
+date: "9 March 2023"
 description: Chicken breast meat
 image: /assets/images/7787611c-0c80-4d89-90e7-154b62ff6564.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - vegetarian  vegan cuisine
 - sustainable eating
 - nutrition  health
-date: "2023-06-11T00:00:00Z"
+date: "11 June 2023"
 description: Veggie burger
 image: /assets/images/fd6e4138-95d0-4897-bea7-1b114cb23d8d.png
 nutrients:

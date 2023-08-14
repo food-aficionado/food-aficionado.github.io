@@ -4,7 +4,7 @@ categories:
 - relevant categories nutrition
 - history
 - culinary uses
-date: "2022-12-29T00:00:00Z"
+date: "29 December 2022"
 description: Black currants
 image: /assets/images/0f447e29-cb86-4b16-84a5-0a8ad6406e07.png
 nutrients:

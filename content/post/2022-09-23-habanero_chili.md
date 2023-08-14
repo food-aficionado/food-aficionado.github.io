@@ -4,7 +4,7 @@ categories:
 - cuisine
 - cooking
 - health and nutrition
-date: "2022-09-23T00:00:00Z"
+date: "23 September 2022"
 description: Habanero chili
 image: /assets/images/5d5cbcea-b9e0-4726-abee-8059ec4e0053.png
 nutrients:

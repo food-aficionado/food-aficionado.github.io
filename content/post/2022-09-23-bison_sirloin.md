@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-09-23T00:00:00Z"
+date: "23 September 2022"
 description: Bison sirloin
 image: /assets/images/15731453-cd57-4dba-991c-524ae9638b05.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - category readytoserve asian dishes
 - quick  delicious meals
 - history  origins of dishes
-date: "2022-09-04T00:00:00Z"
+date: "4 September 2022"
 description: Ready-to-serve Asian fried rice is a quick, flavorful, and nutritious
   meal option that can be easily customized to suit your taste preferences.
 image: /assets/images/a53286c0-3541-4920-bfc5-dc34a5bd33d5.png

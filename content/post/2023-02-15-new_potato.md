@@ -4,7 +4,7 @@ categories:
 - potatoes
 - cooking
 - recipes
-date: "2023-02-15T00:00:00Z"
+date: "15 February 2023"
 description: New potato
 image: /assets/images/d55343b8-48b3-45c4-8848-7b0e276a6421.png
 nutrients:

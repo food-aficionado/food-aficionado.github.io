@@ -4,7 +4,7 @@ categories:
 - baking
 - cooking
 - nutrition
-date: "2023-05-25T00:00:00Z"
+date: "25 May 2023"
 description: Butter flavored shortening
 image: /assets/images/f1892d83-9f96-45ae-bd43-056104cc1d61.png
 nutrients:

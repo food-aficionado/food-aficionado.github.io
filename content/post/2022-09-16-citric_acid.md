@@ -4,7 +4,7 @@ categories:
 - culinary uses of citric acid
 - food preservation
 - flavor enhancement
-date: "2022-09-16T00:00:00Z"
+date: "16 September 2022"
 description: Citric acid
 image: /assets/images/096e70d5-1804-4fe6-b6e3-d439cb0584b0.png
 nutrients:

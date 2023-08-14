@@ -4,7 +4,7 @@ categories:
 - plantbased protein
 - mediterranean cuisine
 - nutritional benefits
-date: "2022-11-30T00:00:00Z"
+date: "30 November 2022"
 description: Gigante beans
 image: /assets/images/fdee2080-49e0-4313-8cb0-6fc2043ccd43.png
 nutrients:

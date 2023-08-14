@@ -4,7 +4,7 @@ categories:
 - dairy products
 - blue cheese
 - recipe ideas
-date: "2023-02-22T00:00:00Z"
+date: "22 February 2023"
 description: Blue cheese
 image: /assets/images/83d69c68-4471-4258-996f-a79b532851b1.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - applewood smoked bacon
 - culinary uses
 - nutritional value
-date: "2023-03-26T00:00:00Z"
+date: "26 March 2023"
 description: Applewood smoked bacon is an irreplaceable culinary delight with its
   unique smoky and slightly sweet flavor that packs deliciousness into breakfast,
   lunch, and dinner.

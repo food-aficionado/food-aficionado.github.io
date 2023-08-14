@@ -4,7 +4,7 @@ categories:
 - spices
 - culinary adventure
 - health benefits
-date: "2022-11-21T00:00:00Z"
+date: "21 November 2022"
 description: Chili pepper
 image: /assets/images/49d8b1a2-c518-46aa-b900-91dea6e5fc2f.png
 nutrients:

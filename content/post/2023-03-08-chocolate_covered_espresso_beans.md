@@ -4,7 +4,7 @@ categories:
 - snacks
 - baking
 - cooking
-date: "2023-03-08T00:00:00Z"
+date: "8 March 2023"
 description: Chocolate covered espresso beans
 image: /assets/images/c6b6028c-a649-4fb3-b78c-55f944ebfa87.png
 nutrients:

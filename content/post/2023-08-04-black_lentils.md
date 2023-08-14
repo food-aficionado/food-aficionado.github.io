@@ -4,7 +4,7 @@ categories:
 - cooking
 - indian cuisine
 - nutrition
-date: "2023-08-04T00:00:00Z"
+date: "4 August 2023"
 description: Black lentils
 image: /assets/images/fd0e1dec-38f8-435a-8d71-bc5da9a66edb.png
 nutrients:

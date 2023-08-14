@@ -4,7 +4,7 @@ categories:
 - hawaiian cuisine
 - bread
 - baking
-date: "2023-06-22T00:00:00Z"
+date: "22 June 2023"
 description: Hawaiian roll
 image: /assets/images/994dc5a6-8c23-4446-83e0-c79c132c33f2.png
 nutrients:

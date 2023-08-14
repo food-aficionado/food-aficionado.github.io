@@ -4,7 +4,7 @@ categories:
 - cuisine
 - health
 - history
-date: "2023-06-21T00:00:00Z"
+date: "21 June 2023"
 description: Blanched almonds are a versatile ingredient that adds mild flavor, creamy
   texture, and culinary possibilities to both sweet and savory dishes.
 image: /assets/images/45cf913d-fdb4-4db5-b1b5-4e388b389a62.png

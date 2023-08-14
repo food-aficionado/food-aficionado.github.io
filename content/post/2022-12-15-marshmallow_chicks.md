@@ -4,7 +4,7 @@ categories:
 - sweets and treats
 - recipes
 - history
-date: "2022-12-15T00:00:00Z"
+date: "15 December 2022"
 description: Marshmallow chicks
 image: /assets/images/d888385c-8b2a-4fc8-97cf-cdc6edb259f2.png
 nutrients:

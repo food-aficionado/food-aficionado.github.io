@@ -4,7 +4,7 @@ categories:
 - vegetarian cooking
 - mexican cuisine
 - health benefits
-date: "2022-12-08T00:00:00Z"
+date: "8 December 2022"
 description: The Anaheim pepper offers a mild heat and versatile nature that makes
   it a great addition to any cook's culinary repertoire; it can be used to explore
   Mexican and Southwestern flavors as well as provide a nutrient-rich ingredient to

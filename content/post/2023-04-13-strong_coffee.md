@@ -4,7 +4,7 @@ categories:
 - coffee
 - culinary
 - health benefits
-date: "2023-04-13T00:00:00Z"
+date: "13 April 2023"
 description: Strong coffee
 image: /assets/images/e55a2a0b-1c80-406f-b7c0-9a9779ffbb4e.png
 nutrients:

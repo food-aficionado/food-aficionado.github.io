@@ -4,7 +4,7 @@ categories:
 - tomatoes
 - culinary
 - nutrition
-date: "2022-10-03T00:00:00Z"
+date: "3 October 2022"
 description: Beefsteak tomato
 image: /assets/images/a93f1291-8eb3-4700-b2bf-c747dfc1607a.png
 nutrients:

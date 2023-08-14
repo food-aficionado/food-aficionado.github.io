@@ -4,7 +4,7 @@ categories:
 - sweets
 - flavor profiles
 - guilty pleasures
-date: "2022-11-04T00:00:00Z"
+date: "4 November 2022"
 description: Vanilla sandwich cookies
 image: /assets/images/df2f471e-427f-4e5e-ac2f-57d368deace3.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cashew butter
 - nutrition
 - culinary delights
-date: "2023-01-02T00:00:00Z"
+date: "2 January 2023"
 description: Cashew butter
 image: /assets/images/3e8938d3-df18-4a98-bc1f-754459aee751.png
 nutrients:

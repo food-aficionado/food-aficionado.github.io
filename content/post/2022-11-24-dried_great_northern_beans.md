@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased diets
 - food history
-date: "2022-11-24T00:00:00Z"
+date: "24 November 2022"
 description: Dried great northern beans
 image: /assets/images/042057e8-097a-4fd4-90f2-cd562e83073c.png
 nutrients:

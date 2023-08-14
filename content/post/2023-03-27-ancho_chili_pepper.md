@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - cooking with ancho chili
 - nutritional benefits
-date: "2023-03-27T00:00:00Z"
+date: "27 March 2023"
 description: Ancho chili is an essential Mexican ingredient offering a delightful
   combination of earthy, fruity, and smoky flavors perfect for enhancing sauces, soups,
   marinades, salsas, and mole sauces.

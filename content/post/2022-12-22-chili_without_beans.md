@@ -5,7 +5,7 @@ categories:
 - bold flavors
 - versatile culinary applications
 - nutritional benefits
-date: "2022-12-22T00:00:00Z"
+date: "22 December 2022"
 description: Chili without beans
 image: /assets/images/c92b3af5-5470-460b-b10d-0e3e5ea4640e.png
 nutrients:

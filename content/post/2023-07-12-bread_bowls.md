@@ -4,7 +4,7 @@ categories:
 - bread bowls
 - cooking
 - nutrition
-date: "2023-07-12T00:00:00Z"
+date: "12 July 2023"
 description: Bread bowls
 image: /assets/images/a7586bca-f89f-43c6-97d7-964fbe650a4e.png
 nutrients:

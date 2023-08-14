@@ -6,7 +6,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-08-28T00:00:00Z"
+date: "28 August 2022"
 description: Beef shank
 image: /assets/images/b70a8806-eac4-46b6-9d6c-cd46618bbaf3.png
 nutrients:

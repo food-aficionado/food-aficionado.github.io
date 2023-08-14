@@ -4,7 +4,7 @@ categories:
 - clarified butter
 - culinary uses
 - nutritional value
-date: "2023-01-03T00:00:00Z"
+date: "3 January 2023"
 description: Clarified butter
 image: /assets/images/359fefc6-3af4-4597-aeb6-71e24f15fd1a.png
 nutrients:

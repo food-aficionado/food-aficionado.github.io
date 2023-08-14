@@ -4,7 +4,7 @@ categories:
 - cookie baking
 - food history
 - health benefits
-date: "2022-12-22T00:00:00Z"
+date: "22 December 2022"
 description: Marie biscuits
 image: /assets/images/12aca939-a022-4f1b-b148-96e019a01b0d.png
 nutrients:

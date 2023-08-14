@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-08-26T00:00:00Z"
+date: "26 August 2022"
 description: Process American Cheese is known for its smooth texture, mild flavor,
   melting ability, and ability to elevate dishes with its delightful creaminess and
   versatility.

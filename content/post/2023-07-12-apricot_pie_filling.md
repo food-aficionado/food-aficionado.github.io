@@ -4,7 +4,7 @@ categories:
 - cake fillings
 - culinary creations
 - history and facts
-date: "2023-07-12T00:00:00Z"
+date: "12 July 2023"
 description: Apricot cake filling offers a balance of sweetness and tartness, making
   it a great addition to various cakes and creating endless possibilities for sweet
   and savory culinary creations.

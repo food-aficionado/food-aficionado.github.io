@@ -4,7 +4,7 @@ categories:
 - relevant categories baking
 - white chocolate
 - culinary creations
-date: "2022-08-21T00:00:00Z"
+date: "21 August 2022"
 description: White chocolate chips
 image: /assets/images/f0136c51-950b-4646-9508-b81ecbed17bb.png
 nutrients:

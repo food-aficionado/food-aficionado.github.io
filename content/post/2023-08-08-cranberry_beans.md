@@ -4,7 +4,7 @@ categories:
 - cuisine
 - nutrition
 - history
-date: "2023-08-08T00:00:00Z"
+date: "8 August 2023"
 description: Cranberry beans
 image: /assets/images/19217544-5052-4bca-a9f3-34eb77a3a547.png
 nutrients:

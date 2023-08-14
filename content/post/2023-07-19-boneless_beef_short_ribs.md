@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2023-07-19T00:00:00Z"
+date: "19 July 2023"
 description: Boneless beef short ribs
 image: /assets/images/d0d5b449-5e85-4f55-9747-557fae4f5aae.png
 nutrients:

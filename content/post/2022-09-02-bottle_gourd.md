@@ -4,7 +4,7 @@ categories:
 - vegetables
 - nutrition
 - culinary uses
-date: "2022-09-02T00:00:00Z"
+date: "2 September 2022"
 description: Bottle gourd
 image: /assets/images/87d6e878-a4e4-4cf5-a999-bb778a09f50a.png
 nutrients:

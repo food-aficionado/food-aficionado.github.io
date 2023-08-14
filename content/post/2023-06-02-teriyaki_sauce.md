@@ -5,7 +5,7 @@ categories:
 - japanese cooking
 - grilling and broiling
 - nutritional value
-date: "2023-06-02T00:00:00Z"
+date: "2 June 2023"
 description: Teriyaki baste and glaze is a versatile sweet and savory Japanese cooking
   technique that can be used in a variety of dishes, adding irresistible flavor to
   grilled or broiled proteins, vegetables, and even dipping sauces and marinades.

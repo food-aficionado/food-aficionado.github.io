@@ -4,7 +4,7 @@ categories:
 - cooking
 - history
 - food culture
-date: "2022-08-19T00:00:00Z"
+date: "19 August 2022"
 description: Sesame seed burger bun
 image: /assets/images/a0ed2b2f-c056-42c0-b0e7-3b861851aa3a.png
 nutrients:

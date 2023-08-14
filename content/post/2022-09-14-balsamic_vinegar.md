@@ -4,7 +4,7 @@ categories:
 - food
 - health
 - culinary history
-date: "2022-09-14T00:00:00Z"
+date: "14 September 2022"
 description: Balsamic vinegar
 image: /assets/images/d9c705f5-a00d-475e-8d17-53b4674eaf17.png
 nutrients:

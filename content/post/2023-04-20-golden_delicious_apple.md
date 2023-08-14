@@ -4,7 +4,7 @@ categories:
 - fruits
 - cooking
 - nutrition
-date: "2023-04-20T00:00:00Z"
+date: "20 April 2023"
 description: Golden delicious apple
 image: /assets/images/22c1fe61-44b8-4cb3-a5c1-39ae3a8e8501.png
 nutrients:

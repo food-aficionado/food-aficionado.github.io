@@ -4,7 +4,7 @@ categories:
 - canned goods  pantry staples
 - cooking with navy beans
 - nutritional valle of legumes
-date: "2023-07-21T00:00:00Z"
+date: "21 July 2023"
 description: Canned navy beans
 image: /assets/images/dafbf4e3-47c5-412d-8cc1-f7bc76a5406c.png
 nutrients:

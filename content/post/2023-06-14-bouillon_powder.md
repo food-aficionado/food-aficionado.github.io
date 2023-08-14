@@ -4,7 +4,7 @@ categories:
 - cooking
 - pantry essentials
 - history
-date: "2023-06-14T00:00:00Z"
+date: "14 June 2023"
 description: Bouillon powder
 image: /assets/images/78aa6991-68d3-4190-bd03-d9dcbf3892f7.png
 nutrients:

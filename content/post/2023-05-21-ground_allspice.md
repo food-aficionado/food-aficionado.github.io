@@ -4,7 +4,7 @@ categories:
 - cooking
 - specialty spices
 - health benefits
-date: "2023-05-21T00:00:00Z"
+date: "21 May 2023"
 description: Ground allspice
 image: /assets/images/f3db6cf6-3721-4a3c-8559-fc866d2083bb.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - reducedfat and reducedsodium recipes
 - mushroom soup
-date: "2022-11-01T00:00:00Z"
+date: "1 November 2022"
 description: Reduced fat and reduced sodium cream of mushroom soup
 image: /assets/images/3e397a41-1f06-4615-bf50-06b5edefdd9b.png
 nutrients:

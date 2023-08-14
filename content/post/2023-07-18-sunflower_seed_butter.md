@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - plantbased diets
 - ancient history
-date: "2023-07-18T00:00:00Z"
+date: "18 July 2023"
 description: Sunflower seed butter
 image: /assets/images/854900ad-ca93-4256-80bc-fdaef3cda36d.png
 nutrients:

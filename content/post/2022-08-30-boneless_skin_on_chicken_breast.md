@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - history
-date: "2022-08-30T00:00:00Z"
+date: "30 August 2022"
 description: Boneless skin on chicken breast
 image: /assets/images/fc320e7c-810f-4de8-81f1-46621a9d8c48.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - chicken cooking
 - nutrition
 - history
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: Bone in skin on chicken breast
 image: /assets/images/87386c9c-a650-4371-9e50-678b728f648a.png
 nutrients:

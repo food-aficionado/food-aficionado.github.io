@@ -4,7 +4,7 @@ categories:
 - cheese
 - cooking
 - italian cuisine
-date: "2023-05-04T00:00:00Z"
+date: "4 May 2023"
 description: Bocconcini
 image: /assets/images/4dc450ee-a528-41ce-a59c-b5b890619710.png
 nutrients:

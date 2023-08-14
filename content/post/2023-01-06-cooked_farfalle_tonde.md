@@ -4,7 +4,7 @@ categories:
 - pasta
 - saucy pastas
 - pasta salads
-date: "2023-01-06T00:00:00Z"
+date: "6 January 2023"
 description: Cooked farfalle tonde
 image: /assets/images/31656a3a-2178-48e3-88a2-dbd43d55cb13.png
 nutrients:

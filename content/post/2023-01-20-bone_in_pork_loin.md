@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - uses of bonein pork loin roast
-date: "2023-01-20T00:00:00Z"
+date: "20 January 2023"
 description: Bone in pork loin
 image: /assets/images/c5a2dac6-fdf6-4393-85e2-563ea32d1ba8.png
 nutrients:

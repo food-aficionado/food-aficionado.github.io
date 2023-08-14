@@ -4,7 +4,7 @@ categories:
 - nutrition
 - glutenfree options
 - historical significance
-date: "2023-04-20T00:00:00Z"
+date: "20 April 2023"
 description: Buckwheat
 image: /assets/images/25f0760c-fbfe-4cc4-84a3-ddc524df0f02.png
 nutrients:

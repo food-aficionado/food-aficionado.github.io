@@ -4,7 +4,7 @@ categories:
 - nutrition
 - health benefits
 - culinary uses
-date: "2023-07-05T00:00:00Z"
+date: "5 July 2023"
 description: The cashew nut fruit is a delectable and versatile tropical fruit packed
   with essential vitamins, minerals, and dietary fiber, and it offers numerous culinary
   applications ranging from fresh snacks to jams and chutneys.

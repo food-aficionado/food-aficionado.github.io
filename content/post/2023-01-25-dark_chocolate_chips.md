@@ -4,7 +4,7 @@ categories:
 - chocolate
 - cooking
 - baking
-date: "2023-01-25T00:00:00Z"
+date: "25 January 2023"
 description: Dark chocolate chips
 image: /assets/images/0297e29b-177a-4467-ad6d-94aa98116f81.png
 nutrients:

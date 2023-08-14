@@ -4,7 +4,7 @@ categories:
 - culinary
 - nutrition
 - history
-date: "2022-11-02T00:00:00Z"
+date: "2 November 2022"
 description: White beans
 image: /assets/images/6e2fd982-ecf1-489b-a226-46e9b282cbff.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - mexican cuisine
 - filipino cuisine
 - adobo sauce
-date: "2023-01-21T00:00:00Z"
+date: "21 January 2023"
 description: Adobo sauce is a fiery and flavorful delight that is a staple in Mexican
   and Filipino cuisines, offering a delicious blend of tangy, smoky, and spicy flavors.
 image: /assets/images/79e2a1df-3645-4061-814d-5e18dc2d059a.png

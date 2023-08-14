@@ -4,7 +4,7 @@ categories:
 - glutenfree diet
 - baking
 - nutrition
-date: "2023-05-06T00:00:00Z"
+date: "6 May 2023"
 description: Gluten free vanilla sandwich cookies
 image: /assets/images/c67cf4f5-27a8-4bee-a0af-913d329570c7.png
 nutrients:

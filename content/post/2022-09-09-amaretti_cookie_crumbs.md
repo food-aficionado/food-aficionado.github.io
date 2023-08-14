@@ -4,7 +4,7 @@ categories:
 - culinary
 - dessert topping
 - beverage rimming
-date: "2022-09-09T00:00:00Z"
+date: "9 September 2022"
 description: Enjoy the delightful aroma and irresistible flavor of amaretto cookie
   crumbs to take your culinary creations to new heights.
 image: /assets/images/d4778a0f-f8fc-4a52-a402-fc9049bb050b.png

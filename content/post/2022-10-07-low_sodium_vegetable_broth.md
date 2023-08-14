@@ -4,7 +4,7 @@ categories:
 - healthy cooking
 - nutrition
 - interesting facts
-date: "2022-10-07T00:00:00Z"
+date: "7 October 2022"
 description: Low sodium vegetable broth
 image: /assets/images/40265a8f-b2dd-4501-8c00-959cee238bd9.png
 nutrients:

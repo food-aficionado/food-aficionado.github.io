@@ -4,7 +4,7 @@ categories:
 - cooking
 - herbsspices
 - history
-date: "2022-09-11T00:00:00Z"
+date: "11 September 2022"
 description: Bouquet garni
 image: /assets/images/99064648-24f7-49a5-bb52-f711a5605859.png
 nutrients:

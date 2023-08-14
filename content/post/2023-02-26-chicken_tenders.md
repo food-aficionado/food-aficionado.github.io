@@ -4,7 +4,7 @@ categories:
 - chicken recipes
 - finger foods
 - nutrition
-date: "2023-02-26T00:00:00Z"
+date: "26 February 2023"
 description: Chicken tenders
 image: /assets/images/389ab678-9a23-447f-9c64-5fbfabc9faf2.png
 nutrients:

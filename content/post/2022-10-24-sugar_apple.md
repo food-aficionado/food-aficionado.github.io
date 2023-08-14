@@ -4,7 +4,7 @@ categories:
 - tropical fruits
 - nutrition
 - culinary use
-date: "2022-10-24T00:00:00Z"
+date: "24 October 2022"
 description: Exploring the sugar apple is a journey of discovering its distinct appearance,
   exotic flavor, culinary creations, nutritional value, and historical significance.
 image: /assets/images/ca9c90c9-91ab-47a1-ab04-e86e7abf9266.png

@@ -4,7 +4,7 @@ categories:
 - culinary
 - flavor combinations
 - history
-date: "2023-03-15T00:00:00Z"
+date: "15 March 2023"
 description: Flavored butter
 image: /assets/images/506d913c-55d7-41b3-a7da-6c1c21475938.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - cooking
 - poultry
 - nutrition
-date: "2023-01-01T00:00:00Z"
+date: "1 January 2023"
 description: Bone in skin on chicken thighs
 image: /assets/images/364b9325-c70d-4571-bb4a-c57ef81e018d.png
 nutrients:

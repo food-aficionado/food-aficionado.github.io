@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - vegetarianism
 - plantbased nutrition
-date: "2023-07-13T00:00:00Z"
+date: "13 July 2023"
 description: Alfalfa sprouts are an incredibly versatile and nutritious food that
   can be enjoyed in many dishes and as a garnish, providing flavor, texture, and a
   variety of health benefits.

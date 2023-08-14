@@ -4,7 +4,7 @@ categories:
 - whole grains
 - cooking
 - nutritional benefits
-date: "2022-10-24T00:00:00Z"
+date: "24 October 2022"
 description: Cooked wheatberries
 image: /assets/images/7c4ac750-1ed3-4cd5-9b2c-88d7b7a46c7e.png
 nutrients:

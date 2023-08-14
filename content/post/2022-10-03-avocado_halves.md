@@ -4,7 +4,7 @@ categories:
 - avocado
 - nutrition
 - recipes
-date: "2022-10-03T00:00:00Z"
+date: "3 October 2022"
 description: Avocado halves have a unique, nutty flavor, a buttery texture, and a
   nutritional value that make them a delightful and versatile ingredient in a variety
   of recipes.

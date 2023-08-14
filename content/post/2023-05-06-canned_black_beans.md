@@ -4,7 +4,7 @@ categories:
 - canned black beans
 - cooking
 - nutrition
-date: "2023-05-06T00:00:00Z"
+date: "6 May 2023"
 description: Canned black beans
 image: /assets/images/35ada8f5-6dec-4f2f-926f-d6fc10ce2186.png
 nutrients:

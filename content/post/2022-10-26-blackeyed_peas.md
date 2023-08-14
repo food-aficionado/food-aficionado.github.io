@@ -4,7 +4,7 @@ categories:
 - legumes
 - nutrition
 - southern cuisine
-date: "2022-10-26T00:00:00Z"
+date: "26 October 2022"
 description: Blackeyed peas
 image: /assets/images/15f84277-6be4-4498-9b62-e07eca0b5311.png
 nutrients:

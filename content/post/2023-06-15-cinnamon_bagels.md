@@ -4,7 +4,7 @@ categories:
 - categories breakfast recipes
 - cinnamon
 - nutrition
-date: "2023-06-15T00:00:00Z"
+date: "15 June 2023"
 description: Cinnamon bagels
 image: /assets/images/a85519dd-9fae-40ab-80db-67bf9a2fac9a.png
 nutrients:

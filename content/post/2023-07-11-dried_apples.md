@@ -4,7 +4,7 @@ categories:
 - snack foods
 - health
 - culinary history
-date: "2023-07-11T00:00:00Z"
+date: "11 July 2023"
 description: Dried apples are a tasty, nutrient-packed snack with many culinary uses,
   a history of being used as a staple food item, and valuable nutrition benefits.
 image: /assets/images/baa050ca-d36e-4bf1-b0ad-b44a2d9670a9.png

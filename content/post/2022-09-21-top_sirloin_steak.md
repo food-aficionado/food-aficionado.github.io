@@ -4,7 +4,7 @@ categories:
 - beef
 - cooking
 - nutrition
-date: "2022-09-21T00:00:00Z"
+date: "21 September 2022"
 description: Top sirloin steak
 image: /assets/images/c40ec2af-d284-4d20-8e9d-5686ed68aa10.png
 nutrients:

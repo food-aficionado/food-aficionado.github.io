@@ -4,7 +4,7 @@ categories:
 - grilling
 - spices  seasonings
 - food history
-date: "2023-07-09T00:00:00Z"
+date: "9 July 2023"
 description: Montreal steak seasoning
 image: /assets/images/12ce67ca-b079-4ed3-88c2-0d513fe5ce6a.png
 nutrients:

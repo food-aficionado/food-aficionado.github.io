@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - beans
 - nutrition
-date: "2023-07-31T00:00:00Z"
+date: "31 July 2023"
 description: Runner beans
 image: /assets/images/3a18808c-470e-4c15-b3fe-9da62f16f2c3.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - culinary staple
 - french loaves
 - nutritional value
-date: "2023-05-23T00:00:00Z"
+date: "23 May 2023"
 description: French bread
 image: /assets/images/1ff5e0bd-c44d-45ce-ab00-f14cab1569f1.png
 nutrients:

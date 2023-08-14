@@ -4,7 +4,7 @@ categories:
 - spanish cuisine
 - culinary adventures
 - rich history
-date: "2022-11-03T00:00:00Z"
+date: "3 November 2022"
 description: Spanish chorizo
 image: /assets/images/6688f5bd-083e-42df-b79e-073cf92ef066.png
 nutrients:

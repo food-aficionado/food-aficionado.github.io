@@ -4,7 +4,7 @@ categories:
 - canned beans
 - cooking
 - nutrition
-date: "2022-08-23T00:00:00Z"
+date: "23 August 2022"
 description: Canned beans
 image: /assets/images/0d490b1a-49fa-42c6-a9aa-9cb1b689708d.png
 nutrients:

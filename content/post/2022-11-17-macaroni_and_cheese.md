@@ -4,7 +4,7 @@ categories:
 - comfort food
 - culinary
 - nutrition
-date: "2022-11-17T00:00:00Z"
+date: "17 November 2022"
 description: Macaroni and cheese is a timeless dish that has been enjoyed for centuries,
   offering creamy, cheesy goodness that is a beloved favorite for all ages.
 image: /assets/images/5b8f3055-bd58-4083-b8b7-82e493bf1be8.png

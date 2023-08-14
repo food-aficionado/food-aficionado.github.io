@@ -4,7 +4,7 @@ categories:
 - soft drinks
 - diet
 - culinary applications
-date: "2022-10-20T00:00:00Z"
+date: "20 October 2022"
 description: Diet root beer
 image: /assets/images/4a566d7f-2f79-4eda-9abf-19104eb06181.png
 nutrients:

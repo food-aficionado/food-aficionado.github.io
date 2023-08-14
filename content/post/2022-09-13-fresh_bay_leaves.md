@@ -4,7 +4,7 @@ categories:
 - herbs
 - culinary history
 - nutritional benefits
-date: "2022-09-13T00:00:00Z"
+date: "13 September 2022"
 description: Fresh bay leaves
 image: /assets/images/0edfee91-cde2-4104-b53a-46076b03e03b.png
 nutrients:

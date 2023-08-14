@@ -4,7 +4,7 @@ categories:
 - cooking
 - health  nutrition
 - interesting facts
-date: "2022-09-21T00:00:00Z"
+date: "21 September 2022"
 description: Chicken breast halves
 image: /assets/images/1bba6074-c84a-4fa1-92ea-657119f10d01.png
 nutrients:

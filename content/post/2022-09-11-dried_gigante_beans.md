@@ -4,7 +4,7 @@ categories:
 - legumes
 - mediterranean cuisine
 - latin american cuisine
-date: "2022-09-11T00:00:00Z"
+date: "11 September 2022"
 description: Dried gigante beans
 image: /assets/images/4f32e38a-5291-4c07-b27e-c48be06a6e5c.png
 nutrients:

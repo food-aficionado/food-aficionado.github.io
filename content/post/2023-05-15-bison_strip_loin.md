@@ -4,7 +4,7 @@ categories:
 - buffalo strip loin
 - cookery
 - nutrition
-date: "2023-05-15T00:00:00Z"
+date: "15 May 2023"
 description: Bison strip loin
 image: /assets/images/566a4f69-0ef5-4052-b00a-8e5f83835daa.png
 nutrients:

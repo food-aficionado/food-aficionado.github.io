@@ -4,7 +4,7 @@ categories:
 - culinary coversation
 - uses in cooking
 - nutritional value
-date: "2022-09-30T00:00:00Z"
+date: "30 September 2022"
 description: Wild boar shank
 image: /assets/images/174c889f-f089-4108-a88d-8d052eba66fb.png
 nutrients:

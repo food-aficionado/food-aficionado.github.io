@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cookery
 - sugarfree cooking
-date: "2023-01-13T00:00:00Z"
+date: "13 January 2023"
 description: Sugar free grape jelly
 image: /assets/images/d8ac1075-1373-46e2-a3f4-4de7da6909a2.png
 nutrients:

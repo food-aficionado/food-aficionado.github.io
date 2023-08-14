@@ -4,7 +4,7 @@ categories:
 - healthy eating
 - cooking ideas
 - cultural history
-date: "2023-07-09T00:00:00Z"
+date: "9 July 2023"
 description: Boneless skinless turkey breast
 image: /assets/images/223502bb-9a98-47db-ac95-33c26fcd89df.png
 nutrients:

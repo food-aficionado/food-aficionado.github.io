@@ -4,7 +4,7 @@ categories:
 - culinary uses of spices
 - nutritional benefits of spices
 - history of spices
-date: "2022-08-18T00:00:00Z"
+date: "18 August 2022"
 description: Cumin seeds
 image: /assets/images/a87cc410-b365-4f9c-9d4f-65bed708b393.png
 nutrients:

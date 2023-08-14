@@ -4,7 +4,7 @@ categories:
 - breakfast recipes
 - history
 - health  nutrition
-date: "2023-02-16T00:00:00Z"
+date: "16 February 2023"
 description: Hash browns
 image: /assets/images/983d023f-356d-446c-a376-4a143ded97c9.png
 nutrients:

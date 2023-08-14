@@ -4,7 +4,7 @@ categories:
 - rice
 - cooking
 - nutrition
-date: "2023-02-09T00:00:00Z"
+date: "9 February 2023"
 description: Rice for risotto is a versatile and delicious grain that can be used
   to create many creamy, flavorful dishes.
 image: /assets/images/f4141a5a-1bd6-4f14-99ab-17a370759863.png

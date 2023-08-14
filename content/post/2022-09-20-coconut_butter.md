@@ -4,7 +4,7 @@ categories:
 - culinary
 - food
 - nutrition
-date: "2022-09-20T00:00:00Z"
+date: "20 September 2022"
 description: Coconut butter
 image: /assets/images/0e0070bc-5f9a-4f8f-a1d0-9cb019e87079.png
 nutrients:

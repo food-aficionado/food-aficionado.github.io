@@ -4,7 +4,7 @@ categories:
 - cooking
 - nutrition
 - health benefits
-date: "2023-01-29T00:00:00Z"
+date: "29 January 2023"
 description: Collagen powder
 image: /assets/images/de13b119-91d0-4cdf-a83d-b325765e738d.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - exotic vegetables
 - culinary experience
 - nutritional benefits
-date: "2023-07-15T00:00:00Z"
+date: "15 July 2023"
 description: Yardlong beans
 image: /assets/images/558eec24-b530-4ed8-b314-bd040c76529b.png
 nutrients:

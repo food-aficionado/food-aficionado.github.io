@@ -4,7 +4,7 @@ categories:
 - fruits
 - healthy eating
 - cooking
-date: "2023-03-21T00:00:00Z"
+date: "21 March 2023"
 description: Mixed berries
 image: /assets/images/0500b497-fd29-434d-a0dc-d5a077de7071.png
 nutrients:

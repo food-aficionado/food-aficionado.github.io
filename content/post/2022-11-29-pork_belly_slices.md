@@ -4,7 +4,7 @@ categories:
 - pork belly slice
 - culinary delight
 - nutritional value
-date: "2022-11-29T00:00:00Z"
+date: "29 November 2022"
 description: Pork belly slices
 image: /assets/images/83fbc6f7-4e1b-4f4c-ad0c-5e094a982bc0.png
 nutrients:

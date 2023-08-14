@@ -4,7 +4,7 @@ categories:
 - traditional cuisine
 - nutritional value
 - culinary versatility
-date: "2023-05-14T00:00:00Z"
+date: "14 May 2023"
 description: Boiled ham
 image: /assets/images/d6e599d7-8066-4227-b800-3e33c8e2f77e.png
 nutrients:

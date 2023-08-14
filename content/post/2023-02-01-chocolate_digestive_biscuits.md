@@ -4,7 +4,7 @@ categories:
 - sweets
 - cooking
 - nutrition
-date: "2023-02-01T00:00:00Z"
+date: "1 February 2023"
 description: Chocolate digestive biscuits
 image: /assets/images/c1273495-56a9-4760-9b48-093a52f75fb5.png
 nutrients:

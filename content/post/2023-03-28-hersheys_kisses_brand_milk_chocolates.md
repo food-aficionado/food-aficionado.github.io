@@ -4,7 +4,7 @@ categories:
 - food
 - sweetsdesserts
 - recipes
-date: "2023-03-28T00:00:00Z"
+date: "28 March 2023"
 description: Hersheys kisses brand milk chocolates
 image: /assets/images/c316b60c-0e5d-4ddd-b5c0-afb0066a7544.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - recipes
 - healthy eating
 - culinary history
-date: "2022-11-25T00:00:00Z"
+date: "25 November 2022"
 description: Balsamic vinaigrette
 image: /assets/images/9dfa477b-5a48-4e40-9bbe-bc2d380c21ee.png
 nutrients:

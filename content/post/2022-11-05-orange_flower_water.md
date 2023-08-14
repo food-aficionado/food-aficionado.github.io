@@ -4,7 +4,7 @@ categories:
 - aromatics
 - cooking
 - middle eastern cuisine
-date: "2022-11-05T00:00:00Z"
+date: "5 November 2022"
 description: Orange flower water
 image: /assets/images/b8672b3f-92f1-4519-bbc3-a5661156147d.png
 nutrients:

@@ -4,7 +4,7 @@ categories:
 - candy coating
 - cooking
 - nutrition
-date: "2023-06-04T00:00:00Z"
+date: "4 June 2023"
 description: Candy coating is a sweet and delectable confectionery technique that
   has fascinating origins, limitless uses in the kitchen, and is best enjoyed as an
   occasional indulgence.

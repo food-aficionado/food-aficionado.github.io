@@ -4,7 +4,7 @@ categories:
 - canned broad beans
 - nutrition
 - cooking
-date: "2022-10-25T00:00:00Z"
+date: "25 October 2022"
 description: Canned fava beans
 image: /assets/images/8839c9a8-66d6-4e93-abce-edfbdfaf6bfa.png
 nutrients:

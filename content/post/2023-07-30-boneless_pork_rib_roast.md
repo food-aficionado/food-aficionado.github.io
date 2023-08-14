@@ -4,7 +4,7 @@ categories:
 - pork
 - cooking methods
 - nutritional value
-date: "2023-07-30T00:00:00Z"
+date: "30 July 2023"
 description: Boneless pork rib roast
 image: /assets/images/6cd5cac8-4e34-4dab-b812-bddca9a1caf5.png
 nutrients:

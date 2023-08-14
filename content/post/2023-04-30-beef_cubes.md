@@ -4,7 +4,7 @@ categories:
 - beef cubes
 - cooking
 - nutrition
-date: "2023-04-30T00:00:00Z"
+date: "30 April 2023"
 description: Beef cubes
 image: /assets/images/9e0ff4c3-acef-4e1d-b99a-d3b522f45e46.png
 nutrients:

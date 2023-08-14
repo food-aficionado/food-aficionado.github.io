@@ -4,7 +4,7 @@ categories:
 - italian cuisine
 - stuffed pasta
 - agnolotti
-date: "2023-03-03T00:00:00Z"
+date: "3 March 2023"
 description: Agnolotti pasta is an Italian delicacy with a fascinating history, delicate
   texture, and rich, indulgent flavor that can be enjoyed in a variety of creative
   preparations from light and fresh to comforting and indulgent.

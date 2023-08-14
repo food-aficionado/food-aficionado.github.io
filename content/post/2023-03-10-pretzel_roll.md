@@ -4,7 +4,7 @@ categories:
 - taste of pretzel buns
 - cooking with pretzel buns
 - nutritional value of pretzel buns
-date: "2023-03-10T00:00:00Z"
+date: "10 March 2023"
 description: Pretzel roll
 image: /assets/images/37af567e-0b24-4dde-a11d-65c1d61cf388.png
 nutrients:
