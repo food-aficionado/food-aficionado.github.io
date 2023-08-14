@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+# googleAnalytics = "G-TD8MNWYPXE"
 enableRobotsTXT = true
 enableGitInfo = false
 Paginate = 10
