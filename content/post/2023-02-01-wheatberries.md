@@ -252,7 +252,7 @@ Wheat berries have been a staple food in various cultures for thousands of years
 - Wheat played a crucial role in the Roman Empire's economy and was considered a staple food for soldiers and citizens alike.
 - Today, wheat is one of the most widely cultivated cereal grains globally, with various species and varieties suited to different climates and culinary applications.
 
-## In Conclusion
+
 
 Wheat berries are a delicious and nutritious ingredient that adds a satisfying texture and a robust flavor to a wide array of dishes. Whether you enjoy them in salads, grain bowls, or hearty soups, their versatility and health benefits make them an excellent addition to any diet. So, why not introduce this ancient grain to your kitchen and explore the endless culinary possibilities that wheat berries have to offer?
 

@@ -233,7 +233,7 @@ Avocado leaves have a rich history in Indigenous cultures, where they were not o
 
 It's worth noting that not all avocado varieties produce edible leaves. The most common variety used for culinary purposes is the Mexican avocado (Persea americana var. drymifolia). These leaves have a dark, glossy appearance and are readily available in Mexican markets and some specialty grocers.
 
-## In Conclusion
+
 Avocado leaves might not be the first thing that comes to mind when you think of cooking with avocados, but they bring a distinctive flavor and aroma to a wide range of dishes. Their subtle anise-mint taste and licorice-like aroma contribute to a truly unique culinary experience. Whether you're making a hearty soup or grilling some meat, avocado leaves can be your secret ingredient to elevate the flavors.
 
 Next time you come across these incredible leaves, don't hesitate to experiment and discover the wonders they can bring to your cooking. Happy culinary adventures!

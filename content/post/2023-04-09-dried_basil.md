@@ -257,7 +257,7 @@ Basil has an intriguing history that spans centuries and cultures. Its origins c
 
 In addition to its historical importance, basil holds cultural significance in various cuisines. It's a staple in Italian cooking, where it plays a vital role in the classic Caprese salad and pesto sauce. Moreover, Thai cuisine masters the art of balancing flavors, often incorporating fresh or dried basil leaves in dishes like Pad Gaprao (Thai Basil Chicken) or Tom Yum soup.
 
-## In Conclusion
+
 
 Dried basil leaves are a pantry staple that unlocks a world of culinary possibilities. Their concentrated flavor profile, versatility in cooking, and nutritional benefits make them an essential ingredient in any well-stocked kitchen. From enhancing soups to enlivening pasta sauces, these dried leaves effortlessly elevate dishes with a touch of aromatic magic. So, go ahead and sprinkle some dried basil leaves into your culinary creations, and let its enchantment unravel in every bite!
 

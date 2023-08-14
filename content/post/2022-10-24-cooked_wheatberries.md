@@ -260,7 +260,7 @@ Wheat has been cultivated for thousands of years and has played a significant ro
 
 - Did you know? It takes about 17 pounds of wheat to make a single loaf of bread!
 
-## In conclusion
+
 
 Cooked wheat berries are a delightful whole grain option that can enhance the taste and nutritional value of various dishes. From salads to soups and baked goods, their versatility knows no bounds. With their nutty flavor, pleasing texture, and impressive nutritional profile, cooked wheat berries are a healthy and satisfying addition to any meal. So why not give them a try and embark on a culinary adventure with this ancient grain? Your taste buds and your body will thank you!
 

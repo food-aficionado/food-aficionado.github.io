@@ -219,7 +219,7 @@ Moving beyond its culinary merits, Striped Bass holds an interesting place in hi
 
 In fact, Striped Bass has a fascinating past as it was almost driven to extinction due to overfishing in the early 1980s. However, with the implementation of regulations and conservation efforts, its population rebounded significantly. Today, sustainable fishing practices help ensure its availability while protecting the species in the wild.
 
-## In Conclusion
+
 
 Striped Bass deserves a prime spot on every seafood enthusiast's plate. From its delicate flavor to its culinary versatility and nutritional benefits, this fish continues to captivate the taste buds of those who appreciate the wonders of the sea.
 

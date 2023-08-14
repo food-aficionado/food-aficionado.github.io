@@ -256,7 +256,7 @@ Ryeberries have a fascinating history that dates back thousands of years. Here a
 - Rye was one of the primary grains cultivated during the Middle Ages in Europe, especially in colder climates where other grains struggled to grow.
 - Historical records show that rye was a staple food in many cultures, particularly in Eastern and Northern Europe, where it played a significant role in traditional cuisine.
 
-## In Conclusion
+
 
 With their delightful taste, versatility, and impressive nutritional profile, ryeberries are a grain worth exploring. From salads to soups, breakfast bowls to bread, these wholesome kernels bring heartiness and robust flavor to any dish. Whether you're a seasoned home cook or an aspiring chef, adding ryeberries to your culinary repertoire will surely elevate your creations and open doors to a world of culinary possibilities.
 

@@ -245,7 +245,7 @@ Kidney beans are believed to have originated in Central and South America, where
 
 Interestingly, the name "kidney bean" is derived from its resemblance to the human kidney in shape and color. This fascinating connection has led to kidney beans being associated with promoting kidney health, but it's important to note that more research is needed to establish any direct correlation.
 
-## In Conclusion
+
 
 Kidney beans are not only a versatile ingredient that enhances the flavor and texture of various dishes, but they also boast an impressive nutritional profile. Incorporating kidney beans into your meals is an excellent way to increase your intake of protein, fiber, and essential vitamins and minerals.
 

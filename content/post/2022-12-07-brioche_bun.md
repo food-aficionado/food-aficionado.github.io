@@ -245,7 +245,7 @@ Legend has it that Queen Marie Antoinette, the infamous wife of Louis XVI, utter
 - Traditional brioche dough requires an extended resting period, allowing the gluten to develop and the flavors to deepen.
 - Brioche is often shaped into various forms, including the iconic "tête" and "nanterre." These shapes not only add visual appeal but also serve as a guide for portion size.
 
-## In Conclusion
+
 
 Brioche buns embody the perfect combination of luxury and simplicity. Their delightful taste and versatility make them an essential ingredient in both sweet and savory recipes. Whether you're enjoying a gourmet burger or a decadent bread pudding, brioche buns never fail to add a touch of indulgence to any dish. So go ahead, treat yourself to a batch of these golden creations, and let your taste buds revel in their glorious richness!
 

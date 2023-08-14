@@ -220,7 +220,7 @@ Lima beans, also known as butter beans, have a long and interesting history. The
 
 Interestingly, their name "lima" comes from Lima, the capital city of Peru, where they were initially discovered by European explorers. Today, lima beans are grown worldwide, with different varieties and preparations found in various cuisines.
 
-## In Conclusion
+
 
 Canned lima beans are a versatile and nutritious ingredient that deserves a place in your culinary repertoire. Their mild taste, creamy texture, and numerous health benefits make them a valuable addition to any dish. From hearty soups to nutrient-packed salads, these beans can elevate your meals in exciting and tasty ways. So, why not open a can of lima beans today and embark on a delicious culinary adventure? Your taste buds and your body will thank you!
 

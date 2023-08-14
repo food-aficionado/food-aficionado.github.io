@@ -251,7 +251,7 @@ Believed to have originated in the highlands of Central and South America, coron
 
 Later, corona beans made their way across continents during the European colonization of the Americas. They gained popularity in Italian cuisine, where they were referred to as "cannellini" due to their resemblance to small tubes ("cannella" translating to "little tube" in Italian). Today, these beans continue to be enjoyed worldwide, cherished for their versatility and delightful taste.
 
-## In Conclusion
+
 
 Dried corona beans are a culinary treasure, bringing richness, flavor, and nutrition to a variety of dishes. Their creamy texture, mild yet distinctive taste, and adaptability make them a fantastic addition to your pantry. Whether you're enjoying a hearty soup, refreshing salad, or satisfying dip, corona beans will elevate your culinary creations to new heights. So go ahead and embark on a flavorful adventure with these delightful beans – your taste buds will thank you!
 

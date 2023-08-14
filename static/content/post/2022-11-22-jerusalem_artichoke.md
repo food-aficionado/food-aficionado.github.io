@@ -234,7 +234,7 @@ While it is not entirely clear how the name Jerusalem artichoke came to be, some
 
 Jerusalem artichokes were introduced to Europe in the 17th century and became popular due to their ease of cultivation. They were especially cherished in France, where they were considered a delicacy fit for royal tables. During World War II, these wonder tubers gained popularity once again, as they provided a reliable food source in times of scarcity.
 
-## In Conclusion
+
 
 Jerusalem artichokes, with their unique taste and culinary versatility, are undoubtedly a hidden gem in the world of cooking. Whether enjoyed raw, roasted, sautéed, or pureed, they offer a delightful and nutritious addition to a wide range of recipes. So, why not embark on a culinary adventure and explore the flavors of this intriguing root vegetable? Your taste buds will thank you!
 

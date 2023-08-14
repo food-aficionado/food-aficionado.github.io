@@ -251,7 +251,7 @@ In addition to their culinary benefits, beet leaves offer an array of nutrients 
 
 The beet plant, including its leaves and roots, has been cultivated for centuries and holds historical significance in various cultures. Ancient Romans, for instance, highly valued beet leaves for their therapeutic properties. They were used to treat ailments and were reportedly effective in aiding digestion and purifying the blood. Over time, beet leaves became widely appreciated for their culinary value, expanding their presence in kitchens around the world.
 
-## In Conclusion
+
 
 Don't let beet leaves go unnoticed! Their delicate flavor, versatility, and impressive health benefits make them a worthy addition to your culinary repertoire. Whether you're sautéing them as a simple side dish or blending them into a nutrient-packed juice, beet leaves are sure to enhance your meals and introduce a touch of nourishment and vibrancy. So, next time you buy beets, make sure to savor every part of the plant, from root to leaf.
 

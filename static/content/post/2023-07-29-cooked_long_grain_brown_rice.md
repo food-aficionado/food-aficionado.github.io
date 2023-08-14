@@ -241,7 +241,7 @@ To prepare delicious long-grain brown rice, start by rinsing it under cold water
 
 If you're looking for an effortless and time-saving alternative, consider using an Instant Pot. Simply add the rinsed long-grain brown rice and water to the pot, set it to manual mode, and cook for around 22-25 minutes. Allow the pressure to release naturally for approximately 10 minutes before opening the lid. Voila! Perfectly cooked long-grain brown rice in a fraction of the time.
 
-## In Conclusion
+
 
 Long-grain brown rice is a culinary gem, offering a delightful nutty taste, incredible versatility, and a plethora of health benefits. Whether you're aiming to create aromatic pilafs, vibrant rice salads, or wholesome one-pot meals, this grain is a reliable companion in the kitchen. So, head to your pantry, grab a bag of long-grain brown rice, and embark on a flavorful culinary adventure. Your taste buds and body will thank you!
 

@@ -259,7 +259,7 @@ Collards have a storied history dating back thousands of years. They are believe
 
 In fact, collards are the official state vegetable of South Carolina, honoring their cultural importance within the region. They have also been recognized by various health organizations for their exceptional nutritional benefits.
 
-## In Conclusion
+
 
 While collards may not always steal the spotlight, they deserve a place on your plate due to their robust flavor, versatility in cooking, and impressive nutritional profile. So, next time you're at the market, don't overlook these leafy greens. Whether you sauté them, wrap them, or turn them into chips, collards are a delicious and healthy addition to any meal.
 

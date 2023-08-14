@@ -209,7 +209,7 @@ The history of rice for risotto takes us back to the lush green hills of norther
 
 Traditionally, short-grain Arborio rice is the most popular choice for risotto. However, other rice varieties like Carnaroli or Vialone Nano are also used, each offering its own unique qualities and characteristics. These varieties, with their ability to release starch and create that creamy texture, have become synonymous with the rich and indulgent nature of risotto.
 
-## In Conclusion
+
 
 Rice for risotto is an essential ingredient that adds a touch of sophistication and elegance to any dish. Its smooth and creamy texture, delicate flavor, and ability to absorb flavors make it a go-to option for creating indulgent risotto recipes. Whether you're a seasoned cook or an adventurous home chef, exploring the world of rice for risotto opens up a world of culinary possibilities. So grab your favorite ingredients, a wooden spoon, and embrace the joy of cooking with this delightful rice variety!
 
