@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 # googleAnalytics = "G-TD8MNWYPXE"
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableGitInfo = false
 Paginate = 10
 
